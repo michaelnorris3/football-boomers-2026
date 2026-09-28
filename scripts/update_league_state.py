@@ -118,7 +118,7 @@ def check_schedule(root: Path) -> list[str]:
     with (root / "league" / "league_schedule.csv").open(encoding="utf-8", newline="") as handle:
         rows = list(csv.DictReader(handle))
     for row in rows:
-        if row["status"] == "final" and (not row["home_score"] or not row["away_score"]):
+        if row["status"] == "final" and (not row["team_1_score"] or not row["team_2_score"]):
             errors.append(f"final matchup missing score: {row['matchup_id']}")
     return errors
 

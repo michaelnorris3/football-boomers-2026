@@ -1,5 +1,5 @@
-week,matchup_id,home_team_name,away_team_name,home_score,away_score,status,source,notes
-"1","W1-01","boomers.","The Branch Covidians","110.46","143.20","final","User initialization data","boomers. won"
+week,matchup_id,team_1_name,team_2_name,team_1_score,team_2_score,status,source,notes
+"1","W1-01","boomers.","The Branch Covidians","143.20","110.46","final","User initialization data","boomers. won"
 "1","W1-02","Lamar can't hurt me","Long Live the King","183.72","134.86","final","User initialization data","Lamar can't hurt me won"
 "1","W1-03","Cazzata Malanga","Kars4Gibbs","144.62","122.02","final","User initialization data","Cazzata Malanga won; source used Kars4Kids before confirmed rename"
 "1","W1-04","Barcelona Pickpockets","The Team Who Would Be Champs","170.56","126.96","final","User initialization data","Barcelona Pickpockets won"
