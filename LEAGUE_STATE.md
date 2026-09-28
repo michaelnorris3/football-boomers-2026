@@ -1,39 +1,41 @@
 # League State
 
-## Purpose
+## Purpose and source of truth
 
-This repository is the durable source of truth for the 2026 fantasy-football league. League state is maintained as a combination of:
+This repository is the persistent source of truth for the 2026 10-team PPR fantasy-football league.
 
-1. The append-only transaction ledger in `league/TRANSACTION_LOG.md`.
-2. Authoritative roster snapshots in `rosters/`.
-3. Derived indexes and current-state documents in `league/`.
+- `league/TRANSACTION_LOG.md` is an append-only chronological ledger. Historical rows are never deleted or rewritten.
+- `rosters/` contains the latest confirmed authoritative roster snapshot for each team.
+- `league/MASTER_ROSTER_INDEX.md` is the current ownership index derived from the latest confirmed state and reconciled against roster snapshots.
+- `league/WAIVER_ORDER.md` is the current rolling waiver priority.
+- `league/league_schedule.csv` contains only supplied results and known schedule entries.
+- Missing data remains blank or marked pending; it is never inferred.
 
-## Source-of-truth rules
+When historical data conflicts with a later confirmed transaction, the later transaction supersedes the earlier state while both records remain in the ledger. The confirmed rename `Kars4Kids -> Kars4Gibbs` preserves the same manager/franchise.
 
-- Transactions are append-only. Historical rows must never be edited, deleted, or rewritten.
-- A new correction is recorded as a new transaction that references the prior record; it does not replace the prior record.
-- Roster snapshots are authoritative only when explicitly identified as authoritative and dated in their file.
-- Current ownership is derived from the transaction ledger and reconciled against the latest authoritative roster snapshots.
-- If a ledger-derived result and an authoritative snapshot disagree, preserve both, flag the disagreement, and resolve it with a later dated authoritative input or correction transaction.
-- No player, team, score, rule, or transaction may be inferred without authoritative initialization or update data.
+## Latest synchronization
+
+- Latest synchronization date: **2026-09-27**
+- Latest authoritative roster snapshot: **2026-09-27**
+- Latest confirmed transaction date: **2026-09-27**
+- Current record: after applying all confirmed transactions supplied through Sunday 2026-09-27
+- Waiver order effective: **2026-09-25**
+- Initialization status: **INITIALIZED**
 
 ## League mechanics
 
-League-specific mechanics are intentionally pending authoritative initialization data. See `league/LEAGUE_RULES.md`.
+See `league/LEAGUE_RULES.md` for the authoritative mechanics supplied for this initialization.
 
-## Synchronization
+## Validation
 
-- Latest synchronization date: **PENDING INITIALIZATION DATA**
-- Latest authoritative source: **PENDING INITIALIZATION DATA**
-- Initialization status: **NOT INITIALIZED**
-- Validation command: `python scripts/update_league_state.py`
+Run:
 
-## Directory map
+```bash
+python scripts/update_league_state.py
+```
 
-- `league/TRANSACTION_LOG.md`: append-only chronological transaction ledger.
-- `league/MASTER_ROSTER_INDEX.md`: current ownership index for the 10 teams.
-- `league/WAIVER_ORDER.md`: current rolling waiver priority.
-- `league/league_schedule.csv`: weekly matchups and final scores.
-- `league/LEAGUE_RULES.md`: league format and transaction/lock rules.
-- `rosters/`: one dated snapshot file per team.
-- `scripts/update_league_state.py`: consistency and duplicate-ownership validator.
+Optional roster-size checks can be supplied once the league's exact slot limits are authoritative:
+
+```bash
+python scripts/update_league_state.py --max-active-slots N --max-total-slots N
+```

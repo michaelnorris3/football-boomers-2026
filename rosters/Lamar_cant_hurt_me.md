@@ -1,0 +1,27 @@
+# Lamar can't hurt me
+
+- Team ID: `TEAM_03`
+- Manager: Sean Vitale
+- Snapshot date: **2026-09-27**
+- Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
+- Source: User-provided authoritative initialization data
+- Authoritative: **YES**
+
+## Current Roster
+
+- QB Jalen Hurts, PHI
+- QB Jameis Winston, NYG
+- RB Bijan Robinson, ATL
+- RB Travis Etienne Jr., NO
+- RB Bucky Irving, TB
+- RB Kaelon Black, SF
+- WR Drake London, ATL
+- WR Nico Collins, HOU
+- WR Ladd McConkey, LAC
+- WR Stefon Diggs, WSH
+- WR Deebo Samuel Sr., SF
+- WR Romeo Doubs, NE
+- TE Dallas Goedert, PHI
+- TE Dalton Schultz, HOU
+- D/ST Steelers, PIT
+- K Cameron Dicker, LAC

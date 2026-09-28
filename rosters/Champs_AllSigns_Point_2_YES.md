@@ -1,0 +1,28 @@
+# Champs?AllSigns Point 2 YES!!
+
+- Team ID: `TEAM_10`
+- Manager: Chris Gibson
+- Snapshot date: **2026-09-27**
+- Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
+- Source: User-provided authoritative initialization data
+- Authoritative: **YES**
+
+## Current Roster
+
+- QB Bryce Young, CAR
+- RB James Cook III, BUF
+- RB Jadarian Price, SEA
+- RB De'Von Achane, MIA
+- RB Tyler Allgeier, ARI
+- RB Mike Washington Jr., LV
+- RB Emmett Johnson, KC
+- WR Zay Flowers, BAL
+- WR Luther Burden III, CHI
+- WR Parker Washington, JAX
+- WR Jalen Coker, CAR
+- WR Malik Nabers, NYG
+- WR Denzel Boston, CLE
+- TE Tucker Kraft, GB
+- D/ST 49ers, SF
+- K Daniel Carlson, NO
+- IR Jonathon Brooks, CAR
