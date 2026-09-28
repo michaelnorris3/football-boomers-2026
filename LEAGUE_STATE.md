@@ -39,3 +39,7 @@ Optional roster-size checks can be supplied once the league's exact slot limits 
 ```bash
 python scripts/update_league_state.py --max-active-slots N --max-total-slots N
 ```
+
+## Verification — 2026-09-28
+
+Repository reconciliation completed against the latest authoritative league materials available in the Football boomers 2026 project and confirmed screenshots through 2026-09-27. The following were verified as already reflected in the canonical files: Kars4Kids -> Kars4Gibbs rename; Sean Vitale's Jameis Winston and Cameron Dicker adds with Dominic Zvada dropped; Barcelona Pickpockets' Khalil Shakir add with Justin Herbert dropped; boomers.' Eddy Pineiro add with Dontayvion Wicks dropped; and Chris Gibson's Daniel Carlson add with Emanuel Wilson dropped to waivers. No roster-state correction was required by this verification.
