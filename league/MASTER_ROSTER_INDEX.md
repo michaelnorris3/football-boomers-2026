@@ -1,6 +1,6 @@
 # Master Roster Index
 
-Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-09-27. Player IDs were not supplied, so the Player ID column remains blank.
+Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-09-29. Player IDs were not supplied, so the Player ID column remains blank.
 
 ## Teams
 
@@ -15,7 +15,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-27 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-09-27 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-27 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-29 |
 
 ## Current player ownership
 
@@ -164,7 +164,6 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Bryce Young | QB | CAR | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Jadarian Price | RB | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
-|  | De'Von Achane | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Tyler Allgeier | RB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Mike Washington Jr. | RB | LV | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Emmett Johnson | RB | KC | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
