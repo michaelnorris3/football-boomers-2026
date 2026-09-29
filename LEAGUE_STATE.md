@@ -17,8 +17,8 @@ When historical data conflicts with a later confirmed transaction, the later tra
 
 - Latest synchronization date: **2026-09-29**
 - Latest authoritative roster snapshot: **2026-09-27**
-- Latest confirmed transaction date: **2026-09-27**
-- Current record: after applying all confirmed transactions supplied through Sunday 2026-09-27 and final Week 3 scoreboard results supplied 2026-09-29
+- Latest confirmed transaction date: **2026-09-29**
+- Current record: after applying confirmed transactions through 2026-09-29 and final Week 3 scoreboard results
 - Waiver order effective: **2026-09-25**
 - Initialization status: **INITIALIZED**
 
@@ -53,3 +53,7 @@ Final scoreboard results were added from user-provided league screenshots:
 - Kars4Gibbs 162.58 def The Team Who Would Be Champs 160.28
 - Cazzata Malanga 151.92 def Long Live the King 144.14
 - Lamar can't hurt me 137.02 def The Branch Covidians 134.44
+
+## 2026-09-29 transaction update
+
+- Champs?AllSigns Point 2 YES!! (Chris Gibson) dropped De'Von Achane, RB, MIA at 12:01 PM. Achane is no longer rostered and is subject to league waiver/drop rules.
