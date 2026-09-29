@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-29**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -12,7 +12,6 @@
 - QB Bryce Young, CAR
 - RB James Cook III, BUF
 - RB Jadarian Price, SEA
-- RB De'Von Achane, MIA
 - RB Tyler Allgeier, ARI
 - RB Mike Washington Jr., LV
 - RB Emmett Johnson, KC
