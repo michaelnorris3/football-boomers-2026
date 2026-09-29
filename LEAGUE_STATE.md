@@ -15,10 +15,10 @@ When historical data conflicts with a later confirmed transaction, the later tra
 
 ## Latest synchronization
 
-- Latest synchronization date: **2026-09-27**
+- Latest synchronization date: **2026-09-29**
 - Latest authoritative roster snapshot: **2026-09-27**
 - Latest confirmed transaction date: **2026-09-27**
-- Current record: after applying all confirmed transactions supplied through Sunday 2026-09-27
+- Current record: after applying all confirmed transactions supplied through Sunday 2026-09-27 and final Week 3 scoreboard results supplied 2026-09-29
 - Waiver order effective: **2026-09-25**
 - Initialization status: **INITIALIZED**
 
@@ -43,3 +43,13 @@ python scripts/update_league_state.py --max-active-slots N --max-total-slots N
 ## Verification — 2026-09-28
 
 Repository reconciliation completed against the latest authoritative league materials available in the Football boomers 2026 project and confirmed screenshots through 2026-09-27. The following were verified as already reflected in the canonical files: Kars4Kids -> Kars4Gibbs rename; Sean Vitale's Jameis Winston and Cameron Dicker adds with Dominic Zvada dropped; Barcelona Pickpockets' Khalil Shakir add with Justin Herbert dropped; boomers.' Eddy Pineiro add with Dontayvion Wicks dropped; and Chris Gibson's Daniel Carlson add with Emanuel Wilson dropped to waivers. No roster-state correction was required by this verification.
+
+## Week 3 results — confirmed 2026-09-29
+
+Final scoreboard results were added from user-provided league screenshots:
+
+- boomers. 139.88 def Champs?AllSigns Point 2 YES!! 84.64
+- Barcelona Pickpockets 126.80 def Cat Scratch Fever 111.16
+- Kars4Gibbs 162.58 def The Team Who Would Be Champs 160.28
+- Cazzata Malanga 151.92 def Long Live the King 144.14
+- Lamar can't hurt me 137.02 def The Branch Covidians 134.44
