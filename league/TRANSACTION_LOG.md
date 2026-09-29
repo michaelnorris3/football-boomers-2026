@@ -53,3 +53,4 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260927-03D | 2026-09-27 | 09:45 |  | Drop | Lamar can't hurt me |  | Dominic Zvada |  |  |  |  |  | User initialization data | Dropped Dominic Zvada. |
 | TX-20260927-04A | 2026-09-27 | 12:25 |  | Add | Champs?AllSigns Point 2 YES!! |  | Daniel Carlson |  |  |  |  |  | User initialization data | Added Daniel Carlson. |
 | TX-20260927-04D | 2026-09-27 | 12:25 |  | Drop | Champs?AllSigns Point 2 YES!! |  | Emanuel Wilson |  |  |  |  |  | User initialization data | Dropped Emanuel Wilson to waivers. |
+| TX-20260929-01D | 2026-09-29 | 12:01 | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | De'Von Achane |  | Waivers |  |  |  | User transaction screenshot | Dropped after season-ending knee injury; subject to league waiver/drop rules. |
