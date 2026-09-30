@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -15,7 +15,6 @@
 - RB MarShawn Lloyd, GB
 - RB Bhayshul Tuten, JAX
 - RB Kyle Monangai, CHI
-- RB Jonah Coleman, DEN
 - RB Tank Bigsby, PHI
 - RB RJ Harvey, DEN
 - WR Jaxon Smith-Njigba, SEA
@@ -25,4 +24,5 @@
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
-- K Harrison Butker, KC
+- WR Tyreek Hill, FA
+- K Will Reichard, MIN
