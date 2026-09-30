@@ -13,7 +13,7 @@
 - RB Kenneth Walker III, KC
 - RB David Montgomery, HOU
 - RB TreVeyon Henderson, NE
-- RB Rachaad White, WSH
+- WR Dontayvion Wicks, PHI
 - RB Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
