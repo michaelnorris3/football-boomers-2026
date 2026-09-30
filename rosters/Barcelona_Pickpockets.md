@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -22,5 +22,5 @@
 - WR Adonai Mitchell, NYJ
 - TE Isaiah Likely, NYG
 - TE Brock Bowers, LV
-- D/ST Panthers, CAR
 - K Harrison Mevis, LAR
+- D/ST Bears, CHI
