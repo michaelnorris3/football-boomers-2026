@@ -13,7 +13,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-09-30 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-09-30 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-27 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-30 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-09-30 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-30 |
 
@@ -135,7 +135,6 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | MarShawn Lloyd | RB | GB | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Bhayshul Tuten | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Kyle Monangai | RB | CHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
-|  | Jonah Coleman | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Tank Bigsby | RB | PHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | RJ Harvey | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Jaxon Smith-Njigba | WR | SEA | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
@@ -145,7 +144,8 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
-|  | Harrison Butker | K | KC | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
+|  | Tyreek Hill | WR | FA | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
+|  | Will Reichard | K | MIN | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
 |  | Khalil Shakir | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Caleb Williams | QB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Tyler Shough | QB | NO | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
