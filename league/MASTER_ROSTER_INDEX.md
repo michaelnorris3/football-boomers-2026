@@ -102,7 +102,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | David Montgomery | RB | HOU | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
-|  | Rachaad White | RB | WSH | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
+|  | Dontayvion Wicks | WR | PHI | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
 |  | Jordan Mason | RB | MIN | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
@@ -145,13 +145,13 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Tyreek Hill | WR | FA | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
-|  | Will Reichard | K | MIN | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
+|  | Zach Charbonnet | RB | SEA | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
 |  | Khalil Shakir | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Caleb Williams | QB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Tyler Shough | QB | NO | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
-|  | Kenny Gainwell | RB | TB | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
+|  | Keenan Allen | WR | IND | TEAM_09 | Barcelona Pickpockets | 2026-09-30 confirmed transaction |
 |  | Jacory Croskey-Merritt | RB | WSH | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Justin Jefferson | WR | MIN | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | DeVonta Smith | WR | PHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
