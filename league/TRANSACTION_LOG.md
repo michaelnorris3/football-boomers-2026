@@ -74,3 +74,8 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260930-09D | 2026-09-30 | 05:50 | 4 | Drop | boomers. |  | Chiefs D/ST | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Ravens D/ST. |
 | TX-20260930-10A | 2026-09-30 | 05:50 | 4 | Add | boomers. |  | Tyler Loop | Free Agency | boomers. |  |  |  | User transaction screenshot | Post-waiver free-agent add. |
 | TX-20260930-10D | 2026-09-30 | 05:50 | 4 | Drop | boomers. |  | Eddy Pineiro | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Tyler Loop. |
+| TX-20260930-11A | 2026-09-30 | morning | 4 | Add | Champs?AllSigns Point 2 YES!! |  | Packers D/ST | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | User transaction screenshot | Added Packers D/ST. |
+| TX-20260930-12A | 2026-09-30 | morning | 4 | Add | Champs?AllSigns Point 2 YES!! |  | Kendre Miller | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | User transaction screenshot | Added Kendre Miller. |
+| TX-20260930-12D | 2026-09-30 | morning | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | 49ers D/ST | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | User transaction screenshot | Dropped for Kendre Miller. |
+| TX-20260930-13A | 2026-09-30 | morning | 4 | Add | Champs?AllSigns Point 2 YES!! |  | Alvin Kamara | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | User transaction screenshot | Added Alvin Kamara. |
+| TX-20260930-13D | 2026-09-30 | morning | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | Daniel Carlson | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | User transaction screenshot | Dropped for Alvin Kamara. |
