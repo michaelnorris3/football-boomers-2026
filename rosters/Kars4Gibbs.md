@@ -2,14 +2,13 @@
 
 - Team ID: `TEAM_04`
 - Manager: Brett Boliver
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- QB Drake Maye, NE
 - RB Jahmyr Gibbs, DET
 - RB Jeremiyah Love, ARI
 - WR Emeka Egbuka, TB
@@ -20,7 +19,8 @@
 - D/ST Eagles, PHI
 - K Brandon Aubrey, DAL
 - QB Dak Prescott, DAL
-- RB Josh Jacobs, GB
-- QB Jaxson Dart, NYG
 - WR Tre Tucker, LV
 - QB Brock Purdy, SF
+- TE Kenyon Sadiq, NYJ
+- WR Kalif Raymond, CHI
+- D/ST Bills, BUF
