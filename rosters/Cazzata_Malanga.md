@@ -25,4 +25,4 @@
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
 - WR Tyreek Hill, FA
-- K Will Reichard, MIN
+- RB Zach Charbonnet, SEA
