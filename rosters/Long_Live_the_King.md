@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -17,10 +17,10 @@
 - WR Terry McLaurin, WSH
 - TE Sam LaPorta, DET
 - WR Mike Evans, SF
-- D/ST Patriots, NE
 - K Ka'imi Fairbairn, HOU
 - WR Marvin Harrison Jr., ARI
 - RB Chuba Hubbard, CAR
 - WR Josh Downs, IND
 - TE Travis Kelce, KC
 - WR Caleb Douglas, MIA
+- D/ST Vikings, MIN
