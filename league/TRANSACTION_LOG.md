@@ -54,3 +54,23 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260927-04A | 2026-09-27 | 12:25 |  | Add | Champs?AllSigns Point 2 YES!! |  | Daniel Carlson |  |  |  |  |  | User initialization data | Added Daniel Carlson. |
 | TX-20260927-04D | 2026-09-27 | 12:25 |  | Drop | Champs?AllSigns Point 2 YES!! |  | Emanuel Wilson |  |  |  |  |  | User initialization data | Dropped Emanuel Wilson to waivers. |
 | TX-20260929-01D | 2026-09-29 | 12:01 | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | De'Von Achane |  | Waivers |  |  |  | User transaction screenshot | Dropped after season-ending knee injury; subject to league waiver/drop rules. |
+| TX-20260930-01A | 2026-09-30 | waiver run | 4 | Add | The Team Who Would Be Champs |  | Justin Herbert | Free Agency | The Team Who Would Be Champs |  | 1 |  | User waiver report screenshot | Successful waiver claim. |
+| TX-20260930-01D | 2026-09-30 | waiver run | 4 | Drop | The Team Who Would Be Champs |  | Kyler Murray | The Team Who Would Be Champs | Waivers |  |  |  | User waiver report screenshot | Dropped with Justin Herbert claim. |
+| TX-20260930-02A | 2026-09-30 | waiver run | 4 | Add | Lamar can't hurt me |  | Braelon Allen | Free Agency | Lamar can't hurt me |  |  |  | User waiver report screenshot | Successful waiver claim; boomers., Cazzata Malanga, Champs?AllSigns Point 2 YES!!, and Long Live the King shown unsuccessful. |
+| TX-20260930-02D | 2026-09-30 | waiver run | 4 | Drop | Lamar can't hurt me |  | Jameis Winston | Lamar can't hurt me | Waivers |  |  |  | User waiver report screenshot | Dropped with Braelon Allen claim. |
+| TX-20260930-03A | 2026-09-30 | waiver run | 4 | Add | Kars4Gibbs |  | Kenyon Sadiq | Free Agency | Kars4Gibbs |  |  |  | User waiver report screenshot | Successful waiver claim. |
+| TX-20260930-03D | 2026-09-30 | waiver run | 4 | Drop | Kars4Gibbs |  | Jaxson Dart | Kars4Gibbs | Waivers |  |  |  | User waiver report screenshot | Dropped with Kenyon Sadiq claim. |
+| TX-20260930-04A | 2026-09-30 | waiver run | 4 | Add | Long Live the King |  | Vikings D/ST | Free Agency | Long Live the King |  |  |  | User waiver report screenshot | Successful waiver claim; Barcelona Pickpockets and Kars4Gibbs shown unsuccessful. |
+| TX-20260930-04D | 2026-09-30 | waiver run | 4 | Drop | Long Live the King |  | Patriots D/ST | Long Live the King | Waivers |  |  |  | User waiver report screenshot | Dropped with Vikings D/ST claim. |
+| TX-20260930-05A | 2026-09-30 | waiver run | 4 | Add | boomers. |  | Ollie Gordon II | Free Agency | boomers. |  |  |  | User waiver report screenshot | Successful waiver claim; Champs?AllSigns Point 2 YES!! shown unsuccessful. |
+| TX-20260930-05D | 2026-09-30 | waiver run | 4 | Drop | boomers. |  | Rashod Bateman | boomers. | Waivers |  |  |  | User waiver report screenshot | Dropped with Ollie Gordon II claim. |
+| TX-20260930-06A | 2026-09-30 | waiver run | 4 | Add | Barcelona Pickpockets |  | Bears D/ST | Free Agency | Barcelona Pickpockets |  |  |  | User waiver report screenshot | Successful waiver claim. |
+| TX-20260930-06D | 2026-09-30 | waiver run | 4 | Drop | Barcelona Pickpockets |  | Panthers D/ST | Barcelona Pickpockets | Waivers |  |  |  | User waiver report screenshot | Dropped with Bears D/ST claim. |
+| TX-20260930-07A | 2026-09-30 | waiver run | 4 | Add | Kars4Gibbs |  | Kalif Raymond | Free Agency | Kars4Gibbs |  |  |  | User waiver report screenshot | Successful waiver claim. |
+| TX-20260930-07D | 2026-09-30 | waiver run | 4 | Drop | Kars4Gibbs |  | Drake Maye | Kars4Gibbs | Waivers |  |  |  | User waiver report screenshot | Dropped with Kalif Raymond claim. |
+| TX-20260930-08A | 2026-09-30 | 05:07 | 4 | Add | Kars4Gibbs |  | Bills D/ST | Free Agency | Kars4Gibbs |  |  |  | User transaction screenshot | Post-waiver free-agent add. |
+| TX-20260930-08D | 2026-09-30 | 05:07 | 4 | Drop | Kars4Gibbs |  | Josh Jacobs | Kars4Gibbs | Waivers |  |  |  | User transaction screenshot | Dropped for Bills D/ST. |
+| TX-20260930-09A | 2026-09-30 | 05:50 | 4 | Add | boomers. |  | Ravens D/ST | Free Agency | boomers. |  |  |  | User transaction screenshot | Post-waiver free-agent add. |
+| TX-20260930-09D | 2026-09-30 | 05:50 | 4 | Drop | boomers. |  | Chiefs D/ST | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Ravens D/ST. |
+| TX-20260930-10A | 2026-09-30 | 05:50 | 4 | Add | boomers. |  | Tyler Loop | Free Agency | boomers. |  |  |  | User transaction screenshot | Post-waiver free-agent add. |
+| TX-20260930-10D | 2026-09-30 | 05:50 | 4 | Drop | boomers. |  | Eddy Pineiro | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Tyler Loop. |
