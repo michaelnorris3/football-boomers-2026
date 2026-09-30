@@ -14,7 +14,7 @@
 - QB Tyler Shough, NO
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
-- RB Kenny Gainwell, TB
+- WR Keenan Allen, IND
 - RB Jacory Croskey-Merritt, WSH
 - WR Justin Jefferson, MIN
 - WR DeVonta Smith, PHI
