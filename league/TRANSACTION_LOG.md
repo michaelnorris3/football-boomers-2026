@@ -83,3 +83,9 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260930-14D | 2026-09-30 | 09:29 | 4 | Drop | Cazzata Malanga |  | Harrison Butker | Cazzata Malanga | Waivers |  |  |  | User transaction screenshot | Dropped for Tyreek Hill. |
 | TX-20260930-15A | 2026-09-30 | 09:29 | 4 | Add | Cazzata Malanga |  | Will Reichard | Free Agency | Cazzata Malanga |  |  |  | User transaction screenshot | Added Will Reichard. |
 | TX-20260930-15D | 2026-09-30 | 09:29 | 4 | Drop | Cazzata Malanga |  | Jonah Coleman | Cazzata Malanga | Waivers |  |  |  | User transaction screenshot | Dropped for Will Reichard. |
+| TX-20260930-16A | 2026-09-30 | 13:07 | 4 | Add | Cazzata Malanga |  | Zach Charbonnet | Free Agency | Cazzata Malanga |  |  |  | User transaction screenshot | Added Zach Charbonnet. |
+| TX-20260930-16D | 2026-09-30 | 13:07 | 4 | Drop | Cazzata Malanga |  | Will Reichard | Cazzata Malanga | Waivers |  |  |  | User transaction screenshot | Dropped for Zach Charbonnet. |
+| TX-20260930-17A | 2026-09-30 | 14:10 | 4 | Add | Barcelona Pickpockets |  | Keenan Allen | Free Agency | Barcelona Pickpockets |  |  |  | User transaction screenshot | Added Keenan Allen. |
+| TX-20260930-17D | 2026-09-30 | 14:10 | 4 | Drop | Barcelona Pickpockets |  | Kenny Gainwell | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Keenan Allen. |
+| TX-20260930-18A | 2026-09-30 | 16:18 | 4 | Add | boomers. |  | Dontayvion Wicks | Free Agency | boomers. |  |  |  | User transaction screenshot | Re-added Dontayvion Wicks. |
+| TX-20260930-18D | 2026-09-30 | 16:18 | 4 | Drop | boomers. |  | Rachaad White | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Dontayvion Wicks. |
