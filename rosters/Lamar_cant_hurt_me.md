@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -10,7 +10,6 @@
 ## Current Roster
 
 - QB Jalen Hurts, PHI
-- QB Jameis Winston, NYG
 - RB Bijan Robinson, ATL
 - RB Travis Etienne Jr., NO
 - RB Bucky Irving, TB
@@ -25,3 +24,4 @@
 - TE Dalton Schultz, HOU
 - D/ST Steelers, PIT
 - K Cameron Dicker, LAC
+- RB Braelon Allen, NYJ
