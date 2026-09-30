@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_01`
 - Manager: Andrew Leonard
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -10,7 +10,6 @@
 ## Current Roster
 
 - QB Joe Burrow, CIN
-- QB Kyler Murray, MIN
 - RB Jonathan Taylor, IND
 - RB Javonte Williams, DAL
 - RB Cam Skattebo, NYG
@@ -25,3 +24,4 @@
 - TE George Kittle, SF
 - D/ST Rams, LAR
 - K Jason Myers, SEA
+- QB Justin Herbert, LAC
