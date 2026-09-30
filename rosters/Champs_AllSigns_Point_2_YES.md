@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-09-29**
+- Snapshot date: **2026-09-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -22,6 +22,7 @@
 - WR Malik Nabers, NYG
 - WR Denzel Boston, CLE
 - TE Tucker Kraft, GB
-- D/ST 49ers, SF
-- K Daniel Carlson, NO
+- D/ST Packers, GB
+- RB Kendre Miller, NO
+- RB Alvin Kamara, NO
 - IR Jonathon Brooks, CAR
