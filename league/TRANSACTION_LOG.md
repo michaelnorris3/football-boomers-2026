@@ -79,3 +79,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260930-12D | 2026-09-30 | morning | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | 49ers D/ST | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | User transaction screenshot | Dropped for Kendre Miller. |
 | TX-20260930-13A | 2026-09-30 | morning | 4 | Add | Champs?AllSigns Point 2 YES!! |  | Alvin Kamara | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | User transaction screenshot | Added Alvin Kamara. |
 | TX-20260930-13D | 2026-09-30 | morning | 4 | Drop | Champs?AllSigns Point 2 YES!! |  | Daniel Carlson | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | User transaction screenshot | Dropped for Alvin Kamara. |
+| TX-20260930-14A | 2026-09-30 | 09:29 | 4 | Add | Cazzata Malanga |  | Tyreek Hill | Free Agency | Cazzata Malanga |  |  |  | User transaction screenshot | Added Tyreek Hill, listed as FA WR. |
+| TX-20260930-14D | 2026-09-30 | 09:29 | 4 | Drop | Cazzata Malanga |  | Harrison Butker | Cazzata Malanga | Waivers |  |  |  | User transaction screenshot | Dropped for Tyreek Hill. |
+| TX-20260930-15A | 2026-09-30 | 09:29 | 4 | Add | Cazzata Malanga |  | Will Reichard | Free Agency | Cazzata Malanga |  |  |  | User transaction screenshot | Added Will Reichard. |
+| TX-20260930-15D | 2026-09-30 | 09:29 | 4 | Drop | Cazzata Malanga |  | Jonah Coleman | Cazzata Malanga | Waivers |  |  |  | User transaction screenshot | Dropped for Will Reichard. |
