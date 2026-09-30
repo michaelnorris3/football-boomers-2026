@@ -1,20 +1,20 @@
 # Master Roster Index
 
-Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-09-29. Player IDs were not supplied, so the Player ID column remains blank.
+Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-09-30. Player IDs were not supplied, so the Player ID column remains blank.
 
 ## Teams
 
 | Team ID | Team Name | Manager | Current Roster Snapshot | Last Reconciled |
 |---|---|---|---|---|
-| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-09-27 |
+| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-09-30 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-09-27 |
-| TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-09-27 |
-| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-09-27 |
-| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-09-27 |
-| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-09-27 |
+| TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-09-30 |
+| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-09-30 |
+| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-09-30 |
+| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-09-30 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-27 |
-| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-09-27 |
+| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-09-30 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-29 |
 
 ## Current player ownership
@@ -22,7 +22,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | Player ID | Player Name | Position | NFL Team | Current Team ID | Current Team Name | Ownership Basis |
 |---|---|---|---|---|---|---|
 |  | Joe Burrow | QB | CIN | TEAM_01 | The Team Who Would Be Champs | 2026-09-27 roster snapshot |
-|  | Kyler Murray | QB | MIN | TEAM_01 | The Team Who Would Be Champs | 2026-09-27 roster snapshot |
+|  | Justin Herbert | QB | LAC | TEAM_01 | The Team Who Would Be Champs | 2026-09-30 confirmed transaction |
 |  | Jonathan Taylor | RB | IND | TEAM_01 | The Team Who Would Be Champs | 2026-09-27 roster snapshot |
 |  | Javonte Williams | RB | DAL | TEAM_01 | The Team Who Would Be Champs | 2026-09-27 roster snapshot |
 |  | Cam Skattebo | RB | NYG | TEAM_01 | The Team Who Would Be Champs | 2026-09-27 roster snapshot |
@@ -53,7 +53,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-09-27 roster snapshot |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-09-27 roster snapshot |
 |  | Jalen Hurts | QB | PHI | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
-|  | Jameis Winston | QB | NYG | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
+|  | Braelon Allen | RB | NYJ | TEAM_03 | Lamar can't hurt me | 2026-09-30 confirmed transaction |
 |  | Bijan Robinson | RB | ATL | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Travis Etienne Jr. | RB | NO | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Bucky Irving | RB | TB | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
@@ -68,7 +68,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Dalton Schultz | TE | HOU | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Steelers | D/ST | PIT | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Cameron Dicker | K | LAC | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
-|  | Drake Maye | QB | NE | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
+|  | Kenyon Sadiq | TE | NYJ | TEAM_04 | Kars4Gibbs | 2026-09-30 confirmed transaction |
 |  | Jahmyr Gibbs | RB | DET | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Jeremiyah Love | RB | ARI | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Emeka Egbuka | WR | TB | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
@@ -79,8 +79,8 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Eagles | D/ST | PHI | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Brandon Aubrey | K | DAL | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Dak Prescott | QB | DAL | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
-|  | Josh Jacobs | RB | GB | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
-|  | Jaxson Dart | QB | NYG | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
+|  | Bills | D/ST | BUF | TEAM_04 | Kars4Gibbs | 2026-09-30 confirmed transaction |
+|  | Kalif Raymond | WR | CHI | TEAM_04 | Kars4Gibbs | 2026-09-30 confirmed transaction |
 |  | Tre Tucker | WR | LV | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Brock Purdy | QB | SF | TEAM_04 | Kars4Gibbs | 2026-09-27 roster snapshot |
 |  | Lamar Jackson | QB | BAL | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
@@ -91,7 +91,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Terry McLaurin | WR | WSH | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Sam LaPorta | TE | DET | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Mike Evans | WR | SF | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
-|  | Patriots | D/ST | NE | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
+|  | Vikings | D/ST | MIN | TEAM_05 | Long Live the King | 2026-09-30 confirmed transaction |
 |  | Ka'imi Fairbairn | K | HOU | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Marvin Harrison Jr. | WR | ARI | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Chuba Hubbard | RB | CAR | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
@@ -108,11 +108,11 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Michael Pittman Jr. | WR | PIT | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
-|  | Rashod Bateman | WR | BAL | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
+|  | Ollie Gordon II | RB | MIA | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
-|  | Eddy Pineiro | K | SF | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
-|  | Chiefs | D/ST | KC | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
+|  | Tyler Loop | K | BAL | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
+|  | Ravens | D/ST | BAL | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
 |  | A.J. Brown | IR | NE | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Jayden Daniels | QB | WSH | TEAM_07 | The Branch Covidians | 2026-09-27 roster snapshot |
 |  | Patrick Mahomes | QB | KC | TEAM_07 | The Branch Covidians | 2026-09-27 roster snapshot |
@@ -159,7 +159,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Adonai Mitchell | WR | NYJ | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Isaiah Likely | TE | NYG | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
-|  | Panthers | D/ST | CAR | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
+|  | Bears | D/ST | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-30 confirmed transaction |
 |  | Harrison Mevis | K | LAR | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Bryce Young | QB | CAR | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
