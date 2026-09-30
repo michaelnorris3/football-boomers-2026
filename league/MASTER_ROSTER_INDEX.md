@@ -15,7 +15,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-27 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-09-30 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-29 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-30 |
 
 ## Current player ownership
 
@@ -174,6 +174,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Malik Nabers | WR | NYG | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Denzel Boston | WR | CLE | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Tucker Kraft | TE | GB | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
-|  | 49ers | D/ST | SF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
-|  | Daniel Carlson | K | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
+|  | Packers | D/ST | GB | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
+|  | Kendre Miller | RB | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
+|  | Alvin Kamara | RB | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
 |  | Jonathon Brooks | IR | CAR | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
