@@ -89,3 +89,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260930-17D | 2026-09-30 | 14:10 | 4 | Drop | Barcelona Pickpockets |  | Kenny Gainwell | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Keenan Allen. |
 | TX-20260930-18A | 2026-09-30 | 16:18 | 4 | Add | boomers. |  | Dontayvion Wicks | Free Agency | boomers. |  |  |  | User transaction screenshot | Re-added Dontayvion Wicks. |
 | TX-20260930-18D | 2026-09-30 | 16:18 | 4 | Drop | boomers. |  | Rachaad White | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Dontayvion Wicks. |
+| TX-20261001-01A | 2026-10-01 | 13:30 | 4 | Add | Long Live the King |  | Sam Darnold | Free Agency | Long Live the King |  |  |  | User transaction screenshot | Added Sam Darnold. |
+| TX-20261001-01D | 2026-10-01 | 13:30 | 4 | Drop | Long Live the King |  | Marvin Harrison Jr. | Long Live the King | Waivers |  |  |  | User transaction screenshot | Dropped for Sam Darnold. |
