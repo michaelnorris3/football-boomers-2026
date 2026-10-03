@@ -91,3 +91,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20260930-18D | 2026-09-30 | 16:18 | 4 | Drop | boomers. |  | Rachaad White | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Dontayvion Wicks. |
 | TX-20261001-01A | 2026-10-01 | 13:30 | 4 | Add | Long Live the King |  | Sam Darnold | Free Agency | Long Live the King |  |  |  | User transaction screenshot | Added Sam Darnold. |
 | TX-20261001-01D | 2026-10-01 | 13:30 | 4 | Drop | Long Live the King |  | Marvin Harrison Jr. | Long Live the King | Waivers |  |  |  | User transaction screenshot | Dropped for Sam Darnold. |
+| TX-20261002-01A | 2026-10-02 | 22:51 | 4 | Add | Barcelona Pickpockets |  | Mack Hollins | Free Agency | Barcelona Pickpockets |  |  |  | User transaction screenshot | Added Mack Hollins. |
+| TX-20261002-01D | 2026-10-02 | 22:51 | 4 | Drop | Barcelona Pickpockets |  | Khalil Shakir | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Mack Hollins. |
