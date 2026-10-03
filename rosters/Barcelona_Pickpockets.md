@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-09-30**
+- Snapshot date: **2026-10-02**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- WR Khalil Shakir, BUF
+- WR Mack Hollins, NE
 - QB Caleb Williams, CHI
 - QB Tyler Shough, NO
 - RB Chase Brown, CIN
