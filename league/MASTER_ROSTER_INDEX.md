@@ -1,6 +1,6 @@
 # Master Roster Index
 
-Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-02. Player IDs were not supplied, so the Player ID column remains blank.
+Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-03. Player IDs were not supplied, so the Player ID column remains blank.
 
 ## Teams
 
@@ -14,7 +14,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-09-30 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-30 |
-| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-02 |
+| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-03 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-30 |
 
 ## Current player ownership
@@ -151,7 +151,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Tyler Shough | QB | NO | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
-|  | Keenan Allen | WR | IND | TEAM_09 | Barcelona Pickpockets | 2026-09-30 confirmed transaction |
+|  | Malik Washington | WR | MIA | TEAM_09 | Barcelona Pickpockets | 2026-10-03 confirmed transaction |
 |  | Jacory Croskey-Merritt | RB | WSH | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | Justin Jefferson | WR | MIN | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
 |  | DeVonta Smith | WR | PHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
