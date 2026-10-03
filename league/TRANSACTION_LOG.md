@@ -93,3 +93,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261001-01D | 2026-10-01 | 13:30 | 4 | Drop | Long Live the King |  | Marvin Harrison Jr. | Long Live the King | Waivers |  |  |  | User transaction screenshot | Dropped for Sam Darnold. |
 | TX-20261002-01A | 2026-10-02 | 22:51 | 4 | Add | Barcelona Pickpockets |  | Mack Hollins | Free Agency | Barcelona Pickpockets |  |  |  | User transaction screenshot | Added Mack Hollins. |
 | TX-20261002-01D | 2026-10-02 | 22:51 | 4 | Drop | Barcelona Pickpockets |  | Khalil Shakir | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Mack Hollins. |
+| TX-20261003-01A | 2026-10-03 | 13:23 | 4 | Add | Barcelona Pickpockets |  | Malik Washington | Free Agency | Barcelona Pickpockets |  |  |  | User transaction screenshot | Added Malik Washington. |
+| TX-20261003-01D | 2026-10-03 | 13:23 | 4 | Drop | Barcelona Pickpockets |  | Keenan Allen | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Malik Washington. |
