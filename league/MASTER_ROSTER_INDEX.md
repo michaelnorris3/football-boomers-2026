@@ -1,6 +1,6 @@
 # Master Roster Index
 
-Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-03. Player IDs were not supplied, so the Player ID column remains blank.
+Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-04. Player IDs were not supplied, so the Player ID column remains blank.
 
 ## Teams
 
@@ -8,7 +8,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |---|---|---|---|---|
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-09-30 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-09-27 |
-| TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-09-30 |
+| TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-04 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-09-30 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-01 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-03 |
@@ -65,7 +65,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Deebo Samuel Sr. | WR | SF | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Romeo Doubs | WR | NE | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Dallas Goedert | TE | PHI | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
-|  | Dalton Schultz | TE | HOU | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
+|  | Darren Waller | TE | CAR | TEAM_03 | Lamar can't hurt me | 2026-10-04 confirmed transaction |
 |  | Steelers | D/ST | PIT | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Cameron Dicker | K | LAC | TEAM_03 | Lamar can't hurt me | 2026-09-27 roster snapshot |
 |  | Kenyon Sadiq | TE | NYJ | TEAM_04 | Kars4Gibbs | 2026-09-30 confirmed transaction |
