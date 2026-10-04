@@ -11,7 +11,6 @@
 
 - QB Bryce Young, CAR
 - RB James Cook III, BUF
-- RB Jadarian Price, SEA
 - RB Tyler Allgeier, ARI
 - RB Mike Washington Jr., LV
 - RB Emmett Johnson, KC
@@ -26,3 +25,4 @@
 - RB Kendre Miller, NO
 - RB Alvin Kamara, NO
 - RB Emanuel Wilson, SEA
+- K Ryan Fitzgerald, CAR
