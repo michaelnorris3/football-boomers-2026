@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-09-30**
+- Snapshot date: **2026-10-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -21,7 +21,7 @@
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
 - TE Dallas Goedert, PHI
-- TE Dalton Schultz, HOU
+- TE Darren Waller, CAR
 - D/ST Steelers, PIT
 - K Cameron Dicker, LAC
 - RB Braelon Allen, NYJ
