@@ -13,9 +13,9 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-01 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-03 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-30 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-04 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-03 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-09-30 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-04 |
 
 ## Current player ownership
 
@@ -144,7 +144,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
-|  | Tyreek Hill | WR | FA | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
+|  | Harrison Butker | K | KC | TEAM_08 | Cazzata Malanga | 2026-10-04 confirmed transaction |
 |  | Zach Charbonnet | RB | SEA | TEAM_08 | Cazzata Malanga | 2026-09-30 confirmed transaction |
 |  | Mack Hollins | WR | NE | TEAM_09 | Barcelona Pickpockets | 2026-10-02 confirmed transaction |
 |  | Caleb Williams | QB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-09-27 roster snapshot |
@@ -177,4 +177,4 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Packers | D/ST | GB | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
 |  | Kendre Miller | RB | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
 |  | Alvin Kamara | RB | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-30 confirmed transaction |
-|  | Jonathon Brooks | IR | CAR | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
+|  | Emanuel Wilson | RB | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-04 confirmed transaction |
