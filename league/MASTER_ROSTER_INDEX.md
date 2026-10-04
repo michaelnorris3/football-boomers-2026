@@ -11,7 +11,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 | TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-09-30 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-09-30 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-01 |
-| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-09-30 |
+| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-03 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-09-27 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-09-30 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-03 |
@@ -108,7 +108,7 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Michael Pittman Jr. | WR | PIT | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
-|  | Ollie Gordon II | RB | MIA | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
+|  | Juwan Johnson | TE | NO | TEAM_06 | boomers. | 2026-10-03 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | Tyler Loop | K | BAL | TEAM_06 | boomers. | 2026-09-30 confirmed transaction |
