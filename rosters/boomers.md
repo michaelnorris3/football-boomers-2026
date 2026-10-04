@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-09-30**
+- Snapshot date: **2026-10-03**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -22,6 +22,6 @@
 - WR Devaughn Vele, NO
 - TE Tyler Warren, IND
 - IR A.J. Brown, NE
-- RB Ollie Gordon II, MIA
+- TE Juwan Johnson, NO
 - K Tyler Loop, BAL
 - D/ST Ravens, BAL
