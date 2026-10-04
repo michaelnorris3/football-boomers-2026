@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-09-30**
+- Snapshot date: **2026-10-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -25,4 +25,4 @@
 - D/ST Packers, GB
 - RB Kendre Miller, NO
 - RB Alvin Kamara, NO
-- IR Jonathon Brooks, CAR
+- RB Emanuel Wilson, SEA
