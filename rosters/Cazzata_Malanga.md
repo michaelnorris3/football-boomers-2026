@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-09-30**
+- Snapshot date: **2026-10-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -24,5 +24,5 @@
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
-- WR Tyreek Hill, FA
+- K Harrison Butker, KC
 - RB Zach Charbonnet, SEA
