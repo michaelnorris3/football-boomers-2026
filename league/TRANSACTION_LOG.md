@@ -95,3 +95,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261002-01D | 2026-10-02 | 22:51 | 4 | Drop | Barcelona Pickpockets |  | Khalil Shakir | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Mack Hollins. |
 | TX-20261003-01A | 2026-10-03 | 13:23 | 4 | Add | Barcelona Pickpockets |  | Malik Washington | Free Agency | Barcelona Pickpockets |  |  |  | User transaction screenshot | Added Malik Washington. |
 | TX-20261003-01D | 2026-10-03 | 13:23 | 4 | Drop | Barcelona Pickpockets |  | Keenan Allen | Barcelona Pickpockets | Waivers |  |  |  | User transaction screenshot | Dropped for Malik Washington. |
+| TX-20261003-02A | 2026-10-03 | 22:30 | 4 | Add | boomers. |  | Juwan Johnson | Free Agency | boomers. |  |  |  | User transaction screenshot | Added Juwan Johnson. |
+| TX-20261003-02D | 2026-10-03 | 22:30 | 4 | Drop | boomers. |  | Ollie Gordon II | boomers. | Waivers |  |  |  | User transaction screenshot | Dropped for Juwan Johnson. |
