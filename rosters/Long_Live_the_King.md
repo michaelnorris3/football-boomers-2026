@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-01**
+- Snapshot date: **2026-10-07**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -18,7 +18,7 @@
 - TE Sam LaPorta, DET
 - WR Mike Evans, SF
 - K Ka'imi Fairbairn, HOU
-- QB Sam Darnold, SEA
+- QB Matthew Stafford, LAR
 - RB Chuba Hubbard, CAR
 - WR Josh Downs, IND
 - TE Travis Kelce, KC
