@@ -18,11 +18,10 @@
 - RB Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
-- WR Michael Pittman Jr., PIT
 - WR KC Concepcion, CLE
 - WR Devaughn Vele, NO
 - TE Tyler Warren, IND
 - IR A.J. Brown, NE
 - TE Juwan Johnson, NO
-- K Tyler Loop, BAL
-- D/ST Ravens, BAL
+- K Spencer Shrader, IND
+- D/ST Jaguars, JAX
