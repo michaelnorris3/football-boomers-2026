@@ -24,5 +24,5 @@
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
-- K Harrison Butker, KC
+- QB Drake Maye, NE
 - RB Zach Charbonnet, SEA
