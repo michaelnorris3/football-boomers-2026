@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-04**
+- Snapshot date: **2026-10-07**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -24,4 +24,3 @@
 - TE Harold Fannin Jr., CLE
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
-- RB George Holani, SEA
