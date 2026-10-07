@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-03**
+- Snapshot date: **2026-10-07**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -13,7 +13,8 @@
 - RB Kenneth Walker III, KC
 - RB David Montgomery, HOU
 - RB TreVeyon Henderson, NE
-- WR Dontayvion Wicks, PHI
+- RB Keaton Mitchell, LAC
+- RB Will Shipley, PHI
 - RB Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
