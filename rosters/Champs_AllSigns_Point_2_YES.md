@@ -9,7 +9,6 @@
 
 ## Current Roster
 
-- QB Bryce Young, CAR
 - RB James Cook III, BUF
 - RB Tyler Allgeier, ARI
 - RB Mike Washington Jr., LV
@@ -26,3 +25,4 @@
 - RB Alvin Kamara, NO
 - RB Emanuel Wilson, SEA
 - RB Ollie Gordon II, MIA
+- RB Brian Robinson Jr., ATL
