@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-10-04**
+- Snapshot date: **2026-10-07**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -25,4 +25,4 @@
 - RB Kendre Miller, NO
 - RB Alvin Kamara, NO
 - RB Emanuel Wilson, SEA
-- K Ryan Fitzgerald, CAR
+- RB Ollie Gordon II, MIA
