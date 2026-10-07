@@ -18,6 +18,7 @@
 - TE Sam LaPorta, DET
 - WR Mike Evans, SF
 - K Ka'imi Fairbairn, HOU
+- K Will Reichard, MIN
 - QB Matthew Stafford, LAR
 - RB Chuba Hubbard, CAR
 - WR Josh Downs, IND
