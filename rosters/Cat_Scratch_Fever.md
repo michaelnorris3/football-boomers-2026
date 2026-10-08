@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_02`
 - Manager: Josh P
-- Snapshot date: **2026-09-27**
+- Snapshot date: **2026-10-08**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -20,7 +20,7 @@
 - WR Jameson Williams, DET
 - WR Michael Wilson, ARI
 - WR Makai Lemon, PHI
-- TE Kyle Pitts Sr., ATL
-- TE Hunter Henry, NE
+- TE Brenton Strange, JAX
 - D/ST Seahawks, SEA
+- D/ST Cowboys, DAL
 - K Tyler Bass, BUF
