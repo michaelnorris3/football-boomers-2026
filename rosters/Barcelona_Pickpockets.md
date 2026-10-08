@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-07**
+- Snapshot date: **2026-10-08**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- WR Mack Hollins, NE
+- QB Bryce Young, CAR
 - QB Caleb Williams, CHI
 - QB Tyler Shough, NO
 - RB Chase Brown, CIN
