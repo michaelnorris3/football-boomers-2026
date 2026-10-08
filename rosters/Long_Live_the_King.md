@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-07**
+- Snapshot date: **2026-10-08**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -23,5 +23,4 @@
 - RB Chuba Hubbard, CAR
 - WR Josh Downs, IND
 - TE Travis Kelce, KC
-- WR Caleb Douglas, MIA
 - D/ST Vikings, MIN
