@@ -1,6 +1,6 @@
 # Master Roster Index
 
-Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-04. Player IDs were not supplied, so the Player ID column remains blank.
+Current ownership is based on the authoritative roster snapshots dated 2026-09-27 and reconciled with confirmed transactions through 2026-10-04, including the verified 2026-09-23 Mike Washington Jr. drop. Player IDs were not supplied, so the Player ID column remains blank.
 
 ## Teams
 
@@ -165,7 +165,6 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Jadarian Price | RB | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Tyler Allgeier | RB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
-|  | Mike Washington Jr. | RB | LV | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Emmett Johnson | RB | KC | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Zay Flowers | WR | BAL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
 |  | Luther Burden III | WR | CHI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-09-27 roster snapshot |
