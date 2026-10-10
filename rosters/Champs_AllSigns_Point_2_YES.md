@@ -11,7 +11,6 @@
 
 - RB James Cook III, BUF
 - RB Tyler Allgeier, ARI
-- RB Mike Washington Jr., LV
 - RB Emmett Johnson, KC
 - WR Zay Flowers, BAL
 - WR Luther Burden III, CHI
