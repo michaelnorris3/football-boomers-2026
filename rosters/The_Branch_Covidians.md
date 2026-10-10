@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-07**
+- Snapshot date: **2026-10-10**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -21,6 +21,7 @@
 - WR Courtland Sutton, DEN
 - WR Brian Thomas Jr., JAX
 - WR Xavier Worthy, KC
+- WR Roman Wilson, PIT
 - TE Harold Fannin Jr., CLE
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
