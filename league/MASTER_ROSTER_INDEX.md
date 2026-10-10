@@ -97,8 +97,8 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Chuba Hubbard | RB | CAR | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Josh Downs | WR | IND | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Travis Kelce | TE | KC | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
-|  | Caleb Douglas | WR | MIA | TEAM_05 | Long Live the King | 2026-09-27 roster snapshot |
 |  | Trevor Lawrence | QB | JAX | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
+|  | Mike Washington Jr. | RB | LV | TEAM_06 | boomers. | 2026-10-09 confirmed transaction |
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | David Montgomery | RB | HOU | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
 |  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-09-27 roster snapshot |
