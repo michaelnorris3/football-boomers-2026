@@ -104,3 +104,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261008-CALD | 2026-10-08 | 15:40 | 5 | Drop | Long Live the King |  | Caleb Douglas | Long Live the King | Waivers |  |  |  | User screenshot 2026-10-09 | Confirmed standalone player drop; screenshot labels Yesterday 3:40 PM. |
 | TX-20261009-MWA | 2026-10-09 | 19:36 | 5 | Add | boomers. |  | Mike Washington Jr. | Free Agency | boomers. |  |  |  | User screenshot 2026-10-09 | Added Washington, dropped Keaton Mitchell. |
 | TX-20261009-KMD | 2026-10-09 | 19:36 | 5 | Drop | boomers. |  | Keaton Mitchell | boomers. | Waivers |  |  |  | User screenshot 2026-10-09 | Dropped for Mike Washington Jr. |
+| TX-20261010-MHJA | 2026-10-10 | 12:19 | 5 | Add | boomers. |  | Marvin Harrison Jr. | Free Agency | boomers. |  |  |  | User screenshot 2026-10-11 | Added Harrison, dropped Juwan Johnson. |
+| TX-20261010-JJD | 2026-10-10 | 12:19 | 5 | Drop | boomers. |  | Juwan Johnson | boomers. | Waivers |  |  |  | User screenshot 2026-10-11 | Dropped for Marvin Harrison Jr. |
+| TX-20261011-CLA | 2026-10-11 | 07:25 | 5 | Add | Cazzata Malanga |  | Cam Little | Free Agency | Cazzata Malanga |  |  |  | User screenshot 2026-10-11 | Added Cam Little, dropped Drake Maye. |
+| TX-20261011-DMD | 2026-10-11 | 07:25 | 5 | Drop | Cazzata Malanga |  | Drake Maye | Cazzata Malanga | Waivers |  |  |  | User screenshot 2026-10-11 | Dropped for Cam Little. |
