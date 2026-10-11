@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-07**
+- Snapshot date: **2026-10-11**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -24,5 +24,5 @@
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
-- QB Drake Maye, NE
+- K Cam Little, JAX
 - RB Zach Charbonnet, SEA
