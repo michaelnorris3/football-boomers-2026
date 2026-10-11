@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-09**
+- Snapshot date: **2026-10-11**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -22,6 +22,6 @@
 - WR Devaughn Vele, NO
 - TE Tyler Warren, IND
 - IR A.J. Brown, NE
-- TE Juwan Johnson, NO
+- WR Marvin Harrison Jr., ARI
 - K Spencer Shrader, IND
 - D/ST Jaguars, JAX
