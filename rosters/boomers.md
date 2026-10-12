@@ -13,7 +13,7 @@
 - RB Kenneth Walker III, KC
 - RB David Montgomery, HOU
 - RB TreVeyon Henderson, NE
-- RB Mike Washington Jr., LV
+- WR Tre' Harris, LAC
 - RB Will Shipley, PHI
 - RB Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
