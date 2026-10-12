@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-10-07**
+- Snapshot date: **2026-10-11**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -19,9 +19,8 @@
 - WR Malik Nabers, NYG
 - WR Denzel Boston, CLE
 - TE Tucker Kraft, GB
-- D/ST Packers, GB
-- RB Kendre Miller, NO
-- RB Alvin Kamara, NO
+- D/ST Jets, NYJ
 - RB Emanuel Wilson, SEA
 - RB Ollie Gordon II, MIA
 - RB Brian Robinson Jr., ATL
+- K Jake Bates, DET
