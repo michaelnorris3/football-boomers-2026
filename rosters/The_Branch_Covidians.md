@@ -2,9 +2,9 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-10**
+- Snapshot date: **2026-10-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: User-provided authoritative initialization data
+- Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
@@ -12,7 +12,7 @@
 - QB Jayden Daniels, WSH
 - QB Patrick Mahomes, KC
 - RB Saquon Barkley, PHI
-- RB Breece Hall, NYJ
+- IR Breece Hall, NYJ
 - RB Jaylen Warren, PIT
 - RB Aaron Jones Sr., MIN
 - WR Amon-Ra St. Brown, DET
