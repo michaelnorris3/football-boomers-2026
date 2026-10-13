@@ -132,7 +132,6 @@ Current ownership is based on the authoritative roster snapshots dated 2026-09-2
 |  | Jared Goff | QB | DET | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Ashton Jeanty | RB | LV | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Rhamondre Stevenson | RB | NE | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
-|  | MarShawn Lloyd | RB | GB | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Bhayshul Tuten | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Kyle Monangai | RB | CHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
 |  | Tank Bigsby | RB | PHI | TEAM_08 | Cazzata Malanga | 2026-09-27 roster snapshot |
