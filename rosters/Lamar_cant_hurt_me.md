@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-10-04**
+- Snapshot date: **2026-10-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -11,7 +11,7 @@
 
 - QB Jalen Hurts, PHI
 - RB Bijan Robinson, ATL
-- RB Travis Etienne Jr., NO
+- IR Travis Etienne Jr., NO
 - RB Bucky Irving, TB
 - RB Kaelon Black, SF
 - WR Drake London, ATL
@@ -21,7 +21,7 @@
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
 - TE Dallas Goedert, PHI
-- TE Darren Waller, CAR
+- TE T.J. Hockenson, MIN
 - D/ST Steelers, PIT
 - K Cameron Dicker, LAC
 - RB Braelon Allen, NYJ
