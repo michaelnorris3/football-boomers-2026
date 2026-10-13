@@ -2,12 +2,14 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-10-11**
+- Snapshot date: **2026-10-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: User-provided authoritative initialization data
+- Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
+
+- QB Jacoby Brissett, ARI
 
 - RB James Cook III, BUF
 - RB Tyler Allgeier, ARI
@@ -15,7 +17,7 @@
 - WR Zay Flowers, BAL
 - WR Luther Burden III, CHI
 - WR Parker Washington, JAX
-- WR Jalen Coker, CAR
+- IR Jalen Coker, CAR
 - WR Malik Nabers, NYG
 - WR Denzel Boston, CLE
 - TE Tucker Kraft, GB
