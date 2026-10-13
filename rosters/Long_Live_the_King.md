@@ -2,9 +2,9 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-09**
+- Snapshot date: **2026-10-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: User-provided authoritative initialization data
+- Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
