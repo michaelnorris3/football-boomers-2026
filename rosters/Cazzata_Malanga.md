@@ -12,7 +12,6 @@
 - QB Jared Goff, DET
 - RB Ashton Jeanty, LV
 - RB Rhamondre Stevenson, NE
-- RB MarShawn Lloyd, GB
 - RB Bhayshul Tuten, JAX
 - RB Kyle Monangai, CHI
 - RB RJ Harvey, DEN
