@@ -126,7 +126,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Courtland Sutton | WR | DEN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Brian Thomas Jr. | WR | JAX | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Xavier Worthy | WR | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Roman Wilson | WR | PIT | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Harold Fannin Jr. | TE | CLE | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Broncos | D/ST | DEN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Evan McPherson | K | CIN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
