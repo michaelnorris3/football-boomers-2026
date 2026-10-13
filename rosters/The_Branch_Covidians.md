@@ -21,7 +21,6 @@
 - WR Courtland Sutton, DEN
 - WR Brian Thomas Jr., JAX
 - WR Xavier Worthy, KC
-- WR Roman Wilson, PIT
 - TE Harold Fannin Jr., CLE
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
