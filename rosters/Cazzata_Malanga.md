@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-14**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -14,7 +14,7 @@
 - RB Rhamondre Stevenson, NE
 - RB Bhayshul Tuten, JAX
 - RB Kyle Monangai, CHI
-- RB RJ Harvey, DEN
+- QB Jordan Love, GB
 - WR Jaxon Smith-Njigba, SEA
 - WR Chris Olave, NO
 - WR Christian Watson, GB
