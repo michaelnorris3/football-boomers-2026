@@ -64,7 +64,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Deebo Samuel Sr. | WR | SF | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
 |  | Romeo Doubs | WR | NE | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
 |  | Dallas Goedert | TE | PHI | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | T.J. Hockenson | TE | MIN | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
+|  | Jameis Winston | QB | NYG | TEAM_03 | Lamar can't hurt me | 2026-10-14 confirmed free-agent transaction |
 |  | Steelers | D/ST | PIT | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
 |  | Cameron Dicker | K | LAC | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
 |  | Braelon Allen | RB | NYJ | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
@@ -135,7 +135,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Chris Olave | WR | NO | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Christian Watson | WR | GB | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Jordan Addison | WR | MIN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Keon Coleman | WR | BUF | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
+|  | Patriots | D/ST | NE | TEAM_08 | Cazzata Malanga | 2026-10-14 confirmed free-agent transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
