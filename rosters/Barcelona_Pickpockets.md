@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-14**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -22,5 +22,5 @@
 - WR Adonai Mitchell, NYJ
 - TE Isaiah Likely, NYG
 - TE Brock Bowers, LV
-- K Harrison Mevis, LAR
-- D/ST Bengals, CIN
+- K Tyler Loop, BAL
+- D/ST Chiefs, KC
