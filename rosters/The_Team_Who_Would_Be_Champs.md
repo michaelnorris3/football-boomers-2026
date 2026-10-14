@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_01`
 - Manager: Andrew Leonard
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-14**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -24,4 +24,4 @@
 - TE George Kittle, SF
 - D/ST Rams, LAR
 - K Jason Myers, SEA
-- QB Justin Herbert, LAC
+- QB Drake Maye, NE
