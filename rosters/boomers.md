@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-14**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -11,10 +11,10 @@
 
 - QB Trevor Lawrence, JAX
 - RB Kenneth Walker III, KC
-- RB David Montgomery, HOU
 - RB TreVeyon Henderson, NE
-- WR Tre' Harris, LAC
-- RB Will Shipley, PHI
+- WR Germie Bernard, PIT
+- RB Woody Marks, HOU
+- RB MarShawn Lloyd, GB
 - IR Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
@@ -24,4 +24,4 @@
 - WR A.J. Brown, NE
 - WR Marvin Harrison Jr., HOU
 - K Spencer Shrader, IND
-- D/ST Jaguars, JAX
+- D/ST Ravens, BAL
