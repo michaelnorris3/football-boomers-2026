@@ -19,7 +19,7 @@
 - WR Chris Olave, NO
 - WR Christian Watson, GB
 - WR Jordan Addison, MIN
-- WR Keon Coleman, BUF
+- D/ST Patriots, NE
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
