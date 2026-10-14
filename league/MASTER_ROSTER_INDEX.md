@@ -36,7 +36,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | George Kittle | TE | SF | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Rams | D/ST | LAR | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Jason Myers | K | SEA | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
-|  | Justin Herbert | QB | LAC | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
+|  | Drake Maye | QB | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-14 confirmed waiver report |
 |  | Josh Allen | QB | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Omarion Hampton | RB | LAC | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Kyren Williams | RB | LAR | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
@@ -100,10 +100,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Vikings | D/ST | MIN | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Trevor Lawrence | QB | JAX | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | David Montgomery | RB | HOU | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Tre' Harris | WR | LAC | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Will Shipley | RB | PHI | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Jordan Mason | IR | MIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
@@ -113,7 +110,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | A.J. Brown | WR | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Marvin Harrison Jr. | WR | HOU | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Spencer Shrader | K | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Jaguars | D/ST | JAX | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Jayden Daniels | QB | WSH | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Patrick Mahomes | QB | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Saquon Barkley | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
@@ -134,7 +130,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Rhamondre Stevenson | RB | NE | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bhayshul Tuten | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Kyle Monangai | RB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | RJ Harvey | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
+|  | Jordan Love | QB | GB | TEAM_08 | Cazzata Malanga | 2026-10-14 confirmed waiver report |
 |  | Jaxon Smith-Njigba | WR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Chris Olave | WR | NO | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Christian Watson | WR | GB | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
@@ -158,8 +154,8 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Adonai Mitchell | WR | NYJ | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Isaiah Likely | TE | NYG | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Harrison Mevis | K | LAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Bengals | D/ST | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
+|  | Tyler Loop | K | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
+|  | Chiefs | D/ST | KC | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
 |  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Tyler Allgeier | RB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
@@ -176,3 +172,8 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ollie Gordon II | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Brian Robinson Jr. | RB | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Jake Bates | K | DET | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
+
+|  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
+|  | MarShawn Lloyd | RB | GB | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
+|  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
+|  | Ravens | D/ST | BAL | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
