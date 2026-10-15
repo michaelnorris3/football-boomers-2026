@@ -18,7 +18,6 @@
 - WR Amon-Ra St. Brown, DET
 - WR Tetairoa McMillan, CAR
 - WR Davante Adams, LAR
-- WR Courtland Sutton, DEN
 - WR Wan'Dale Robinson, TEN
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
