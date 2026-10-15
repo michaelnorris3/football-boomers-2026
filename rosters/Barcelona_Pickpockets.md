@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-14**
+- Snapshot date: **2026-10-15**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -11,7 +11,7 @@
 
 - QB Bryce Young, CAR
 - QB Caleb Williams, CHI
-- QB Tyler Shough, NO
+- RB Kendre Miller, NO
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
 - WR Malik Washington, MIA
@@ -19,7 +19,7 @@
 - WR Justin Jefferson, MIN
 - WR DeVonta Smith, PHI
 - WR DJ Moore, BUF
-- WR Adonai Mitchell, NYJ
+- WR Keenan Allen, IND
 - TE Isaiah Likely, NYG
 - TE Brock Bowers, LV
 - K Tyler Loop, BAL
