@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-15**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -19,8 +19,9 @@
 - WR Tetairoa McMillan, CAR
 - WR Davante Adams, LAR
 - WR Courtland Sutton, DEN
-- WR Brian Thomas Jr., JAX
+- WR Wan'Dale Robinson, TEN
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
+- K Matt Gay, LV
