@@ -15,7 +15,7 @@
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
 - WR Malik Washington, MIA
-- RB Jacory Croskey-Merritt, WSH
+- WR Efton Chism III, NE
 - WR Justin Jefferson, MIN
 - WR DeVonta Smith, PHI
 - WR DJ Moore, BUF
