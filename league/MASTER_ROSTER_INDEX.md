@@ -147,7 +147,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Malik Washington | WR | MIA | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Jacory Croskey-Merritt | RB | WSH | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
+|  | Efton Chism III | WR | NE | TEAM_09 | Barcelona Pickpockets | 2026-10-15 confirmed transaction |
 |  | Justin Jefferson | WR | MIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | DeVonta Smith | WR | PHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | DJ Moore | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
