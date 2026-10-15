@@ -143,7 +143,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Caleb Williams | QB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Tyler Shough | QB | NO | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
+|  | Kendre Miller | RB | NO | TEAM_09 | Barcelona Pickpockets | 2026-10-15 confirmed transaction |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Malik Washington | WR | MIA | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
@@ -151,7 +151,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Justin Jefferson | WR | MIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | DeVonta Smith | WR | PHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | DJ Moore | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Adonai Mitchell | WR | NYJ | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
+|  | Keenan Allen | WR | IND | TEAM_09 | Barcelona Pickpockets | 2026-10-15 confirmed transaction |
 |  | Isaiah Likely | TE | NYG | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Tyler Loop | K | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
