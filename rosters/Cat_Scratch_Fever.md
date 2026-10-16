@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_02`
 - Manager: Josh P
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-16**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -22,5 +22,5 @@
 - WR Makai Lemon, PHI
 - TE Brenton Strange, JAX
 - D/ST Seahawks, SEA
-- D/ST Cowboys, DAL
+- D/ST Jaguars, JAX
 - K Tyler Bass, BUF
