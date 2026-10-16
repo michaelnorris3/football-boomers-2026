@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-14**
+- Snapshot date: **2026-10-16**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -23,5 +23,4 @@
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
-- K Cam Little, JAX
 - IR Zach Charbonnet, SEA
