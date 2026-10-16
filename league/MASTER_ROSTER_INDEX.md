@@ -154,7 +154,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Tyler Loop | K | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
 |  | Chiefs | D/ST | KC | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
-|  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
+|  | Kirk Cousins | QB | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-14 confirmed transaction |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Tyler Allgeier | RB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Emmett Johnson | RB | KC | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
