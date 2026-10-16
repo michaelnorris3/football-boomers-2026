@@ -21,6 +21,15 @@
 - Bench: 5 active reserve slots; separate IR slot: 1.
 - When evaluating lineups, roster needs, waiver claims, trades, and bye-week coverage, always account for all three required WR starters and the additional FLEX.
 
+## Playoff qualification and seeding
+
+- Six of ten teams qualify for the playoffs.
+- Divisions do not affect playoff qualification or seeding.
+- Seeds 1-5: the five best overall win-loss records, with total points for (PF) used as the tiebreaker.
+- Seed 6 (points wildcard): of the five teams not qualified through record, the team with the highest season-total PF qualifies, regardless of win-loss record.
+- Seeds 1 and 2 receive a first-round playoff bye.
+- For playoff-odds and strategy analysis, model both record-based qualification and the independent PF wildcard; do not equate the PF wildcard with sixth overall in league PF.
+
 ## Transaction and lock rules
 
 - Rolling waiver priority: a successful waiver claim moves that team to the bottom.
