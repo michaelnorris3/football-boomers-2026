@@ -8,6 +8,19 @@
 - Schedule coverage: Weeks 1-2 complete; only the supplied boomers. Weeks 3-14 schedule entries are known.
 - Unknown schedules, scores, and player ownership are left blank until supplied.
 
+## Starting lineup requirements
+
+- QB: 1
+- RB: 2
+- WR: 3 (three mandatory WR starters, not two)
+- TE: 1
+- FLEX: 1 (RB, WR, or TE eligible)
+- D/ST: 1
+- K: 1
+- Total weekly starters: 10
+- Bench: 5 active reserve slots; separate IR slot: 1.
+- When evaluating lineups, roster needs, waiver claims, trades, and bye-week coverage, always account for all three required WR starters and the additional FLEX.
+
 ## Transaction and lock rules
 
 - Rolling waiver priority: a successful waiver claim moves that team to the bottom.
