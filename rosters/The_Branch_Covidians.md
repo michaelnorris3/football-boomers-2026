@@ -24,3 +24,4 @@
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
 - K Matt Gay, LV
+- RB Dameon Pierce, PHI
