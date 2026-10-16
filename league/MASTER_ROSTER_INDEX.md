@@ -50,7 +50,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Makai Lemon | WR | PHI | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Brenton Strange | TE | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Cowboys | D/ST | DAL | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
+|  | Jaguars | D/ST | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-16 confirmed waiver claim |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jalen Hurts | QB | PHI | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
 |  | Bijan Robinson | RB | ATL | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
