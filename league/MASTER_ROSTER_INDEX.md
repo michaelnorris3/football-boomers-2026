@@ -14,7 +14,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-13 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-13 |
-| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-13 |
+| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-16 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-13 |
 
 ## Current player ownership
@@ -141,7 +141,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Cam Little | K | JAX | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Caleb Williams | QB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
+|  | Keon Coleman | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-16 confirmed screenshot |
 |  | Kendre Miller | RB | NO | TEAM_09 | Barcelona Pickpockets | 2026-10-15 confirmed transaction |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
