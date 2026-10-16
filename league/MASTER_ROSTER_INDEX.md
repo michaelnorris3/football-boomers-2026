@@ -11,11 +11,11 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-13 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-13 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-13 |
-| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-13 |
+| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-16 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-13 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-16 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-16 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-13 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-16 |
 
 ## Current player ownership
 
@@ -104,7 +104,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jordan Mason | IR | MIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
+|  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | A.J. Brown | WR | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
@@ -138,7 +138,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Cam Little | K | JAX | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Keon Coleman | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-16 confirmed screenshot |
