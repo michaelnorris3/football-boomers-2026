@@ -108,3 +108,8 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261010-JJD | 2026-10-10 | 12:19 | 5 | Drop | boomers. |  | Juwan Johnson | boomers. | Waivers |  |  |  | User screenshot 2026-10-11 | Dropped for Marvin Harrison Jr. |
 | TX-20261011-CLA | 2026-10-11 | 07:25 | 5 | Add | Cazzata Malanga |  | Cam Little | Free Agency | Cazzata Malanga |  |  |  | User screenshot 2026-10-11 | Added Cam Little, dropped Drake Maye. |
 | TX-20261011-DMD | 2026-10-11 | 07:25 | 5 | Drop | Cazzata Malanga |  | Drake Maye | Cazzata Malanga | Waivers |  |  |  | User screenshot 2026-10-11 | Dropped for Cam Little. |
+
+| TX-20261016-01A | 2026-10-16 | 03:53 | 6 | Add | Cat Scratch Fever |  | Jaguars D/ST | Free Agency | Cat Scratch Fever |  | 1 | 10 | User ESPN waiver screenshot 2026-10-16 | Successful waiver claim; roster and waiver order already reflected in GitHub. |
+| TX-20261016-01D | 2026-10-16 | 03:53 | 6 | Drop | Cat Scratch Fever |  | Cowboys D/ST | Cat Scratch Fever | Waivers |  | 1 | 10 | User ESPN waiver screenshot 2026-10-16 | Dropped with Jaguars D/ST claim; roster already reflected in GitHub. |
+| TX-20261016-02A | 2026-10-16 | 10:28 | 6 | Add | Barcelona Pickpockets |  | Keon Coleman | Free Agency | Barcelona Pickpockets |  |  |  | User ESPN transaction screenshot 2026-10-16 | Added Keon Coleman (BUF WR). |
+| TX-20261016-02D | 2026-10-16 | 10:28 | 6 | Drop | Barcelona Pickpockets |  | Caleb Williams | Barcelona Pickpockets | Waivers |  |  |  | User ESPN transaction screenshot 2026-10-16 | Dropped Caleb Williams (CHI QB). |
