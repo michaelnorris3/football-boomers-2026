@@ -119,7 +119,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Amon-Ra St. Brown | WR | DET | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Tetairoa McMillan | WR | CAR | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Davante Adams | WR | LAR | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Courtland Sutton | WR | DEN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Wan'Dale Robinson | WR | TEN | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Xavier Worthy | WR | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Harold Fannin Jr. | TE | CLE | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
@@ -178,3 +177,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Ravens | D/ST | BAL | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Matt Gay | K | LV | TEAM_07 | The Branch Covidians | 2026-10-14 confirmed transaction |
+|  | Dameon Pierce | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
