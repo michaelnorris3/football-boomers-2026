@@ -9,7 +9,7 @@
 
 ## Current Roster
 
-- QB Jacoby Brissett, ARI
+- QB Kirk Cousins, ATL
 
 - RB James Cook III, BUF
 - RB Tyler Allgeier, ARI
