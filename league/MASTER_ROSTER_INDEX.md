@@ -165,11 +165,10 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Malik Nabers | WR | NYG | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Denzel Boston | WR | CLE | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Tucker Kraft | TE | GB | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
-|  | Jets | D/ST | NYJ | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
+|  | 49ers | D/ST | SF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-14 confirmed transaction |
 |  | Emanuel Wilson | RB | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Ollie Gordon II | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Brian Robinson Jr. | RB | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
-|  | Jake Bates | K | DET | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 
 |  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | MarShawn Lloyd | RB | GB | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
