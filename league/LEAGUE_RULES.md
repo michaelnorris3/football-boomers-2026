@@ -5,8 +5,8 @@
 - Teams: 10
 - Scoring: PPR
 - Matchups: Weekly head-to-head
-- Schedule coverage: Weeks 1-2 complete; only the supplied boomers. Weeks 3-14 schedule entries are known.
-- Unknown schedules, scores, and player ownership are left blank until supplied.
+- Schedule, results, standings, and current player ownership are maintained in their respective authoritative files. Do not infer their current state from this rules document.
+- Use the latest confirmed ESPN screenshots and reconciled GitHub records for time-sensitive league information.
 
 ## Starting lineup requirements
 
@@ -33,13 +33,12 @@
 - Never recommend a waiver/free-agent add without verifying the player is currently unrostered.
 - Historical transactions are append-only. Later confirmed transactions supersede earlier state without rewriting history.
 
-## Strategic context
+## Analysis guidance
 
-- boomers. is 1-1 after Week 2.
-- Main roster-construction concern: RB depth.
-- Be cautious about trading Kenneth Walker III, David Montgomery, or TreVeyon Henderson until Jordan Mason returns or additional viable RB depth is secured.
-- boomers. has A.J. Brown on IR and Jordan Mason on the roster.
-- boomers. has Eddy Pineiro at kicker and no longer has Dontayvion Wicks or Cam Little.
-- Week 3 opponent: Champs?AllSigns Point 2 YES!!.
-- For weekly analysis, prioritize the upcoming head-to-head matchup while maintaining awareness of roster construction and waiver priority.
+- This document contains stable league rules, not current standings, rosters, injuries, or matchup status.
+- For rostered players and ownership, consult `league/MASTER_ROSTER_INDEX.md` and the individual team files under `rosters/`, applying any newer confirmed transactions.
+- For waiver order, consult `league/WAIVER_ORDER.md`; do not infer priority from league standings.
+- For historical transactions, consult `league/TRANSACTION_LOG.md` and confirmed screenshots. Do not invent missing transactions.
+- For weekly matchups and results, consult the latest confirmed schedule/results files and screenshots.
+- For weekly analysis, prioritize the upcoming head-to-head matchup, injury and bye-week coverage, and the user's expected starting lineup over speculative long-term bench value.
 - For news reports, focus on injuries, practice status, workload/depth-chart changes, opponent implications, waiver opportunities, and start/sit impact.
