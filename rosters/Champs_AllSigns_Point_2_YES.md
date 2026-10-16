@@ -4,7 +4,7 @@
 - Manager: Chris Gibson
 - Snapshot date: **2026-10-16**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: ESPN current roster screenshot supplied 2026-10-13
+- Source: ESPN roster snapshot 2026-10-13 reconciled with transaction screenshots through 2026-10-16
 - Authoritative: **YES**
 
 ## Current Roster
@@ -21,8 +21,7 @@
 - WR Malik Nabers, NYG
 - WR Denzel Boston, CLE
 - TE Tucker Kraft, GB
-- D/ST Jets, NYJ
+- D/ST 49ers, SF
 - RB Emanuel Wilson, SEA
 - RB Ollie Gordon II, MIA
 - RB Brian Robinson Jr., ATL
-- K Jake Bates, DET
