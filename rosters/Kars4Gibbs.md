@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_04`
 - Manager: Brett Boliver
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -21,6 +21,6 @@
 - QB Dak Prescott, DAL
 - WR Tre Tucker, LV
 - QB Brock Purdy, SF
-- TE Kenyon Sadiq, NYJ
+- RB Alvin Kamara, NO
 - WR Kalif Raymond, CHI
-- D/ST Bills, BUF
+- RB Rachaad White, WSH
