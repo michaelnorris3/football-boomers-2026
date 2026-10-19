@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-16**
+- Snapshot date: **2026-10-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -15,6 +15,7 @@
 - RB Bhayshul Tuten, JAX
 - RB Kyle Monangai, CHI
 - QB Jordan Love, GB
+- QB Caleb Williams, CHI
 - WR Jaxon Smith-Njigba, SEA
 - WR Chris Olave, NO
 - WR Christian Watson, GB
