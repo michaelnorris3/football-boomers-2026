@@ -8,14 +8,14 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |---|---|---|---|---|
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-10-13 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-13 |
-| TEAM_03 | Lamar can't hurt me | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-13 |
-| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-13 |
-| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-13 |
-| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-16 |
+| TEAM_03 | W' Eaters | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-18 |
+| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-18 |
+| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-18 |
+| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-18 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-16 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-18 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-16 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-16 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-18 |
 
 ## Current player ownership
 
@@ -52,22 +52,22 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jaguars | D/ST | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-16 confirmed waiver claim |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Jalen Hurts | QB | PHI | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Bijan Robinson | RB | ATL | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Travis Etienne Jr. | IR | NO | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Bucky Irving | RB | TB | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Kaelon Black | RB | SF | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Drake London | WR | ATL | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Nico Collins | WR | HOU | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Ladd McConkey | WR | LAC | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Stefon Diggs | WR | WSH | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Deebo Samuel Sr. | WR | SF | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Romeo Doubs | WR | NE | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Dallas Goedert | TE | PHI | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Jameis Winston | QB | NYG | TEAM_03 | Lamar can't hurt me | 2026-10-14 confirmed free-agent transaction |
-|  | Steelers | D/ST | PIT | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Cameron Dicker | K | LAC | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
-|  | Braelon Allen | RB | NYJ | TEAM_03 | Lamar can't hurt me | 2026-10-13 ESPN verified roster |
+|  | Jalen Hurts | QB | PHI | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Bijan Robinson | RB | ATL | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Travis Etienne Jr. | IR | NO | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Bucky Irving | RB | TB | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Kaelon Black | RB | SF | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Drake London | WR | ATL | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Nico Collins | WR | HOU | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Ladd McConkey | WR | LAC | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Stefon Diggs | WR | WSH | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Deebo Samuel Sr. | WR | SF | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Romeo Doubs | WR | NE | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Dallas Goedert | TE | PHI | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Jameis Winston | QB | NYG | TEAM_03 | W' Eaters | 2026-10-14 confirmed free-agent transaction |
+|  | Steelers | D/ST | PIT | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Cameron Dicker | K | LAC | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Braelon Allen | RB | NYJ | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
 |  | Jahmyr Gibbs | RB | DET | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Jeremiyah Love | RB | ARI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Emeka Egbuka | WR | TB | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
@@ -80,9 +80,9 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Dak Prescott | QB | DAL | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Tre Tucker | WR | LV | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Brock Purdy | QB | SF | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
-|  | Kenyon Sadiq | TE | NYJ | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
+|  | Alvin Kamara | RB | NO | TEAM_04 | Kars4Gibbs | 2026-10-18 confirmed transaction |
 |  | Kalif Raymond | WR | CHI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
-|  | Bills | D/ST | BUF | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
+|  | Rachaad White | RB | WSH | TEAM_04 | Kars4Gibbs | 2026-10-18 confirmed transaction |
 |  | Lamar Jackson | QB | BAL | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Christian McCaffrey | RB | SF | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Derrick Henry | RB | BAL | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
@@ -105,7 +105,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
-|  | Devaughn Vele | WR | NO | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
+|  | Juwan Johnson | TE | NO | TEAM_06 | boomers. | 2026-10-18 confirmed transaction |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | A.J. Brown | WR | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Marvin Harrison Jr. | WR | HOU | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
@@ -154,7 +154,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Tyler Loop | K | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
 |  | Chiefs | D/ST | KC | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
-|  | Kirk Cousins | QB | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-14 confirmed transaction |
+|  | Tyler Shough | QB | NO | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-18 confirmed transaction |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Tyler Allgeier | RB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Emmett Johnson | RB | KC | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
@@ -176,3 +176,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ravens | D/ST | BAL | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Matt Gay | K | LV | TEAM_07 | The Branch Covidians | 2026-10-14 confirmed transaction |
 |  | Dameon Pierce | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
+|  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
+|  | Giants | D/ST | NYG | TEAM_05 | Long Live the King | 2026-10-17 confirmed transaction |
