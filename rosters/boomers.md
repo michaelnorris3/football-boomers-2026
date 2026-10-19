@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-16**
+- Snapshot date: **2026-10-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -19,7 +19,7 @@
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - RB Josh Jacobs, GB
-- WR Devaughn Vele, NO
+- TE Juwan Johnson, NO
 - TE Tyler Warren, IND
 - WR A.J. Brown, NE
 - WR Marvin Harrison Jr., HOU
