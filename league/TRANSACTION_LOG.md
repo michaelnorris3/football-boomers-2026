@@ -166,8 +166,8 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261018-BILLS-D | 2026-10-18 | 12:39 | 6 | Drop | Kars4Gibbs |  | Bills D/ST | Kars4Gibbs | Waivers |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction. |
 | TX-20261018-KAMARA-A | 2026-10-18 | 12:40 | 6 | Add | Kars4Gibbs |  | Alvin Kamara | Free Agency | Kars4Gibbs |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction. |
 | TX-20261018-SADIQ-D | 2026-10-18 | 12:40 | 6 | Drop | Kars4Gibbs |  | Kenyon Sadiq | Kars4Gibbs | Waivers |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction. |
-| TX-20261018-JUWAN-A | 2026-10-18 | time not visible | 6 | Add | boomers. |  | Juwan Johnson | Free Agency | boomers. |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction. |
-| TX-20261018-VELE-D | 2026-10-18 | time not visible | 6 | Drop | boomers. |  | Devaughn Vele | boomers. | Waivers |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction. |
+| TX-20261018-JUWAN-A | 2026-10-18 | 11:37 | 6 | Add | boomers. |  | Juwan Johnson | Free Agency | boomers. |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction at 11:37 AM ET per user clarification. |
+| TX-20261018-VELE-D | 2026-10-18 | 11:37 | 6 | Drop | boomers. |  | Devaughn Vele | boomers. | Waivers |  |  |  | ESPN activity screenshots 2026-10-18 | Confirmed transaction at 11:37 AM ET per user clarification. |
 | TX-20261017-RENAME1 | 2026-10-17 | 09:00 | 6 | Rename | W' Eaters |  |  | Lamar can't hurt me | DVTs and INTs |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
 | TX-20261017-RENAME2 | 2026-10-17 | 09:40 | 6 | Rename | W' Eaters |  |  | DVTs and INTs | W Eaters |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
 | TX-20261017-RENAME3 | 2026-10-17 | 09:40 | 6 | Rename | W' Eaters |  |  | W Eaters | W' Eaters |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
