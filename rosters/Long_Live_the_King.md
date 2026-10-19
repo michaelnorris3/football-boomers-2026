@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-13**
+- Snapshot date: **2026-10-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -24,3 +24,4 @@
 - WR Josh Downs, IND
 - TE Travis Kelce, KC
 - D/ST Vikings, MIN
+- D/ST Giants, NYG
