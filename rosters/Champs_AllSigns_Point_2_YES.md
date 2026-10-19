@@ -9,7 +9,7 @@
 
 ## Current Roster
 
-- QB Kirk Cousins, ATL
+- QB Tyler Shough, NO
 
 - RB James Cook III, BUF
 - RB Tyler Allgeier, ARI
