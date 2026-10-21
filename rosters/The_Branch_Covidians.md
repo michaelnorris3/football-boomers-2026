@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-15**
+- Snapshot date: **2026-10-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -23,5 +23,5 @@
 - TE Harold Fannin Jr., CLE
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
-- K Matt Gay, LV
+- WR Devaughn Vele, NO
 - RB Dameon Pierce, PHI
