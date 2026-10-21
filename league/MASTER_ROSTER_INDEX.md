@@ -136,7 +136,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jordan Addison | WR | MIN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | RJ Harvey | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
+|  | Ja'Kobi Lane | WR | BAL | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
