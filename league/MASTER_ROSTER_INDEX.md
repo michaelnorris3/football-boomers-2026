@@ -134,7 +134,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Chris Olave | WR | NO | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Christian Watson | WR | GB | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Jordan Addison | WR | MIN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | RJ Harvey | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
+|  | Jonah Coleman | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Ja'Kobi Lane | WR | BAL | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
