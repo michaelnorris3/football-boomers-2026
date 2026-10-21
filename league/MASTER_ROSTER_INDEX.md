@@ -134,7 +134,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Chris Olave | WR | NO | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Christian Watson | WR | GB | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Jordan Addison | WR | MIN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Patriots | D/ST | NE | TEAM_08 | Cazzata Malanga | 2026-10-14 confirmed free-agent transaction |
+|  | RJ Harvey | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Dalton Kincaid | TE | BUF | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Texans | D/ST | HOU | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
@@ -174,6 +174,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | C.J. Stroud | QB | HOU | TEAM_06 | boomers. | 2026-10-21 confirmed transaction |
 |  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Browns | D/ST | CLE | TEAM_06 | boomers. | 2026-10-21 confirmed transaction |
-|  | Matt Gay | K | LV | TEAM_07 | The Branch Covidians | 2026-10-14 confirmed transaction |
+|  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
 |  | Dameon Pierce | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
