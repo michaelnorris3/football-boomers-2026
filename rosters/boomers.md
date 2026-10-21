@@ -19,7 +19,7 @@
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - RB Josh Jacobs, GB
-- WR Jordyn Tyson, NO
+- TE Tyler Higbee, LAR
 - TE Tyler Warren, IND
 - WR A.J. Brown, NE
 - WR Marvin Harrison Jr., HOU
