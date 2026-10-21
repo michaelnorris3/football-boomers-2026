@@ -22,6 +22,6 @@
 - WR Jordan Addison, MIN
 - RB RJ Harvey, DEN
 - TE Colston Loveland, CHI
-- TE Dalton Kincaid, BUF
+- WR Ja'Kobi Lane, BAL
 - D/ST Texans, HOU
 - IR Zach Charbonnet, SEA
