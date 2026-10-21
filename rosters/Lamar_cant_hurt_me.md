@@ -1,6 +1,6 @@
-# W' Eaters
+# Ayahuasca and Cucking
 
-- Previous names: Lamar can't hurt me; DVTs and INTs; W Eaters
+- Previous names: Lamar can't hurt me; DVTs and INTs; W Eaters; W' Eaters
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
@@ -11,11 +11,11 @@
 
 ## Current Roster
 
-- QB Jalen Hurts, PHI
+- WR Chris Godwin Jr., TB
 - RB Bijan Robinson, ATL
 - IR Travis Etienne Jr., NO
 - RB Bucky Irving, TB
-- RB Kaelon Black, SF
+- RB David Montgomery, HOU
 - WR Drake London, ATL
 - WR Nico Collins, HOU
 - WR Ladd McConkey, LAC
@@ -25,5 +25,5 @@
 - TE Dallas Goedert, PHI
 - QB Aaron Rodgers, PIT
 - D/ST Steelers, PIT
-- K Cameron Dicker, LAC
+- K Chris Boswell, PIT
 - RB Braelon Allen, NYJ
