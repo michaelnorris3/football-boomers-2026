@@ -8,7 +8,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |---|---|---|---|---|
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-10-13 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-13 |
-| TEAM_03 | W' Eaters | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-21 |
+| TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-21 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-18 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-21 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-21 |
@@ -52,22 +52,22 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jaguars | D/ST | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-16 confirmed waiver claim |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Jalen Hurts | QB | PHI | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Bijan Robinson | RB | ATL | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Travis Etienne Jr. | IR | NO | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Bucky Irving | RB | TB | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Kaelon Black | RB | SF | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Drake London | WR | ATL | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Nico Collins | WR | HOU | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Ladd McConkey | WR | LAC | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Stefon Diggs | WR | WSH | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Deebo Samuel Sr. | WR | SF | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Romeo Doubs | WR | NE | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Dallas Goedert | TE | PHI | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Aaron Rodgers | QB | PIT | TEAM_03 | W' Eaters | 2026-10-21 confirmed transaction |
-|  | Steelers | D/ST | PIT | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Cameron Dicker | K | LAC | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
-|  | Braelon Allen | RB | NYJ | TEAM_03 | W' Eaters | 2026-10-13 ESPN verified roster |
+|  | Chris Godwin Jr. | WR | TB | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
+|  | Bijan Robinson | RB | ATL | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Travis Etienne Jr. | IR | NO | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Bucky Irving | RB | TB | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | David Montgomery | RB | HOU | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
+|  | Drake London | WR | ATL | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Nico Collins | WR | HOU | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Ladd McConkey | WR | LAC | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Stefon Diggs | WR | WSH | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Deebo Samuel Sr. | WR | SF | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Romeo Doubs | WR | NE | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Dallas Goedert | TE | PHI | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Aaron Rodgers | QB | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
+|  | Steelers | D/ST | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
+|  | Chris Boswell | K | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
+|  | Braelon Allen | RB | NYJ | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Jahmyr Gibbs | RB | DET | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Jeremiyah Love | RB | ARI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Emeka Egbuka | WR | TB | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
