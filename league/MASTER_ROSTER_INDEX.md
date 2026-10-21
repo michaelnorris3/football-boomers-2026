@@ -105,7 +105,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
-|  | Jordyn Tyson | WR | NO | TEAM_06 | boomers. | 2026-10-21 confirmed transaction |
+|  | Tyler Higbee | TE | LAR | TEAM_06 | boomers. | 2026-10-21 confirmed transaction |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | A.J. Brown | WR | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Marvin Harrison Jr. | WR | HOU | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
