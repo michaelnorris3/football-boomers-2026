@@ -195,3 +195,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261021-SEAN-MONTY-A | 2026-10-21 | time not visible | 7 | Add | Ayahuasca and Cucking |  | David Montgomery | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot 2026-10-21 | Confirmed roster transaction. |
 | TX-20261021-SEAN-BLACK-D | 2026-10-21 | time not visible | 7 | Drop | Ayahuasca and Cucking |  | Kaelon Black | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot 2026-10-21 | Confirmed roster transaction. |
 | TX-20261021-SEAN-RENAME | 2026-10-21 | time not visible | 7 | Rename | Ayahuasca and Cucking |  |  | W' Eaters | Ayahuasca and Cucking |  |  |  | ESPN screenshot 2026-10-21 | Same TEAM_03, Sean Vitale. |
+| TX-20261021-HIGBEE-A | 2026-10-21 | 13:31 | 7 | Add | boomers. |  | Tyler Higbee | Free Agency | boomers. |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free-agent transaction. |
+| TX-20261021-TYSON-D | 2026-10-21 | 13:31 | 7 | Drop | boomers. |  | Jordyn Tyson | boomers. | Waivers |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free-agent transaction. |
