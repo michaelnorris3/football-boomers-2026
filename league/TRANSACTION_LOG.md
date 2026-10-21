@@ -184,3 +184,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261021-JUWAN-D | 2026-10-21 | 05:03 | 7 | Drop | boomers. |  | Juwan Johnson | boomers. | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
 | TX-20261021-BROWNS-A | 2026-10-21 | 05:07 | 7 | Add | boomers. |  | Browns D/ST | Free Agency | boomers. |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
 | TX-20261021-RAVENS-D | 2026-10-21 | 05:07 | 7 | Drop | boomers. |  | Ravens D/ST | boomers. | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-HARVEY-A | 2026-10-21 | 06:59 | 7 | Add | Cazzata Malanga |  | RJ Harvey | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free agent transaction. |
+| TX-20261021-PATS-D | 2026-10-21 | 06:59 | 7 | Drop | Cazzata Malanga |  | Patriots D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free agent transaction. |
+| TX-20261021-VELE-A | 2026-10-21 | 07:38 | 7 | Add | The Branch Covidians |  | Devaughn Vele | Free Agency | The Branch Covidians |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free agent transaction. |
+| TX-20261021-GAY-D | 2026-10-21 | 07:38 | 7 | Drop | The Branch Covidians |  | Matt Gay | The Branch Covidians | Waivers |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed free agent transaction. |
