@@ -171,3 +171,16 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261017-RENAME1 | 2026-10-17 | 09:00 | 6 | Rename | W' Eaters |  |  | Lamar can't hurt me | DVTs and INTs |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
 | TX-20261017-RENAME2 | 2026-10-17 | 09:40 | 6 | Rename | W' Eaters |  |  | DVTs and INTs | W Eaters |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
 | TX-20261017-RENAME3 | 2026-10-17 | 09:40 | 6 | Rename | W' Eaters |  |  | W Eaters | W' Eaters |  |  |  | ESPN activity screenshots 2026-10-18 | Same TEAM_03 franchise; name change only. |
+| TX-20261020-GIANTS-D | 2026-10-20 | 12:29 | 7 | Drop | Long Live the King |  | Giants D/ST | Long Live the King | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-RODGERS-A | 2026-10-21 | 03:33 | 7 | Add | W' Eaters |  | Aaron Rodgers | Waivers | W' Eaters |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-WINSTON-D | 2026-10-21 | 03:33 | 7 | Drop | W' Eaters |  | Jameis Winston | W' Eaters | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-DOUGLAS-A | 2026-10-21 | 03:33 | 7 | Add | Long Live the King |  | DeMario Douglas | Waivers | Long Live the King |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-MCLAURIN-D | 2026-10-21 | 03:33 | 7 | Drop | Long Live the King |  | Terry McLaurin | Long Live the King | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-COOPER-A | 2026-10-21 | 03:33 | 7 | Add | Barcelona Pickpockets |  | Omar Cooper Jr. | Waivers | Barcelona Pickpockets |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-CHISM-D | 2026-10-21 | 03:33 | 7 | Drop | Barcelona Pickpockets |  | Efton Chism III | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-STROUD-A | 2026-10-21 | 05:01 | 7 | Add | boomers. |  | C.J. Stroud | Free Agency | boomers. |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-LLOYD-D | 2026-10-21 | 05:01 | 7 | Drop | boomers. |  | MarShawn Lloyd | boomers. | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-TYSON-A | 2026-10-21 | 05:03 | 7 | Add | boomers. |  | Jordyn Tyson | Free Agency | boomers. |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-JUWAN-D | 2026-10-21 | 05:03 | 7 | Drop | boomers. |  | Juwan Johnson | boomers. | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-BROWNS-A | 2026-10-21 | 05:07 | 7 | Add | boomers. |  | Browns D/ST | Free Agency | boomers. |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
+| TX-20261021-RAVENS-D | 2026-10-21 | 05:07 | 7 | Drop | boomers. |  | Ravens D/ST | boomers. | Waivers |  |  |  | ESPN screenshots 2026-10-21 | Confirmed transaction. |
