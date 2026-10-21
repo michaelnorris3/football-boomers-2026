@@ -20,7 +20,7 @@
 - WR Chris Olave, NO
 - WR Christian Watson, GB
 - WR Jordan Addison, MIN
-- RB RJ Harvey, DEN
+- RB Jonah Coleman, DEN
 - TE Colston Loveland, CHI
 - WR Ja'Kobi Lane, BAL
 - D/ST Texans, HOU
