@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-18**
+- Snapshot date: **2026-10-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -14,7 +14,7 @@
 - RB Derrick Henry, BAL
 - WR George Pickens, DAL
 - WR Tee Higgins, CIN
-- WR Terry McLaurin, WSH
+- WR DeMario Douglas, NE
 - TE Sam LaPorta, DET
 - WR Mike Evans, SF
 - K Ka'imi Fairbairn, HOU
@@ -24,4 +24,3 @@
 - WR Josh Downs, IND
 - TE Travis Kelce, KC
 - D/ST Vikings, MIN
-- D/ST Giants, NYG
