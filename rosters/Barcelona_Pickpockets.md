@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-16**
+- Snapshot date: **2026-10-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -15,7 +15,7 @@
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
 - WR Malik Washington, MIA
-- WR Efton Chism III, NE
+- WR Omar Cooper Jr., NYJ
 - WR Justin Jefferson, MIN
 - WR DeVonta Smith, PHI
 - WR DJ Moore, BUF
