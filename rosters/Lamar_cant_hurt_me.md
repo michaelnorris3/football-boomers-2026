@@ -4,7 +4,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-10-18**
+- Snapshot date: **2026-10-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -23,7 +23,7 @@
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
 - TE Dallas Goedert, PHI
-- QB Jameis Winston, NYG
+- QB Aaron Rodgers, PIT
 - D/ST Steelers, PIT
 - K Cameron Dicker, LAC
 - RB Braelon Allen, NYJ
