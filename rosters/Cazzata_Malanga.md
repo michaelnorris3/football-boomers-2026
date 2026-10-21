@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-18**
+- Snapshot date: **2026-10-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -20,7 +20,7 @@
 - WR Chris Olave, NO
 - WR Christian Watson, GB
 - WR Jordan Addison, MIN
-- D/ST Patriots, NE
+- RB RJ Harvey, DEN
 - TE Colston Loveland, CHI
 - TE Dalton Kincaid, BUF
 - D/ST Texans, HOU
