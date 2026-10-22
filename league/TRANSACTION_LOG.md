@@ -200,4 +200,8 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261021-LANE-A | 2026-10-21 | 15:23 | 7 | Add | Cazzata Malanga |  | Ja'Kobi Lane | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed transaction. |
 | TX-20261021-KINCAID-D | 2026-10-21 | 15:23 | 7 | Drop | Cazzata Malanga |  | Dalton Kincaid | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed transaction. |
 | TX-20261021-JCOLEMAN-A | 2026-10-21 | 18:20 | 7 | Add | Cazzata Malanga |  | Jonah Coleman | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed transaction. |
-| TX-20261021-HARVEY-D | 2026-10-21 | 18:20 | 7 | Drop | Cazzata Malanga |  | RJ Harvey | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed transaction. |
+| TX-20261021-HARVEY-D | 2026-10-21 | 18:20 | 7 | Drop | Cazzata Malanga |  | RJ Harvey | Cazzata Malanga | Free Agency |  |  |  | ESPN activity screenshot 2026-10-21 | Confirmed transaction. |
+| TX-20261022-TITANS-A | 2026-10-22 | 12:42 | 7 | Add | The Team Who Would Be Champs |  | Titans D/ST | Free Agency | The Team Who Would Be Champs |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
+| TX-20261022-RAMS-D | 2026-10-22 | 12:42 | 7 | Drop | The Team Who Would Be Champs |  | Rams D/ST | The Team Who Would Be Champs | Waivers |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
+| TX-20261022-HARVEY-A | 2026-10-22 | 12:41 | 7 | Add | The Team Who Would Be Champs |  | RJ Harvey | Free Agency | The Team Who Would Be Champs |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
+| TX-20261022-SKATTEBO-D | 2026-10-22 | 12:41 | 7 | Drop | The Team Who Would Be Champs |  | Cam Skattebo | The Team Who Would Be Champs | Waivers |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
