@@ -24,7 +24,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Joe Burrow | QB | CIN | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Jonathan Taylor | RB | IND | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Javonte Williams | RB | DAL | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
-|  | Cam Skattebo | RB | NYG | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
+|  | RJ Harvey | RB | DEN | TEAM_01 | The Team Who Would Be Champs | 2026-10-22 confirmed transaction |
 |  | CeeDee Lamb | WR | DAL | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Rashee Rice | WR | KC | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Rome Odunze | WR | CHI | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
@@ -34,7 +34,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Khalil Shakir | WR | BUF | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Mark Andrews | TE | BAL | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | George Kittle | TE | SF | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
-|  | Rams | D/ST | LAR | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
+|  | Titans | D/ST | TEN | TEAM_01 | The Team Who Would Be Champs | 2026-10-22 confirmed transaction |
 |  | Jason Myers | K | SEA | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Drake Maye | QB | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-14 confirmed waiver report |
 |  | Josh Allen | QB | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
