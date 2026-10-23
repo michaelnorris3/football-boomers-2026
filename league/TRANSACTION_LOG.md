@@ -205,3 +205,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261022-RAMS-D | 2026-10-22 | 12:42 | 7 | Drop | The Team Who Would Be Champs |  | Rams D/ST | The Team Who Would Be Champs | Waivers |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
 | TX-20261022-HARVEY-A | 2026-10-22 | 12:41 | 7 | Add | The Team Who Would Be Champs |  | RJ Harvey | Free Agency | The Team Who Would Be Champs |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
 | TX-20261022-SKATTEBO-D | 2026-10-22 | 12:41 | 7 | Drop | The Team Who Would Be Champs |  | Cam Skattebo | The Team Who Would Be Champs | Waivers |  |  |  | ESPN transaction screenshot 2026-10-22 | Confirmed transaction. |
+| TX-20261022-SUTTON-A | 2026-10-22 | 20:07 | 7 | Add | Cat Scratch Fever |  | Courtland Sutton | Free Agency | Cat Scratch Fever |  |  |  | ESPN activity screenshot 2026-10-22 | Confirmed transaction. |
+| TX-20261022-LEMON-D | 2026-10-22 | 20:07 | 7 | Drop | Cat Scratch Fever |  | Makai Lemon | Cat Scratch Fever | Waivers |  |  |  | ESPN activity screenshot 2026-10-22 | Confirmed transaction. |
