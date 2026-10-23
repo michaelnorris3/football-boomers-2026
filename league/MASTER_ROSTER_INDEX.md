@@ -10,7 +10,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-21 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-18 |
-| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-21 |
+| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-23 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-21 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-18 |
@@ -177,3 +177,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
 |  | Dameon Pierce | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
+
+|  | Kyle Pitts Sr. | TE | ATL | TEAM_05 | Long Live the King | 2026-10-23 confirmed transaction |
