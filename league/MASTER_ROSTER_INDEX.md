@@ -7,7 +7,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | Team ID | Team Name | Manager | Current Roster Snapshot | Last Reconciled |
 |---|---|---|---|---|
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-10-13 |
-| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-13 |
+| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-21 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-18 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-21 |
@@ -47,11 +47,11 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jaylen Waddle | WR | DEN | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jameson Williams | WR | DET | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Michael Wilson | WR | ARI | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Courtland Sutton | WR | DEN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
+|  | Kyler Murray | QB | MIN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Brenton Strange | TE | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Jaguars | D/ST | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-16 confirmed waiver claim |
-|  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
+|  | Jets | D/ST | NYJ | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
+|  | T.J. Hockenson | TE | MIN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
+|  | Dominic Zvada | K | NYG | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Chris Godwin Jr. | WR | TB | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
 |  | Bijan Robinson | RB | ATL | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Travis Etienne Jr. | IR | NO | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
