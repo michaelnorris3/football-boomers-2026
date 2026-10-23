@@ -19,8 +19,8 @@
 - WR Jaylen Waddle, DEN
 - WR Jameson Williams, DET
 - WR Michael Wilson, ARI
-- WR Courtland Sutton, DEN
+- QB Kyler Murray, MIN
 - TE Brenton Strange, JAX
-- D/ST Seahawks, SEA
-- D/ST Jaguars, JAX
-- K Tyler Bass, BUF
+- D/ST Jets, NYJ
+- TE T.J. Hockenson, MIN
+- K Dominic Zvada, NYG
