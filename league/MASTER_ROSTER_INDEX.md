@@ -47,7 +47,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jaylen Waddle | WR | DEN | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jameson Williams | WR | DET | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Michael Wilson | WR | ARI | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Makai Lemon | WR | PHI | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
+|  | Courtland Sutton | WR | DEN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Brenton Strange | TE | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Seahawks | D/ST | SEA | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jaguars | D/ST | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-16 confirmed waiver claim |
