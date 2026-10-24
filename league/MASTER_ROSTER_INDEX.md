@@ -15,7 +15,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-18 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-21 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-18 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-24 |
 
 ## Current player ownership
 
@@ -179,3 +179,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
 
 |  | Kyle Pitts Sr. | TE | ATL | TEAM_05 | Long Live the King | 2026-10-23 confirmed transaction |
+|  | Matt Gay | K | LV | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-24 confirmed transaction |
