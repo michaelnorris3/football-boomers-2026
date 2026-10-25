@@ -217,3 +217,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261022-HOCKENSON-D | 2026-10-22 | time not shown | 7 | Drop | Cat Scratch Fever |  | Jaguars D/ST | Cat Scratch Fever | Waivers |  |  |  | ESPN activity screenshots 2026-10-22 | Confirmed transaction; order shown in activity feed. |
 | TX-20261023-PITTS-A | 2026-10-23 | 18:35 | 7 | Add | Long Live the King |  | Kyle Pitts Sr. | Free Agency | Long Live the King |  |  |  | ESPN activity screenshot 2026-10-23 | Confirmed player add; no drop shown. |
 | TX-20261024-MATTGAY-A | 2026-10-24 | 00:09 | 7 | Add | Champs?AllSigns Point 2 YES!! |  | Matt Gay | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot 2026-10-24 | Confirmed add, no corresponding drop. |
+| TX-20261025-BUTKER-A | 2026-10-25 | 07:33 | 7 | Add | Cazzata Malanga |  | Harrison Butker | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-10-25 | Confirmed transaction. |
+| TX-20261025-LANE-D | 2026-10-25 | 07:33 | 7 | Drop | Cazzata Malanga |  | Ja'Kobi Lane | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-10-25 | Confirmed transaction. |
