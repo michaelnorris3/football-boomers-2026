@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_04`
 - Manager: Brett Boliver
-- Snapshot date: **2026-10-18**
+- Snapshot date: **2026-10-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -16,7 +16,8 @@
 - WR DK Metcalf, PIT
 - TE Trey McBride, ARI
 - RB Quinshon Judkins, CLE
-- D/ST Eagles, PHI
+- WR Jaylin Noel, HOU
+- D/ST Cowboys, DAL
 - K Brandon Aubrey, DAL
 - QB Dak Prescott, DAL
 - WR Tre Tucker, LV
