@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-21**
+- Snapshot date: **2026-10-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -22,6 +22,6 @@
 - WR Jordan Addison, MIN
 - RB Jonah Coleman, DEN
 - TE Colston Loveland, CHI
-- WR Ja'Kobi Lane, BAL
+- K Harrison Butker, KC
 - D/ST Texans, HOU
 - IR Zach Charbonnet, SEA
