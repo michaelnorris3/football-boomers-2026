@@ -9,7 +9,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-10-13 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-21 |
-| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-18 |
+| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-25 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-23 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-21 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
@@ -75,7 +75,8 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | DK Metcalf | WR | PIT | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Trey McBride | TE | ARI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Quinshon Judkins | RB | CLE | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
-|  | Eagles | D/ST | PHI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
+|  | Cowboys | D/ST | DAL | TEAM_04 | Kars4Gibbs | 2026-10-25 confirmed transaction |
+|  | Jaylin Noel | WR | HOU | TEAM_04 | Kars4Gibbs | 2026-10-25 confirmed transaction |
 |  | Brandon Aubrey | K | DAL | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Dak Prescott | QB | DAL | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Tre Tucker | WR | LV | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
