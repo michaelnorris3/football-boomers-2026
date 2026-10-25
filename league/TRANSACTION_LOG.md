@@ -219,3 +219,6 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261024-MATTGAY-A | 2026-10-24 | 00:09 | 7 | Add | Champs?AllSigns Point 2 YES!! |  | Matt Gay | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot 2026-10-24 | Confirmed add, no corresponding drop. |
 | TX-20261025-BUTKER-A | 2026-10-25 | 07:33 | 7 | Add | Cazzata Malanga |  | Harrison Butker | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-10-25 | Confirmed transaction. |
 | TX-20261025-LANE-D | 2026-10-25 | 07:33 | 7 | Drop | Cazzata Malanga |  | Ja'Kobi Lane | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-10-25 | Confirmed transaction. |
+| TX-20261025-NOEL-A | 2026-10-25 | 09:18 | 7 | Add | Kars4Gibbs |  | Jaylin Noel | Free Agency | Kars4Gibbs |  |  |  | ESPN screenshot 2026-10-25 | Confirmed transaction; screenshot groups actions under 9:18 AM. |
+| TX-20261025-EAGLES-D | 2026-10-25 | 09:18 | 7 | Drop | Kars4Gibbs |  | Eagles D/ST | Kars4Gibbs | Waivers |  |  |  | ESPN screenshot 2026-10-25 | Confirmed transaction; screenshot groups actions under 9:18 AM. |
+| TX-20261025-COWBOYS-A | 2026-10-25 | 09:18 | 7 | Add | Kars4Gibbs |  | Cowboys D/ST | Free Agency | Kars4Gibbs |  |  |  | ESPN screenshot 2026-10-25 | Confirmed transaction; screenshot groups actions under 9:18 AM. |
