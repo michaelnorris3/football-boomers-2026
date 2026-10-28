@@ -2,12 +2,16 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-25**
+- Snapshot date: **2026-10-28**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
+
+- D/ST Patriots, NE
+
+- WR KC Concepcion, CLE
 
 - QB Jared Goff, DET
 - RB Ashton Jeanty, LV
@@ -22,6 +26,4 @@
 - WR Jordan Addison, MIN
 - RB Jonah Coleman, DEN
 - TE Colston Loveland, CHI
-- K Harrison Butker, KC
-- D/ST Texans, HOU
 - IR Zach Charbonnet, SEA
