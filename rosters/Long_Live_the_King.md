@@ -2,12 +2,14 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-10-23**
+- Snapshot date: **2026-10-28**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
+
+- WR Caleb Douglas, MIA
 
 - QB Lamar Jackson, BAL
 - RB Christian McCaffrey, SF
@@ -21,7 +23,6 @@
 - K Will Reichard, MIN
 - QB Matthew Stafford, LAR
 - RB Chuba Hubbard, CAR
-- WR Josh Downs, IND
 - TE Travis Kelce, KC
 - D/ST Vikings, MIN
 - TE Kyle Pitts Sr., ATL
