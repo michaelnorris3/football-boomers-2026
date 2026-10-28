@@ -2,12 +2,16 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-10-24**
+- Snapshot date: **2026-10-28**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN roster snapshot 2026-10-13 reconciled with transaction screenshots through 2026-10-16
 - Authoritative: **YES**
 
 ## Current Roster
+
+- QB Jacoby Brissett, ARI
+
+- RB Kaelon Black, SF
 
 - QB Tyler Shough, NO
 
@@ -21,7 +25,6 @@
 - WR Malik Nabers, NYG
 - WR Denzel Boston, CLE
 - TE Tucker Kraft, GB
-- D/ST 49ers, SF
 - RB Emanuel Wilson, SEA
 - RB Ollie Gordon II, MIA
 - RB Brian Robinson Jr., ATL
