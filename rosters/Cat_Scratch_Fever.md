@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_02`
 - Manager: Josh P
-- Snapshot date: **2026-10-22**
+- Snapshot date: **2026-10-29**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -23,4 +23,4 @@
 - TE Brenton Strange, JAX
 - D/ST Jets, NYJ
 - TE T.J. Hockenson, MIN
-- K Dominic Zvada, NYG
+- K Tyler Bass, BUF
