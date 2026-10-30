@@ -164,7 +164,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
-|  | Dameon Pierce | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
 
 |  | Kyle Pitts Sr. | TE | ATL | TEAM_05 | Long Live the King | 2026-10-23 confirmed transaction |
@@ -183,3 +182,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Geno Smith | QB | NYJ | TEAM_03 | Ayahuasca and Cucking | 2026-10-28 confirmed ESPN screenshot |
 |  | Patriots | D/ST | NE | TEAM_08 | Cazzata Malanga | 2026-10-28 confirmed ESPN screenshot |
 |  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
+|  | Ryan Flournoy | WR | DAL | TEAM_07 | The Branch Covidians | 2026-10-29 ESPN confirmed transaction |
