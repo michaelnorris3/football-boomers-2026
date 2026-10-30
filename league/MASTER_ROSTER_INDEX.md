@@ -134,7 +134,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Keon Coleman | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-16 confirmed screenshot |
-|  | Kendre Miller | RB | NO | TEAM_09 | Barcelona Pickpockets | 2026-10-15 confirmed transaction |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Malik Washington | WR | MIA | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
@@ -183,3 +182,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
 |  | Ryan Flournoy | WR | DAL | TEAM_07 | The Branch Covidians | 2026-10-29 ESPN confirmed transaction |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-29 confirmed ESPN transaction |
+|  | Ja'Kobi Lane | WR | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-30 confirmed ESPN transaction |
