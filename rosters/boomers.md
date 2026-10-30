@@ -21,7 +21,7 @@
 - RB Kenneth Walker III, KC
 - RB TreVeyon Henderson, NE
 - WR Germie Bernard, PIT
-- IR Jordan Mason, MIN
+- RB Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - RB Josh Jacobs, GB
