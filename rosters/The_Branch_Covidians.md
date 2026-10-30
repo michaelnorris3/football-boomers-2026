@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-10-21**
+- Snapshot date: **2026-10-29**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -24,4 +24,4 @@
 - D/ST Broncos, DEN
 - K Evan McPherson, CIN
 - WR Devaughn Vele, NO
-- RB Dameon Pierce, PHI
+- WR Ryan Flournoy, DAL
