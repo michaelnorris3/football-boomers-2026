@@ -2,24 +2,25 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-28**
+- Snapshot date: **2026-10-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
+- WR Makai Lemon, PHI
+- IR Jordyn Tyson, NO
+
 - RB Cam Skattebo, NYG
 
 - D/ST Jaguars, JAX
 
-- TE Dalton Kincaid, BUF
 
 - QB Trevor Lawrence, JAX
 - RB Kenneth Walker III, KC
 - RB TreVeyon Henderson, NE
 - WR Germie Bernard, PIT
-- RB Woody Marks, HOU
 - IR Jordan Mason, MIN
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
