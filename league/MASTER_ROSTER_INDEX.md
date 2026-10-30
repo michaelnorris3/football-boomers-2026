@@ -159,7 +159,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ollie Gordon II | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Brian Robinson Jr. | RB | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 
-|  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
 |  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
@@ -174,7 +173,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Kirk Cousins | QB | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-28 confirmed ESPN screenshot |
 |  | Hunter Henry | TE | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-28 confirmed ESPN screenshot |
 |  | Bengals | D/ST | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-28 confirmed ESPN screenshot |
-|  | Dalton Kincaid | TE | BUF | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
 |  | Jaguars | D/ST | JAX | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
 |  | Cam Skattebo | RB | NYG | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
 |  | Geno Smith | QB | NYJ | TEAM_03 | Ayahuasca and Cucking | 2026-10-28 confirmed ESPN screenshot |
@@ -183,3 +181,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ryan Flournoy | WR | DAL | TEAM_07 | The Branch Covidians | 2026-10-29 ESPN confirmed transaction |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-29 confirmed ESPN transaction |
 |  | Ja'Kobi Lane | WR | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-30 confirmed ESPN transaction |
+|  | Jordyn Tyson | IR | NO | TEAM_06 | boomers. | 2026-10-30 confirmed ESPN transaction; IR placement reported |
+|  | Makai Lemon | WR | PHI | TEAM_06 | boomers. | 2026-10-30 confirmed ESPN transaction |
