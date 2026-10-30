@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-28**
+- Snapshot date: **2026-10-30**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -15,7 +15,7 @@
 
 - QB Bryce Young, CAR
 - WR Keon Coleman, BUF
-- RB Kendre Miller, NO
+- WR Ja'Kobi Lane, BAL
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
 - WR Malik Washington, MIA
