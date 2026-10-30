@@ -49,7 +49,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Brenton Strange | TE | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Jets | D/ST | NYJ | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | T.J. Hockenson | TE | MIN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
-|  | Dominic Zvada | K | NYG | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Chris Godwin Jr. | WR | TB | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
 |  | Bijan Robinson | RB | ATL | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Travis Etienne Jr. | IR | NO | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
@@ -183,3 +182,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Patriots | D/ST | NE | TEAM_08 | Cazzata Malanga | 2026-10-28 confirmed ESPN screenshot |
 |  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
 |  | Ryan Flournoy | WR | DAL | TEAM_07 | The Branch Covidians | 2026-10-29 ESPN confirmed transaction |
+|  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-29 confirmed ESPN transaction |
