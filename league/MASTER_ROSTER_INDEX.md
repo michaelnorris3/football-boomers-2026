@@ -97,7 +97,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Trevor Lawrence | QB | JAX | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Jordan Mason | IR | MIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
+|  | Jordan Mason | RB | MIN | TEAM_06 | boomers. | 2026-10-30 user-confirmed active roster correction |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
