@@ -47,7 +47,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Michael Wilson | WR | ARI | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Kyler Murray | QB | MIN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Brenton Strange | TE | JAX | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Jets | D/ST | NYJ | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | T.J. Hockenson | TE | MIN | TEAM_02 | Cat Scratch Fever | 2026-10-22 confirmed transaction |
 |  | Chris Godwin Jr. | WR | TB | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
 |  | Bijan Robinson | RB | ATL | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
@@ -183,3 +182,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ja'Kobi Lane | WR | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-30 confirmed ESPN transaction |
 |  | Jordyn Tyson | IR | NO | TEAM_06 | boomers. | 2026-10-30 confirmed ESPN transaction; IR placement reported |
 |  | Makai Lemon | WR | PHI | TEAM_06 | boomers. | 2026-10-30 confirmed ESPN transaction |
+|  | Seahawks | D/ST | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-01 confirmed ESPN activity |
+|  | Commanders | D/ST | WSH | TEAM_02 | Cat Scratch Fever | 2026-11-01 confirmed ESPN activity |
