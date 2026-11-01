@@ -2,12 +2,14 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-10-28**
+- Snapshot date: **2026-11-01**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN roster snapshot 2026-10-13 reconciled with transaction screenshots through 2026-10-16
 - Authoritative: **YES**
 
 ## Current Roster
+
+- D/ST Seahawks, SEA
 
 - QB Jacoby Brissett, ARI
 
