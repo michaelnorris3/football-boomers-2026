@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_02`
 - Manager: Josh P
-- Snapshot date: **2026-10-29**
+- Snapshot date: **2026-11-01**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -21,6 +21,6 @@
 - WR Michael Wilson, ARI
 - QB Kyler Murray, MIN
 - TE Brenton Strange, JAX
-- D/ST Jets, NYJ
+- D/ST Commanders, WSH
 - TE T.J. Hockenson, MIN
 - K Tyler Bass, BUF
