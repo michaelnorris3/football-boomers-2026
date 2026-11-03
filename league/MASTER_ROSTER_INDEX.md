@@ -10,7 +10,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-28 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-25 |
-| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-28 |
+| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-11-03 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-28 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-11-03 |
@@ -85,7 +85,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Tee Higgins | WR | CIN | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | DeMario Douglas | WR | NE | TEAM_05 | Long Live the King | 2026-10-21 confirmed transaction |
 |  | Sam LaPorta | TE | DET | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
-|  | Mike Evans | WR | SF | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
+|  | Mike Evans | IR | SF | TEAM_05 | Long Live the King | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Ka'imi Fairbairn | K | HOU | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Will Reichard | K | MIN | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Matthew Stafford | QB | LAR | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
