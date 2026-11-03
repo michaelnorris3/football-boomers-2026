@@ -6,7 +6,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 
 | Team ID | Team Name | Manager | Current Roster Snapshot | Last Reconciled |
 |---|---|---|---|---|
-| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-10-28 |
+| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-11-03 |
 | TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-28 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-25 |
@@ -28,7 +28,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | CeeDee Lamb | WR | DAL | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Rashee Rice | WR | KC | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Rome Odunze | WR | CHI | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
-|  | Alec Pierce | WR | IND | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Matthew Golden | WR | GB | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Jakobi Meyers | WR | JAX | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Khalil Shakir | WR | BUF | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
