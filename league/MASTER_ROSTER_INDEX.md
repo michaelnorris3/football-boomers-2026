@@ -7,7 +7,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | Team ID | Team Name | Manager | Current Roster Snapshot | Last Reconciled |
 |---|---|---|---|---|
 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-11-03 |
-| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-10-22 |
+| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-11-03 |
 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-28 |
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-10-25 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-11-03 |
