@@ -13,7 +13,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-10-28 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-28 |
 | TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-10-28 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-11-03 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-10-28 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-10-28 |
 
@@ -130,7 +130,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jordan Addison | WR | MIN | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Jonah Coleman | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Zach Charbonnet | IR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Keon Coleman | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-16 confirmed screenshot |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
@@ -158,7 +157,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 
 |  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
-|  | Caleb Williams | QB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-18 confirmed transaction |
 
 |  | Kyle Pitts Sr. | TE | ATL | TEAM_05 | Long Live the King | 2026-10-23 confirmed transaction |
 |  | Matt Gay | K | LV | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-24 confirmed transaction |
@@ -182,3 +180,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Makai Lemon | WR | PHI | TEAM_06 | boomers. | 2026-10-30 confirmed ESPN transaction |
 |  | Seahawks | D/ST | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-01 confirmed ESPN activity |
 |  | Commanders | D/ST | WSH | TEAM_02 | Cat Scratch Fever | 2026-11-01 confirmed ESPN activity |
+|  | Zach Charbonnet | RB | SEA | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot (active bench) |
+|  | Wil Lutz | K | DEN | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot |
