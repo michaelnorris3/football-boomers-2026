@@ -2,28 +2,34 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-10-28**
+- Snapshot date: **2026-11-03**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: User-provided authoritative initialization data
+- Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
 
 ## Current Roster
 
-- D/ST Patriots, NE
-
-- WR KC Concepcion, CLE
-
 - QB Jared Goff, DET
-- RB Ashton Jeanty, LV
-- RB Rhamondre Stevenson, NE
-- RB Bhayshul Tuten, JAX
-- RB Kyle Monangai, CHI
-- QB Jordan Love, GB
-- QB Caleb Williams, CHI
-- WR Jaxon Smith-Njigba, SEA
-- WR Chris Olave, NO
-- WR Christian Watson, GB
-- WR Jordan Addison, MIN
 - RB Jonah Coleman, DEN
+- RB Bhayshul Tuten, JAX
+- WR Chris Olave, NO
+- WR Jaxon Smith-Njigba, SEA
+- WR Christian Watson, GB
 - TE Colston Loveland, CHI
-- IR Zach Charbonnet, SEA
+- RB Rhamondre Stevenson, NE
+- D/ST Patriots, NE
+- K Wil Lutz, DEN
+- WR Jordan Addison, MIN
+- RB Zach Charbonnet, SEA
+- WR KC Concepcion, CLE
+- RB Ashton Jeanty, LV
+- QB Jordan Love, GB
+- IR Kyle Monangai, CHI
+
+## Reconciliation notes
+
+- 2026-11-03 ESPN Week 9 screenshots supersede older roster snapshot.
+- Caleb Williams is no longer on this roster; destination and transaction date unknown.
+- Wil Lutz is now rostered; acquisition date and method unknown.
+- Zach Charbonnet is on active bench rather than IR; Kyle Monangai occupies IR.
+- These are snapshot corrections, not assertions about exact transaction dates.
