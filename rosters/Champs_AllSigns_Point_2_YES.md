@@ -2,9 +2,9 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-11-01**
+- Snapshot date: **2026-11-02**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: ESPN roster snapshot 2026-10-13 reconciled with transaction screenshots through 2026-10-16
+- Source: ESPN roster snapshot and confirmed transactions, including user-provided October 27 drop screenshot
 - Authoritative: **YES**
 
 ## Current Roster
@@ -15,10 +15,8 @@
 
 - RB Kaelon Black, SF
 
-- QB Tyler Shough, NO
 
 - RB James Cook III, BUF
-- RB Tyler Allgeier, ARI
 - RB Emmett Johnson, KC
 - WR Zay Flowers, BAL
 - WR Luther Burden III, CHI
