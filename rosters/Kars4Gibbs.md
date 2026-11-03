@@ -2,15 +2,15 @@
 
 - Team ID: `TEAM_04`
 - Manager: Brett Boliver
-- Snapshot date: **2026-10-25**
+- Snapshot date: **2026-11-03**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
-- Source: ESPN current roster screenshot supplied 2026-10-13
+- Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
 
 ## Current Roster
 
 - RB Jahmyr Gibbs, DET
-- RB Jeremiyah Love, ARI
+- IR Jeremiyah Love, ARI
 - WR Emeka Egbuka, TB
 - WR Carnell Tate, TEN
 - WR DK Metcalf, PIT
@@ -25,3 +25,10 @@
 - RB Alvin Kamara, NO
 - WR Kalif Raymond, CHI
 - RB Rachaad White, WSH
+
+## Reconciliation notes
+
+- 2026-11-03 ESPN Week 9 screenshots confirm all 16 player identities.
+- Jeremiyah Love occupies the fantasy IR slot (NFL team ARI).
+- One starting WR slot is empty and Carnell Tate is in the FLEX despite a bye and OUT designation at screenshot time.
+- Jaylin Noel appears on the active fantasy bench despite an NFL IR designation.
