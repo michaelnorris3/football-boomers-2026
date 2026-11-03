@@ -12,7 +12,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 | TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-11-03 |
 | TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-11-03 |
 | TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-28 |
-| TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-10-13 |
+| TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-11-03 |
 | TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-11-03 |
 | TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-11-03 |
 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-11-03 |
@@ -106,12 +106,12 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jayden Daniels | QB | WSH | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Patrick Mahomes | QB | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Saquon Barkley | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Breece Hall | IR | NYJ | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
+|  | Breece Hall | RB | NYJ | TEAM_07 | The Branch Covidians | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Jaylen Warren | RB | PIT | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Aaron Jones Sr. | RB | MIN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Amon-Ra St. Brown | WR | DET | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Tetairoa McMillan | WR | CAR | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Davante Adams | WR | LAR | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
+|  | Davante Adams | IR | LAR | TEAM_07 | The Branch Covidians | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Wan'Dale Robinson | WR | TEN | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Xavier Worthy | WR | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Harold Fannin Jr. | TE | CLE | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
