@@ -122,7 +122,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ashton Jeanty | RB | LV | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Rhamondre Stevenson | RB | NE | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bhayshul Tuten | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
-|  | Kyle Monangai | RB | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
+|  | Kyle Monangai | IR | CHI | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Jordan Love | QB | GB | TEAM_08 | Cazzata Malanga | 2026-10-14 confirmed waiver report |
 |  | Jaxon Smith-Njigba | WR | SEA | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Chris Olave | WR | NO | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
