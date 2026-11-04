@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -21,8 +21,8 @@
 - WR Wan'Dale Robinson, TEN
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
-- D/ST Broncos, DEN
-- K Evan McPherson, CIN
+- D/ST Buccaneers, TB
+- K Chase McLaughlin, TB
 - WR Devaughn Vele, NO
 - WR Ryan Flournoy, DAL
 
