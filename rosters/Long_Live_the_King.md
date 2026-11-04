@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
 
 ## Current Roster
 
-- WR Caleb Douglas, MIA
+- WR Adonai Mitchell, NYJ
 
 - QB Lamar Jackson, BAL
 - RB Christian McCaffrey, SF
