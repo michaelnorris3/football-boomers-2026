@@ -165,7 +165,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Seahawks | D/ST | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-01 confirmed ESPN activity |
 |  | Commanders | D/ST | WSH | TEAM_02 | Cat Scratch Fever | 2026-11-01 confirmed ESPN activity |
 |  | Zach Charbonnet | RB | SEA | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot (active bench) |
-|  | Wil Lutz | K | DEN | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Caleb Williams | QB | CHI | TEAM_06 | boomers. | 2026-11-04 ESPN confirmed |
 |  | Tyler Allgeier | RB | ARI | TEAM_06 | boomers. | 2026-11-04 ESPN confirmed |
 |  | Buccaneers | D/ST | TB | TEAM_07 | The Branch Covidians | 2026-11-04 ESPN confirmed |
@@ -180,3 +179,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Cairo Santos | K | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 ESPN confirmed |
 |  | C.J. Stroud | QB | HOU | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
 |  | Antonio Williams | WR | WSH | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
+|  | Chris Rodriguez Jr. | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-11-04 15:54 ESPN activity screenshot |
