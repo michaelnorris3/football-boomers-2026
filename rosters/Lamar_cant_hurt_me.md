@@ -25,6 +25,7 @@
 - WR Romeo Doubs, NE
 - TE Mike Gesicki, CIN
 - D/ST Texans, HOU
+- D/ST Steelers, PIT
 
 - K Chad Ryland, ARI
 - RB Braelon Allen, NYJ
