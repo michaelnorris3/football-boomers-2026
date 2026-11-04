@@ -6,16 +6,16 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 
 | Team ID | Team Name | Manager | Current Roster Snapshot | Last Reconciled |
 |---|---|---|---|---|
-| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-11-03 |
-| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-11-03 |
-| TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-10-28 |
-| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-11-03 |
-| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-11-03 |
-| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-10-28 |
-| TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-11-03 |
-| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-11-03 |
-| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-11-03 |
-| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-11-03 |
+| TEAM_01 | The Team Who Would Be Champs | Andrew Leonard | rosters/The_Team_Who_Would_Be_Champs.md | 2026-11-04 |
+| TEAM_02 | Cat Scratch Fever | Josh P | rosters/Cat_Scratch_Fever.md | 2026-11-04 |
+| TEAM_03 | Ayahuasca and Cucking | Sean Vitale | rosters/Lamar_cant_hurt_me.md | 2026-11-04 |
+| TEAM_04 | Kars4Gibbs | Brett Boliver | rosters/Kars4Gibbs.md | 2026-11-04 |
+| TEAM_05 | Long Live the King | Nathaniel Smith | rosters/Long_Live_the_King.md | 2026-11-04 |
+| TEAM_06 | boomers. | Michael Norris | rosters/boomers.md | 2026-11-04 |
+| TEAM_07 | The Branch Covidians | Paul Gangi | rosters/The_Branch_Covidians.md | 2026-11-04 |
+| TEAM_08 | Cazzata Malanga | Patrick Durkin | rosters/Cazzata_Malanga.md | 2026-11-04 |
+| TEAM_09 | Barcelona Pickpockets | Alex Johnson | rosters/Barcelona_Pickpockets.md | 2026-11-04 |
+| TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson | rosters/Champs_AllSigns_Point_2_YES.md | 2026-11-04 |
 
 ## Current player ownership
 
@@ -57,10 +57,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Stefon Diggs | WR | WSH | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Deebo Samuel Sr. | WR | SF | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Romeo Doubs | WR | NE | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
-|  | Dallas Goedert | TE | PHI | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
-|  | Aaron Rodgers | QB | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
 |  | Steelers | D/ST | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
-|  | Chris Boswell | K | PIT | TEAM_03 | Ayahuasca and Cucking | 2026-10-21 confirmed transaction |
 |  | Braelon Allen | RB | NYJ | TEAM_03 | Ayahuasca and Cucking | 2026-10-13 ESPN verified roster |
 |  | Jahmyr Gibbs | RB | DET | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Jeremiyah Love | IR | ARI | TEAM_04 | Kars4Gibbs | 2026-11-03 ESPN Week 9 roster screenshot |
@@ -95,14 +92,12 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Trevor Lawrence | QB | JAX | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Jordan Mason | RB | MIN | TEAM_06 | boomers. | 2026-10-30 user-confirmed active roster correction |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
 |  | Tyler Warren | TE | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | A.J. Brown | WR | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Marvin Harrison Jr. | WR | HOU | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | Spencer Shrader | K | IND | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Jayden Daniels | QB | WSH | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Patrick Mahomes | QB | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Saquon Barkley | RB | PHI | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
@@ -115,8 +110,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Wan'Dale Robinson | WR | TEN | TEAM_07 | The Branch Covidians | 2026-10-15 confirmed transaction |
 |  | Xavier Worthy | WR | KC | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Harold Fannin Jr. | TE | CLE | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Broncos | D/ST | DEN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
-|  | Evan McPherson | K | CIN | TEAM_07 | The Branch Covidians | 2026-10-13 ESPN verified roster |
 |  | Jared Goff | QB | DET | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Ashton Jeanty | RB | LV | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Rhamondre Stevenson | RB | NE | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
@@ -140,7 +133,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | DJ Moore | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Isaiah Likely | TE | NYG | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Brock Bowers | TE | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Tyler Loop | K | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-14 confirmed waiver report |
 |  | James Cook III | RB | BUF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Emmett Johnson | RB | KC | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Zay Flowers | WR | BAL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
@@ -148,9 +140,7 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Parker Washington | WR | JAX | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Jalen Coker | WR | CAR | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-03 ESPN Week 9 roster screenshot |
 |  | Malik Nabers | WR | NYG | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
-|  | Denzel Boston | WR | CLE | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Tucker Kraft | TE | GB | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
-|  | Emanuel Wilson | RB | SEA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Ollie Gordon II | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Brian Robinson Jr. | IR | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-03 ESPN Week 9 roster screenshot |
 
@@ -162,16 +152,11 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 
 |  | Kaelon Black | RB | SF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
 |  | Rams | D/ST | LAR | TEAM_01 | The Team Who Would Be Champs | 2026-10-28 confirmed ESPN screenshot |
-|  | KC Concepcion | WR | CLE | TEAM_08 | Cazzata Malanga | 2026-10-28 confirmed ESPN screenshot |
-|  | Caleb Douglas | WR | MIA | TEAM_05 | Long Live the King | 2026-10-28 confirmed ESPN screenshot |
 |  | Kirk Cousins | QB | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-28 confirmed ESPN screenshot |
 |  | Hunter Henry | TE | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-28 confirmed ESPN screenshot |
 |  | Bengals | D/ST | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-28 confirmed ESPN screenshot |
 |  | Jaguars | D/ST | JAX | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
 |  | Cam Skattebo | RB | NYG | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
-|  | Geno Smith | QB | NYJ | TEAM_03 | Ayahuasca and Cucking | 2026-10-28 confirmed ESPN screenshot |
-|  | Patriots | D/ST | NE | TEAM_08 | Cazzata Malanga | 2026-10-28 confirmed ESPN screenshot |
-|  | Jacoby Brissett | QB | ARI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
 |  | Ryan Flournoy | WR | DAL | TEAM_07 | The Branch Covidians | 2026-10-29 ESPN confirmed transaction |
 |  | Tyler Bass | K | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-29 confirmed ESPN transaction |
 |  | Ja'Kobi Lane | WR | BAL | TEAM_09 | Barcelona Pickpockets | 2026-10-30 confirmed ESPN transaction |
@@ -181,3 +166,17 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Commanders | D/ST | WSH | TEAM_02 | Cat Scratch Fever | 2026-11-01 confirmed ESPN activity |
 |  | Zach Charbonnet | RB | SEA | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot (active bench) |
 |  | Wil Lutz | K | DEN | TEAM_08 | Cazzata Malanga | 2026-11-03 ESPN Week 9 roster screenshot |
+|  | Caleb Williams | QB | CHI | TEAM_06 | boomers. | 2026-11-04 ESPN confirmed |
+|  | Tyler Allgeier | RB | ARI | TEAM_06 | boomers. | 2026-11-04 ESPN confirmed |
+|  | Buccaneers | D/ST | TB | TEAM_07 | The Branch Covidians | 2026-11-04 ESPN confirmed |
+|  | Chase McLaughlin | K | TB | TEAM_07 | The Branch Covidians | 2026-11-04 ESPN confirmed |
+|  | Texans | D/ST | HOU | TEAM_03 | Ayahuasca and Cucking | 2026-11-04 ESPN confirmed |
+|  | Malik Willis | QB | MIA | TEAM_03 | Ayahuasca and Cucking | 2026-11-04 ESPN confirmed |
+|  | Chad Ryland | K | ARI | TEAM_03 | Ayahuasca and Cucking | 2026-11-04 ESPN confirmed |
+|  | Mike Gesicki | TE | CIN | TEAM_03 | Ayahuasca and Cucking | 2026-11-04 ESPN confirmed |
+|  | Mike Washington Jr. | RB | LV | TEAM_08 | Cazzata Malanga | 2026-11-04 ESPN confirmed |
+|  | Chiefs | D/ST | KC | TEAM_08 | Cazzata Malanga | 2026-11-04 ESPN confirmed |
+|  | Adonai Mitchell | WR | NYJ | TEAM_05 | Long Live the King | 2026-11-04 ESPN confirmed |
+|  | Cairo Santos | K | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 ESPN confirmed |
+|  | C.J. Stroud | QB | HOU | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
+|  | Antonio Williams | WR | WSH | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
