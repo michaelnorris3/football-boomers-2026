@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-10-30**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -21,11 +21,11 @@
 - RB Kenneth Walker III, KC
 - RB TreVeyon Henderson, NE
 - WR Germie Bernard, PIT
-- RB Jordan Mason, MIN
+- QB Caleb Williams, CHI
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - RB Josh Jacobs, GB
 - TE Tyler Warren, IND
 - WR A.J. Brown, NE
 - WR Marvin Harrison Jr., HOU
-- K Spencer Shrader, IND
+- RB Tyler Allgeier, ARI
