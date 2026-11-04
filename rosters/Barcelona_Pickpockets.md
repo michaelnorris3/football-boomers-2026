@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-10-30**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -25,4 +25,4 @@
 - WR DJ Moore, BUF
 - TE Isaiah Likely, NYG
 - TE Brock Bowers, LV
-- K Tyler Loop, BAL
+- K Cairo Santos, CHI
