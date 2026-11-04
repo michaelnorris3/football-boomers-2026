@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -11,7 +11,7 @@
 
 - D/ST Seahawks, SEA
 
-- QB Jacoby Brissett, ARI
+- QB C.J. Stroud, HOU
 
 - RB Kaelon Black, SF
 
@@ -23,9 +23,9 @@
 - WR Parker Washington, JAX
 - WR Jalen Coker, CAR
 - WR Malik Nabers, NYG
-- WR Denzel Boston, CLE
+
 - TE Tucker Kraft, GB
-- RB Emanuel Wilson, SEA
+- WR Antonio Williams, WSH
 - RB Ollie Gordon II, MIA
 - IR Brian Robinson Jr., ATL
 - K Matt Gay, LV
