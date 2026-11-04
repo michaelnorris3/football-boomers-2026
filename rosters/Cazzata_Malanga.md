@@ -18,7 +18,7 @@
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
 - D/ST Chiefs, KC
-- K Wil Lutz, DEN
+- RB Chris Rodriguez Jr., JAX
 - WR Jordan Addison, MIN
 - RB Zach Charbonnet, SEA
 - RB Mike Washington Jr., LV
@@ -33,3 +33,5 @@
 - Wil Lutz is now rostered; acquisition date and method unknown.
 - Zach Charbonnet is on active bench rather than IR; Kyle Monangai occupies IR.
 - These are snapshot corrections, not assertions about exact transaction dates.
+
+- 2026-11-04 3:54 PM ET: Added Chris Rodriguez Jr. (JAX RB), dropped Wil Lutz (DEN K), confirmed ESPN activity screenshot.
