@@ -4,14 +4,14 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-10-28**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- QB Geno Smith, NYJ
+- QB Malik Willis, MIA
 
 - WR Chris Godwin Jr., TB
 - RB Bijan Robinson, ATL
@@ -23,8 +23,8 @@
 - WR Stefon Diggs, WSH
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
-- TE Dallas Goedert, PHI
-- QB Aaron Rodgers, PIT
-- D/ST Steelers, PIT
-- K Chris Boswell, PIT
+- TE Mike Gesicki, CIN
+- D/ST Texans, HOU
+
+- K Chad Ryland, ARI
 - RB Braelon Allen, NYJ
