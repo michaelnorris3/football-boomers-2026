@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-04**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -17,11 +17,11 @@
 - WR Christian Watson, GB
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
-- D/ST Patriots, NE
+- D/ST Chiefs, KC
 - K Wil Lutz, DEN
 - WR Jordan Addison, MIN
 - RB Zach Charbonnet, SEA
-- WR KC Concepcion, CLE
+- RB Mike Washington Jr., LV
 - RB Ashton Jeanty, LV
 - QB Jordan Love, GB
 - IR Kyle Monangai, CHI
