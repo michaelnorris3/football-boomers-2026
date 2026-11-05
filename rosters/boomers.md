@@ -21,7 +21,7 @@
 - RB Kenneth Walker III, KC
 - RB TreVeyon Henderson, NE
 - WR Germie Bernard, PIT
-- QB Caleb Williams, CHI
+- RB Woody Marks, HOU
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - RB Josh Jacobs, GB
