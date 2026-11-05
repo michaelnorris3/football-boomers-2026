@@ -123,7 +123,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jonah Coleman | RB | DEN | TEAM_08 | Cazzata Malanga | 2026-10-21 confirmed transaction |
 |  | Colston Loveland | TE | CHI | TEAM_08 | Cazzata Malanga | 2026-10-13 ESPN verified roster |
 |  | Bryce Young | QB | CAR | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
-|  | Keon Coleman | WR | BUF | TEAM_09 | Barcelona Pickpockets | 2026-10-16 confirmed screenshot |
 |  | Chase Brown | RB | CIN | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | D'Andre Swift | RB | CHI | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
 |  | Malik Washington | WR | MIA | TEAM_09 | Barcelona Pickpockets | 2026-10-13 ESPN verified roster |
@@ -180,3 +179,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Antonio Williams | WR | WSH | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
 |  | Chris Rodriguez Jr. | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-11-04 15:54 ESPN activity screenshot |
 |  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-11-04 16:42 ESPN confirmed transaction |
+|  | Bears | D/ST | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 22:54 ESPN confirmed |
