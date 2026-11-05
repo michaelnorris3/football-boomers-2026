@@ -14,7 +14,7 @@
 - QB Kirk Cousins, LV
 
 - QB Bryce Young, CAR
-- WR Keon Coleman, BUF
+- D/ST Bears, CHI
 - WR Ja'Kobi Lane, BAL
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
