@@ -67,7 +67,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Trey McBride | TE | ARI | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Quinshon Judkins | RB | CLE | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Cowboys | D/ST | DAL | TEAM_04 | Kars4Gibbs | 2026-10-25 confirmed transaction |
-|  | Jaylin Noel | WR | HOU | TEAM_04 | Kars4Gibbs | 2026-10-25 confirmed transaction |
 |  | Brandon Aubrey | K | DAL | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Dak Prescott | QB | DAL | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
 |  | Tre Tucker | WR | LV | TEAM_04 | Kars4Gibbs | 2026-10-13 ESPN verified roster |
@@ -180,3 +179,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-11-04 16:42 ESPN confirmed transaction |
 |  | Bears | D/ST | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 22:54 ESPN confirmed |
 |  | Spencer Shrader | K | IND | TEAM_08 | Cazzata Malanga | 2026-11-05 19:49 ESPN confirmed |
+|  | Dalton Kincaid | TE | BUF | TEAM_04 | Kars4Gibbs | 2026-11-05 20:40 ESPN activity screenshot |
