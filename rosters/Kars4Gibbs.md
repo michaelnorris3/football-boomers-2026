@@ -16,7 +16,7 @@
 - WR DK Metcalf, PIT
 - TE Trey McBride, ARI
 - RB Quinshon Judkins, CLE
-- WR Jaylin Noel, HOU
+- TE Dalton Kincaid, BUF
 - D/ST Cowboys, DAL
 - K Brandon Aubrey, DAL
 - QB Dak Prescott, DAL
