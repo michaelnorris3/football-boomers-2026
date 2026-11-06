@@ -309,3 +309,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261104-ALEX-KEON-D | 2026-11-04 | 22:54 | 9 | Drop | Barcelona Pickpockets |  | Keon Coleman | Barcelona Pickpockets | Waivers |  |  |  | ESPN activity screenshot 2026-11-04 | Confirmed drop paired with Bears D/ST add. |
 | TX-20261105-PAT-SHRADER-A | 2026-11-05 | 19:49 | 9 | Add | Cazzata Malanga |  | Spencer Shrader | Free Agency | Cazzata Malanga |  |  |  | ESPN activity screenshot 2026-11-05 | Added Shrader for Chris Rodriguez Jr. |
 | TX-20261105-PAT-RODRIGUEZ-D | 2026-11-05 | 19:49 | 9 | Drop | Cazzata Malanga |  | Chris Rodriguez Jr. | Cazzata Malanga | Waivers |  |  |  | ESPN activity screenshot 2026-11-05 | Dropped Rodriguez for Spencer Shrader. |
+| TX-20261105-BRETT-KINCAID-A | 2026-11-05 | 20:40 | 9 | Add | Kars4Gibbs |  | Dalton Kincaid | Free Agency | Kars4Gibbs |  |  |  | ESPN activity screenshot 2026-11-05 | Added Kincaid for Jaylin Noel. |
+| TX-20261105-BRETT-NOEL-D | 2026-11-05 | 20:40 | 9 | Drop | Kars4Gibbs |  | Jaylin Noel | Kars4Gibbs | Waivers |  |  |  | ESPN activity screenshot 2026-11-05 | Dropped Noel for Dalton Kincaid. |
