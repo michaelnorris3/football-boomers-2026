@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-06**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -19,7 +19,7 @@
 
 - QB Trevor Lawrence, JAX
 - RB Kenneth Walker III, KC
-- RB TreVeyon Henderson, NE
+- WR KC Concepcion, CLE
 - WR Germie Bernard, PIT
 - RB Woody Marks, HOU
 - WR Ja'Marr Chase, CIN
