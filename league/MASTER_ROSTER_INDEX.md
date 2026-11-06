@@ -90,7 +90,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Vikings | D/ST | MIN | TEAM_05 | Long Live the King | 2026-10-13 ESPN verified roster |
 |  | Trevor Lawrence | QB | JAX | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Kenneth Walker III | RB | KC | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
-|  | TreVeyon Henderson | RB | NE | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Ja'Marr Chase | WR | CIN | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Garrett Wilson | WR | NYJ | TEAM_06 | boomers. | 2026-10-13 ESPN verified roster |
 |  | Josh Jacobs | RB | GB | TEAM_06 | boomers. | 2026-10-16 confirmed transaction |
@@ -180,3 +179,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Bears | D/ST | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 22:54 ESPN confirmed |
 |  | Spencer Shrader | K | IND | TEAM_08 | Cazzata Malanga | 2026-11-05 19:49 ESPN confirmed |
 |  | Dalton Kincaid | TE | BUF | TEAM_04 | Kars4Gibbs | 2026-11-05 20:40 ESPN activity screenshot |
+|  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-11-05 23:12 ESPN confirmed |
+|  | Denzel Boston | WR | CLE | TEAM_01 | The Team Who Would Be Champs | 2026-11-06 03:12 ESPN waiver report |
