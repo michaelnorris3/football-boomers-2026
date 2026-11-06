@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-05**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -18,7 +18,7 @@
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
 - D/ST Chiefs, KC
-- RB Chris Rodriguez Jr., JAX
+- K Spencer Shrader, IND
 - WR Jordan Addison, MIN
 - RB Zach Charbonnet, SEA
 - RB Mike Washington Jr., LV
