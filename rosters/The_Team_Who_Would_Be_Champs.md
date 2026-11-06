@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_01`
 - Manager: Andrew Leonard
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-06**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -23,6 +23,7 @@
 - WR Matthew Golden, GB
 - WR Jakobi Meyers, JAX
 - WR Khalil Shakir, BUF
+- WR Denzel Boston, CLE
 - TE George Kittle, SF
 - K Jason Myers, SEA
 - QB Drake Maye, NE
