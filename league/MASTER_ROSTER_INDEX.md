@@ -177,6 +177,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Cairo Santos | K | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 ESPN confirmed |
 |  | C.J. Stroud | QB | HOU | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
 |  | Antonio Williams | WR | WSH | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-04 ESPN confirmed |
-|  | Chris Rodriguez Jr. | RB | JAX | TEAM_08 | Cazzata Malanga | 2026-11-04 15:54 ESPN activity screenshot |
 |  | Woody Marks | RB | HOU | TEAM_06 | boomers. | 2026-11-04 16:42 ESPN confirmed transaction |
 |  | Bears | D/ST | CHI | TEAM_09 | Barcelona Pickpockets | 2026-11-04 22:54 ESPN confirmed |
+|  | Spencer Shrader | K | IND | TEAM_08 | Cazzata Malanga | 2026-11-05 19:49 ESPN confirmed |
