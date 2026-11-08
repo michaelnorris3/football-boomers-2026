@@ -181,4 +181,4 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Dalton Kincaid | TE | BUF | TEAM_04 | Kars4Gibbs | 2026-11-05 20:40 ESPN activity screenshot |
 |  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-11-05 23:12 ESPN confirmed |
 |  | Denzel Boston | WR | CLE | TEAM_01 | The Team Who Would Be Champs | 2026-11-06 03:12 ESPN waiver report |
-|  | Devin Singletary | RB | NYG | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-08 09:12 ESPN activity screenshot |
+|  | Caleb Williams | QB | CHI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-08 12:16 ESPN confirmed |
