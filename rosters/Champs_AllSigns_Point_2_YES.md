@@ -14,7 +14,7 @@
 - QB C.J. Stroud, HOU
 
 - RB Kaelon Black, SF
-- RB Devin Singletary, NYG
+- QB Caleb Williams, CHI
 
 
 - RB James Cook III, BUF
