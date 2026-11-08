@@ -35,7 +35,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Jason Myers | K | SEA | TEAM_01 | The Team Who Would Be Champs | 2026-10-13 ESPN verified roster |
 |  | Drake Maye | QB | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-14 confirmed waiver report |
 |  | Josh Allen | QB | BUF | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
-|  | Omarion Hampton | RB | LAC | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Kyren Williams | RB | LAR | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | Tony Pollard | RB | TEN | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
 |  | J.K. Dobbins | RB | DEN | TEAM_02 | Cat Scratch Fever | 2026-10-13 ESPN verified roster |
@@ -141,7 +140,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Ollie Gordon II | RB | MIA | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-13 ESPN verified roster |
 |  | Brian Robinson Jr. | IR | ATL | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-03 ESPN Week 9 roster screenshot |
 
-|  | Germie Bernard | WR | PIT | TEAM_06 | boomers. | 2026-10-14 confirmed transaction |
 |  | Devaughn Vele | WR | NO | TEAM_07 | The Branch Covidians | 2026-10-21 confirmed transaction |
 
 |  | Kyle Pitts Sr. | TE | ATL | TEAM_05 | Long Live the King | 2026-10-23 confirmed transaction |
@@ -182,3 +180,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | KC Concepcion | WR | CLE | TEAM_06 | boomers. | 2026-11-05 23:12 ESPN confirmed |
 |  | Denzel Boston | WR | CLE | TEAM_01 | The Team Who Would Be Champs | 2026-11-06 03:12 ESPN waiver report |
 |  | Caleb Williams | QB | CHI | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-11-08 12:16 ESPN confirmed |
+|  | Cameron Dicker | K | LAC | TEAM_06 | boomers. | 2026-11-08 14:32 ESPN confirmed |
+|  | Jadarian Price | RB | SEA | TEAM_02 | Cat Scratch Fever | 2026-11-08 14:32 ESPN confirmed |
