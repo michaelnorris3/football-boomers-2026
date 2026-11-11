@@ -145,7 +145,6 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 
 |  | Kaelon Black | RB | SF | TEAM_10 | Champs?AllSigns Point 2 YES!! | 2026-10-28 confirmed ESPN screenshot |
 |  | Rams | D/ST | LAR | TEAM_01 | The Team Who Would Be Champs | 2026-10-28 confirmed ESPN screenshot |
-|  | Kirk Cousins | QB | LV | TEAM_09 | Barcelona Pickpockets | 2026-10-28 confirmed ESPN screenshot |
 |  | Hunter Henry | TE | NE | TEAM_01 | The Team Who Would Be Champs | 2026-10-28 confirmed ESPN screenshot |
 |  | Jaguars | D/ST | JAX | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
 |  | Cam Skattebo | RB | NYG | TEAM_06 | boomers. | 2026-10-28 confirmed ESPN screenshot |
@@ -186,3 +185,5 @@ Authoritative ownership reconstructed from all 10 ESPN roster screenshots suppli
 |  | Caleb Douglas | WR | MIA | TEAM_02 | Cat Scratch Fever | 2026-11-11 ESPN screenshot |
 |  | Mack Hollins | WR | NE | TEAM_03 | Ayahuasca and Cucking | 2026-11-11 ESPN screenshot |
 |  | Tyler Shough | QB | NO | TEAM_03 | Ayahuasca and Cucking | 2026-11-11 ESPN screenshot |
+|  | Cam Little | K | JAX | TEAM_09 | Barcelona Pickpockets | 2026-11-11 09:54 ESPN confirmed |
+|  | Rico Dowdle | RB | PIT | TEAM_09 | Barcelona Pickpockets | 2026-11-11 09:54 ESPN confirmed |
