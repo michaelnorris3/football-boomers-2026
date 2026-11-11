@@ -321,3 +321,26 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261108-BOOMERS-BERNARD-D | 2026-11-08 | 14:32 | 9 | Drop | boomers. |  | Germie Bernard | boomers. | Waivers |  |  |  | ESPN activity screenshot 2026-11-08 | Dropped Bernard, added Dicker. |
 | TX-20261108-CAT-PRICE-A | 2026-11-08 | 14:32 | 9 | Add | Cat Scratch Fever |  | Jadarian Price | Free Agency | Cat Scratch Fever |  |  |  | ESPN activity screenshot 2026-11-08 | Added Price, dropped Hampton. |
 | TX-20261108-CAT-HAMPTON-D | 2026-11-08 | 14:32 | 9 | Drop | Cat Scratch Fever |  | Omarion Hampton | Cat Scratch Fever | Waivers |  |  |  | ESPN activity screenshot 2026-11-08 | Dropped Hampton, added Price. |
+| TX-20261111-01-A | 2026-11-11 |  | 10 | Add | boomers. |  | Josh Downs | Waiver | boomers. |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-01-D | 2026-11-11 |  | 10 | Drop | boomers. |  | Marvin Harrison Jr. | boomers. | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-02-A | 2026-11-11 |  | 10 | Add | Champs?AllSigns Point 2 YES!! |  | Tank Dell | Waiver | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-02-D | 2026-11-11 |  | 10 | Drop | Champs?AllSigns Point 2 YES!! |  | Caleb Williams | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-03-A | 2026-11-11 |  | 10 | Add | Cazzata Malanga |  | Packers D/ST | Waiver | Cazzata Malanga |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-03-D | 2026-11-11 |  | 10 | Drop | Cazzata Malanga |  | Chiefs D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-04-A | 2026-11-11 |  | 10 | Add | Barcelona Pickpockets |  | Ravens D/ST | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-04-D | 2026-11-11 |  | 10 | Drop | Barcelona Pickpockets |  | Bengals D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-05-A | 2026-11-11 |  | 10 | Add | Ayahuasca and Cucking |  | Tyler Shough | Waiver | Ayahuasca and Cucking |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-05-D | 2026-11-11 |  | 10 | Drop | Ayahuasca and Cucking |  | Malik Willis | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-06-A | 2026-11-11 |  | 10 | Add | Barcelona Pickpockets |  | Keenan Allen | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-06-D | 2026-11-11 |  | 10 | Drop | Barcelona Pickpockets |  | Ja'Kobi Lane | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-07-A | 2026-11-11 |  | 10 | Add | boomers. |  | Germie Bernard | Free Agent | boomers. |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-07-D | 2026-11-11 |  | 10 | Drop | boomers. |  | Makai Lemon | boomers. | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-08-A | 2026-11-11 |  | 10 | Add | Cazzata Malanga |  | Corey Kiner | Free Agent | Cazzata Malanga |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-08-D | 2026-11-11 |  | 10 | Drop | Cazzata Malanga |  | Mike Washington Jr. | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-09-A | 2026-11-11 |  | 10 | Add | Cazzata Malanga |  | Pat Freiermuth | Free Agent | Cazzata Malanga |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-09-D | 2026-11-11 |  | 10 | Drop | Cazzata Malanga |  | Spencer Shrader | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-10-A | 2026-11-11 |  | 10 | Add | Ayahuasca and Cucking |  | Mack Hollins | Free Agent | Ayahuasca and Cucking |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-10-D | 2026-11-11 |  | 10 | Drop | Ayahuasca and Cucking |  | Steelers D/ST | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-11-A | 2026-11-11 |  | 10 | Add | Cat Scratch Fever |  | Caleb Douglas | Free Agent | Cat Scratch Fever |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-12-A | 2026-11-11 |  | 10 | Add | Cat Scratch Fever |  | Malachi Fields | Free Agent | Cat Scratch Fever |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
+| TX-20261111-12-D | 2026-11-11 |  | 10 | Drop | Cat Scratch Fever |  | Kyler Murray | Cat Scratch Fever | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
