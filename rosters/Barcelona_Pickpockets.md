@@ -2,20 +2,20 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-11**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
 
-- D/ST Bengals, CIN
+- D/ST Ravens, BAL
 
 - QB Kirk Cousins, LV
 
 - QB Bryce Young, CAR
 - D/ST Bears, CHI
-- WR Ja'Kobi Lane, BAL
+- WR Keenan Allen, SF
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
 - WR Malik Washington, MIA
