@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-11-08**
+- Snapshot date: **2026-11-11**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -14,7 +14,7 @@
 - QB C.J. Stroud, HOU
 
 - RB Kaelon Black, SF
-- QB Caleb Williams, CHI
+- WR Tank Dell, HOU
 
 
 - RB James Cook III, BUF
