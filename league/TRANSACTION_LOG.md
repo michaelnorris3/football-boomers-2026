@@ -344,3 +344,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261111-11-A | 2026-11-11 |  | 10 | Add | Cat Scratch Fever |  | Caleb Douglas | Free Agent | Cat Scratch Fever |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
 | TX-20261111-12-A | 2026-11-11 |  | 10 | Add | Cat Scratch Fever |  | Malachi Fields | Free Agent | Cat Scratch Fever |  |  |  | ESPN screenshots Nov 11 | Confirmed. |
 | TX-20261111-12-D | 2026-11-11 |  | 10 | Drop | Cat Scratch Fever |  | Kyler Murray | Cat Scratch Fever | Waivers |  |  |  | ESPN screenshots Nov 11 | Confirmed; waiver status subject to hold rule. |
+| TX-20261111-BARC-1-A | 2026-11-11 | 09:54 | 10 | Add | Barcelona Pickpockets |  | Cam Little | Free Agency | Barcelona Pickpockets |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
+| TX-20261111-BARC-1-D | 2026-11-11 | 09:54 | 10 | Drop | Barcelona Pickpockets |  | Bears D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
+| TX-20261111-BARC-2-A | 2026-11-11 | 09:54 | 10 | Add | Barcelona Pickpockets |  | Rico Dowdle | Free Agency | Barcelona Pickpockets |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
+| TX-20261111-BARC-2-D | 2026-11-11 | 09:54 | 10 | Drop | Barcelona Pickpockets |  | Kirk Cousins | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
