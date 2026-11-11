@@ -10,7 +10,7 @@
 ## Current Roster
 
 - WR Germie Bernard, PIT
-- IR Jordyn Tyson, NO
+- WR Jordyn Tyson, NO
 
 - RB Cam Skattebo, NYG
 
@@ -24,7 +24,7 @@
 - RB Woody Marks, HOU
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
-- RB Josh Jacobs, GB
+- IR Josh Jacobs, GB
 - TE Tyler Warren, IND
 - WR A.J. Brown, NE
 - WR Josh Downs, KC
