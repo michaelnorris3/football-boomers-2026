@@ -11,10 +11,10 @@
 
 - D/ST Ravens, BAL
 
-- QB Kirk Cousins, LV
+- RB Rico Dowdle, PIT
 
 - QB Bryce Young, CAR
-- D/ST Bears, CHI
+- K Cam Little, JAX
 - WR Keenan Allen, SF
 - RB Chase Brown, CIN
 - RB D'Andre Swift, CHI
