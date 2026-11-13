@@ -16,3 +16,9 @@
 | 8 | TEAM_07 | The Branch Covidians | Paul Gangi |
 | 9 | TEAM_06 | boomers. | Michael Norris |
 | 10 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale |
+
+## 2026-11-13 update (user-confirmed)
+
+- boomers. current waiver priority: **#7** (user confirmation).
+- Both Paul Gangi acquisitions (Steelers D/ST and Spencer Shrader) were **successful waiver claims**, not free-agent additions. Paul moved to the back of rolling priority on his first successful claim; the second does not independently advance boomers. again if processed consecutively.
+- The November 4 full order above is historical and **not the current full order**. Other intervening claims must be reconciled before publishing all ten positions.
