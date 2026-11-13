@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -21,8 +21,8 @@
 - WR Wan'Dale Robinson, TEN
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
-- D/ST Buccaneers, TB
-- K Chase McLaughlin, TB
+- D/ST Steelers, PIT
+- K Spencer Shrader, IND
 - WR Devaughn Vele, NO
 - WR Ryan Flournoy, DAL
 
@@ -32,3 +32,5 @@
 - Breece Hall is in an active RB starting slot; Davante Adams occupies the fantasy IR slot.
 - Jaylen Warren is still in a starting RB slot despite a bye as of screenshot time.
 - No add/drop transaction dates are established by these lineup screenshots.
+
+- 2026-11-13 ESPN waiver report: Steelers D/ST for Buccaneers D/ST; Spencer Shrader for Chase McLaughlin.
