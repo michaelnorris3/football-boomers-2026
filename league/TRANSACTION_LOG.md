@@ -348,3 +348,9 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261111-BARC-1-D | 2026-11-11 | 09:54 | 10 | Drop | Barcelona Pickpockets |  | Bears D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
 | TX-20261111-BARC-2-A | 2026-11-11 | 09:54 | 10 | Add | Barcelona Pickpockets |  | Rico Dowdle | Free Agency | Barcelona Pickpockets |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
 | TX-20261111-BARC-2-D | 2026-11-11 | 09:54 | 10 | Drop | Barcelona Pickpockets |  | Kirk Cousins | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshot Nov 11 | Confirmed. |
+| TX-20261113-PAUL-STEELERS-A | 2026-11-13 |  | 10 | Add | The Branch Covidians |  | Steelers D/ST | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261113-PAUL-BUCS-D | 2026-11-13 |  | 10 | Drop | The Branch Covidians |  | Buccaneers D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261113-PAUL-SHRADER-A | 2026-11-13 |  | 10 | Add | The Branch Covidians |  | Spencer Shrader | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261113-PAUL-MCLAUGHLIN-D | 2026-11-13 |  | 10 | Drop | The Branch Covidians |  | Chase McLaughlin | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261113-SEAN-BOSWELL-A | 2026-11-13 | 06:40 | 10 | Add | Ayahuasca and Cucking |  | Chris Boswell | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261113-SEAN-RYLAND-D | 2026-11-13 | 06:40 | 10 | Drop | Ayahuasca and Cucking |  | Chad Ryland | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
