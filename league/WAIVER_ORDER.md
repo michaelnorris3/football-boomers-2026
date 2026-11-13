@@ -1,24 +1,23 @@
 # Waiver Order
 
-- Effective date: **2026-11-04**
-- Status: **AUTHORITATIVE — ESPN Week 9 post-waiver screenshot**
+- Effective date: **2026-11-13**
+- Status: **AUTHORITATIVE — ESPN waiver-order screenshot supplied November 13**
 - Mechanic: successful waiver claims move team to bottom; free-agent transactions do not change priority.
 
 | Priority | Team ID | Team Name | Manager |
 |---|---|---|---|
 | 1 | TEAM_04 | Kars4Gibbs | Brett Boliver |
 | 2 | TEAM_02 | Cat Scratch Fever | Josh P |
-| 3 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson |
+| 3 | TEAM_05 | Long Live the King | Nathaniel Smith |
 | 4 | TEAM_01 | The Team Who Would Be Champs | Andrew Leonard |
-| 5 | TEAM_08 | Cazzata Malanga | Patrick Durkin |
-| 6 | TEAM_05 | Long Live the King | Nathaniel Smith |
-| 7 | TEAM_09 | Barcelona Pickpockets | Alex Johnson |
-| 8 | TEAM_07 | The Branch Covidians | Paul Gangi |
-| 9 | TEAM_06 | boomers. | Michael Norris |
-| 10 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale |
+| 5 | TEAM_10 | Champs?AllSigns Point 2 YES!! | Chris Gibson |
+| 6 | TEAM_08 | Cazzata Malanga | Patrick Durkin |
+| 7 | TEAM_06 | boomers. | Michael Norris |
+| 8 | TEAM_03 | Ayahuasca and Cucking | Sean Vitale |
+| 9 | TEAM_09 | Barcelona Pickpockets | Alex Johnson |
+| 10 | TEAM_07 | The Branch Covidians | Paul Gangi |
 
-## 2026-11-13 update (user-confirmed)
+## Notes
 
-- boomers. current waiver priority: **#7** (user confirmation).
-- Both Paul Gangi acquisitions (Steelers D/ST and Spencer Shrader) were **successful waiver claims**, not free-agent additions. Paul moved to the back of rolling priority on his first successful claim; the second does not independently advance boomers. again if processed consecutively.
-- The November 4 full order above is historical and **not the current full order**. Other intervening claims must be reconciled before publishing all ten positions.
+- Screenshot confirms boomers. at #7 and The Branch Covidians at #10 after Paul's two successful claims.
+- Supersedes the November 4 order and the partial November 13 update.
