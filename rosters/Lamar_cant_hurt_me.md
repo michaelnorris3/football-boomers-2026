@@ -4,7 +4,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-13**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -27,5 +27,7 @@
 - D/ST Texans, HOU
 - D/ST Steelers, PIT
 
-- K Chad Ryland, ARI
+- K Chris Boswell, PIT
 - RB Braelon Allen, NYJ
+
+- 2026-11-13 ESPN activity: Chris Boswell added, Chad Ryland dropped at 06:40.
