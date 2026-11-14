@@ -354,3 +354,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261113-PAUL-MCLAUGHLIN-D | 2026-11-13 |  | 10 | Drop | The Branch Covidians |  | Chase McLaughlin | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
 | TX-20261113-SEAN-BOSWELL-A | 2026-11-13 | 06:40 | 10 | Add | Ayahuasca and Cucking |  | Chris Boswell | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
 | TX-20261113-SEAN-RYLAND-D | 2026-11-13 | 06:40 | 10 | Drop | Ayahuasca and Cucking |  | Chad Ryland | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 13 | Confirmed screenshot transaction. |
+| TX-20261114-JOSH-WILSON-D | 2026-11-14 | 10:04 | 10 | Drop | Cat Scratch Fever |  | Michael Wilson | Cat Scratch Fever | Waivers |  |  |  | ESPN screenshot Nov 14 | Confirmed drop; acquisition mechanism not established. |
+| TX-20261114-JOSH-HUTCHINSON-A | 2026-11-14 | 10:04 | 10 | Add | Cat Scratch Fever |  | Xavier Hutchinson | Free Agency | Cat Scratch Fever |  |  |  | ESPN screenshot Nov 14 | Confirmed add; waiver claim status not established. |
