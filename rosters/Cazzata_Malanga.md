@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-11-14**
+- Snapshot date: **2026-11-15**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -21,7 +21,7 @@
 - TE Darren Waller, CAR
 - WR Jordan Addison, MIN
 - RB Zach Charbonnet, SEA
-- RB Corey Kiner, NE
+- K Jason Sanders, NYJ
 - RB Ashton Jeanty, LV
 - QB Jordan Love, GB
 - IR Kyle Monangai, CHI
@@ -37,3 +37,5 @@
 - 2026-11-04 3:54 PM ET: Added Chris Rodriguez Jr. (JAX RB), dropped Wil Lutz (DEN K), confirmed ESPN activity screenshot.
 
 - 2026-11-14 4:10 PM ET ESPN activity: added Darren Waller (CAR TE), dropped Pat Freiermuth (PIT TE).
+
+- 2026-11-15 8:04 AM ET ESPN activity: added Jason Sanders (NYJ K), dropped Corey Kiner (NE RB).
