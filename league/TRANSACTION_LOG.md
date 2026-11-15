@@ -362,3 +362,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261114-BOOMERS-DICKER-D | 2026-11-14 | 21:56 | 10 | Drop | boomers. |  | Cameron Dicker | boomers. | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed. |
 | TX-20261115-PAT-SANDERS-A | 2026-11-15 | 08:04 | 10 | Add | Cazzata Malanga |  | Jason Sanders | Free Agency | Cazzata Malanga |  |  |  | ESPN screenshot Nov 15 | Confirmed add; claim mechanism not specified. |
 | TX-20261115-PAT-KINER-D | 2026-11-15 | 08:04 | 10 | Drop | Cazzata Malanga |  | Corey Kiner | Cazzata Malanga | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed drop. |
+| TX-20261115-BRETT-BOUTTE-A | 2026-11-15 | 11:31 | 10 | Add | Kars4Gibbs |  | Kayshon Boutte | Free Agency | Kars4Gibbs |  |  |  | ESPN screenshot Nov 15 | Confirmed; acquisition mechanism not established. |
+| TX-20261115-BRETT-TATE-D | 2026-11-15 | 11:31 | 10 | Drop | Kars4Gibbs |  | Carnell Tate | Kars4Gibbs | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed. |
