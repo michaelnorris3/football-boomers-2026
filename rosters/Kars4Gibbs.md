@@ -17,7 +17,7 @@
 - TE Trey McBride, ARI
 - RB Quinshon Judkins, CLE
 - TE Dalton Kincaid, BUF
-- D/ST Cowboys, DAL
+- D/ST Colts, IND
 - K Brandon Aubrey, DAL
 - QB Dak Prescott, DAL
 - WR Tre Tucker, LV
@@ -34,3 +34,5 @@
 - Jaylin Noel appears on the active fantasy bench despite an NFL IR designation.
 
 - 2026-11-15 11:31 AM ET: ESPN confirmed Kayshon Boutte added and Carnell Tate dropped.
+
+- 2026-11-15 12:40 PM ET ESPN activity: added Colts D/ST and dropped Cowboys D/ST.
