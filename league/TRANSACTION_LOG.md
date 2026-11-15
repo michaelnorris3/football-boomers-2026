@@ -358,3 +358,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261114-JOSH-HUTCHINSON-A | 2026-11-14 | 10:04 | 10 | Add | Cat Scratch Fever |  | Xavier Hutchinson | Free Agency | Cat Scratch Fever |  |  |  | ESPN screenshot Nov 14 | Confirmed add; waiver claim status not established. |
 | TX-20261114-PAT-WALLER-A | 2026-11-14 | 16:10 | 10 | Add | Cazzata Malanga |  | Darren Waller | Free Agency | Cazzata Malanga |  |  |  | ESPN screenshot Nov 14 | Confirmed add; claim mechanism not specified. |
 | TX-20261114-PAT-FREIERMUTH-D | 2026-11-14 | 16:10 | 10 | Drop | Cazzata Malanga |  | Pat Freiermuth | Cazzata Malanga | Waivers |  |  |  | ESPN screenshot Nov 14 | Confirmed drop. |
+| TX-20261114-BOOMERS-BATES-A | 2026-11-14 | 21:56 | 10 | Add | boomers. |  | Jake Bates | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 15 | Confirmed. |
+| TX-20261114-BOOMERS-DICKER-D | 2026-11-14 | 21:56 | 10 | Drop | boomers. |  | Cameron Dicker | boomers. | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed. |
