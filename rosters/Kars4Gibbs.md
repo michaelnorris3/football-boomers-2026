@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_04`
 - Manager: Brett Boliver
-- Snapshot date: **2026-11-03**
+- Snapshot date: **2026-11-15**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -12,7 +12,7 @@
 - RB Jahmyr Gibbs, DET
 - IR Jeremiyah Love, ARI
 - WR Emeka Egbuka, TB
-- WR Carnell Tate, TEN
+- WR Kayshon Boutte, HOU
 - WR DK Metcalf, PIT
 - TE Trey McBride, ARI
 - RB Quinshon Judkins, CLE
@@ -32,3 +32,5 @@
 - Jeremiyah Love occupies the fantasy IR slot (NFL team ARI).
 - One starting WR slot is empty and Carnell Tate is in the FLEX despite a bye and OUT designation at screenshot time.
 - Jaylin Noel appears on the active fantasy bench despite an NFL IR designation.
+
+- 2026-11-15 11:31 AM ET: ESPN confirmed Kayshon Boutte added and Carnell Tate dropped.
