@@ -366,3 +366,4 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261115-BRETT-TATE-D | 2026-11-15 | 11:31 | 10 | Drop | Kars4Gibbs |  | Carnell Tate | Kars4Gibbs | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed. |
 | TX-20261115-BRETT-COLTS-A | 2026-11-15 | 12:40 | 10 | Add | Kars4Gibbs |  | Colts D/ST | Free Agency | Kars4Gibbs |  |  |  | ESPN screenshot Nov 15 | Confirmed add; acquisition mechanism not established. |
 | TX-20261115-BRETT-COWBOYS-D | 2026-11-15 | 12:40 | 10 | Drop | Kars4Gibbs |  | Cowboys D/ST | Kars4Gibbs | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed drop. |
+| TX-20261117-PAUL-ROBINSON-D | 2026-11-17 | 16:18 | 11 | Drop | The Branch Covidians |  | Wan'Dale Robinson | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 17 | Confirmed drop; no corresponding add shown. |
