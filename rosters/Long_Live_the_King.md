@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-11-04**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
 
 ## Current Roster
 
-- WR Adonai Mitchell, NYJ
+- QB Kirk Cousins, MIN
 
 - QB Lamar Jackson, BAL
 - RB Christian McCaffrey, SF
@@ -31,3 +31,5 @@
 
 - 2026-11-03 Week 9 screenshots confirm all 16 players, with Mike Evans in the fantasy IR slot.
 - Lamar Jackson is marked OUT but remains in the starting QB slot as of screenshot time.
+
+- 2026-11-18 10:37 AM ET ESPN: added Kirk Cousins (MIN QB), dropped Adonai Mitchell (NYJ WR).
