@@ -2,16 +2,16 @@
 
 - Team ID: `TEAM_01`
 - Manager: Andrew Leonard
-- Snapshot date: **2026-11-06**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
 
 ## Current Roster
 
-- TE Hunter Henry, NE
 
-- D/ST Rams, LAR
+
+- D/ST Broncos, DEN
 
 - QB Joe Burrow, CIN
 - RB Jonathan Taylor, IND
@@ -25,7 +25,7 @@
 - WR Khalil Shakir, BUF
 - WR Denzel Boston, CLE
 - TE George Kittle, SF
-- K Jason Myers, SEA
+- K Harrison Butker, KC
 - QB Drake Maye, NE
 
 ## Reconciliation notes
@@ -33,3 +33,5 @@
 - 2026-11-03 Week 9 screenshots confirm 15 active players and an empty fantasy IR slot.
 - Alec Pierce is no longer on this roster; destination and transaction timing unknown.
 - RJ Harvey appears on the active fantasy bench with an NFL IR injury designation, not in the fantasy IR slot.
+
+- 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
