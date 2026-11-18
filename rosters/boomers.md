@@ -14,7 +14,7 @@
 
 - RB Cam Skattebo, NYG
 
-- D/ST Jaguars, JAX
+- D/ST Chiefs, KC
 
 
 - QB Trevor Lawrence, JAX
@@ -33,3 +33,5 @@
 - 2026-11-14 9:56 PM ET: added Jake Bates (DET K), dropped Cameron Dicker (LAC K), ESPN activity screenshot.
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-18 ESPN activity: added Chiefs D/ST, dropped Jaguars D/ST.
