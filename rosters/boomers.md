@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-11-14**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- WR Germie Bernard, PIT
+- TE Dallas Goedert, PHI
 - WR Jordyn Tyson, NO
 
 - RB Cam Skattebo, NYG
@@ -21,7 +21,7 @@
 - RB Kenneth Walker III, KC
 - WR KC Concepcion, CLE
 - K Jake Bates, DET
-- RB Woody Marks, HOU
+- RB Omarion Hampton, LAC
 - WR Ja'Marr Chase, CIN
 - WR Garrett Wilson, NYJ
 - IR Josh Jacobs, GB
@@ -31,3 +31,5 @@
 - RB Tyler Allgeier, ARI
 
 - 2026-11-14 9:56 PM ET: added Jake Bates (DET K), dropped Cameron Dicker (LAC K), ESPN activity screenshot.
+
+- 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
