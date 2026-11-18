@@ -21,7 +21,7 @@
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
 - TE Mark Andrews, BAL
-- D/ST Steelers, PIT
+- D/ST Bills, BUF
 - K Spencer Shrader, IND
 - WR Devaughn Vele, NO
 - WR Ryan Flournoy, DAL
@@ -38,3 +38,5 @@
 - 2026-11-17 4:18 PM ET ESPN activity: dropped Wan'Dale Robinson (TEN WR), no corresponding add shown.
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-18 ESPN activity: Steelers D/ST -> Buccaneers D/ST -> Bills D/ST (two consecutive add/drops).
