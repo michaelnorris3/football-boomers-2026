@@ -4,7 +4,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-11-13**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -13,7 +13,6 @@
 
 - QB Malik Willis, MIA
 
-- WR Chris Godwin Jr., TB
 - RB Bijan Robinson, ATL
 - IR Travis Etienne Jr., NO
 - RB Bucky Irving, TB
@@ -28,6 +27,8 @@
 - D/ST Steelers, PIT
 
 - K Chris Boswell, PIT
-- RB Braelon Allen, NYJ
+- RB David Montgomery, HOU
 
 - 2026-11-13 ESPN activity: Chris Boswell added, Chad Ryland dropped at 06:40.
+
+- 2026-11-18 9:16 AM ET ESPN: dropped Chris Godwin Jr. (TB WR) separately; added David Montgomery (HOU RB) and dropped Braelon Allen (NYJ RB).
