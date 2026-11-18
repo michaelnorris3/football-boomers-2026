@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-11-15**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -17,9 +17,9 @@
 - WR Christian Watson, GB
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
-- D/ST Packers, GB
+- WR Carnell Tate, TEN
 - TE Darren Waller, CAR
-- WR Jordan Addison, MIN
+- WR Courtland Sutton, DEN
 - RB Zach Charbonnet, SEA
 - K Jason Sanders, NYJ
 - RB Ashton Jeanty, LV
@@ -39,3 +39,5 @@
 - 2026-11-14 4:10 PM ET ESPN activity: added Darren Waller (CAR TE), dropped Pat Freiermuth (PIT TE).
 
 - 2026-11-15 8:04 AM ET ESPN activity: added Jason Sanders (NYJ K), dropped Corey Kiner (NE RB).
+
+- 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
