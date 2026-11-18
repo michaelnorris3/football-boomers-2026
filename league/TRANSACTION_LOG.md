@@ -367,3 +367,27 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261115-BRETT-COLTS-A | 2026-11-15 | 12:40 | 10 | Add | Kars4Gibbs |  | Colts D/ST | Free Agency | Kars4Gibbs |  |  |  | ESPN screenshot Nov 15 | Confirmed add; acquisition mechanism not established. |
 | TX-20261115-BRETT-COWBOYS-D | 2026-11-15 | 12:40 | 10 | Drop | Kars4Gibbs |  | Cowboys D/ST | Kars4Gibbs | Waivers |  |  |  | ESPN screenshot Nov 15 | Confirmed drop. |
 | TX-20261117-PAUL-ROBINSON-D | 2026-11-17 | 16:18 | 11 | Drop | The Branch Covidians |  | Wan'Dale Robinson | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 17 | Confirmed drop; no corresponding add shown. |
+| TX-20261118-ANDREW-A | 2026-11-18 |  | 11 | Add | The Team Who Would Be Champs |  | Broncos D/ST | Waiver | The Team Who Would Be Champs |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ANDREW-D | 2026-11-18 |  | 11 | Drop | The Team Who Would Be Champs |  | Rams D/ST | The Team Who Would Be Champs | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-PAT1-A | 2026-11-18 |  | 11 | Add | Cazzata Malanga |  | Carnell Tate | Waiver | Cazzata Malanga |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-PAT1-D | 2026-11-18 |  | 11 | Drop | Cazzata Malanga |  | Packers D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-BOOMERS1-A | 2026-11-18 |  | 11 | Add | boomers. |  | Omarion Hampton | Waiver | boomers. |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-BOOMERS1-D | 2026-11-18 |  | 11 | Drop | boomers. |  | Woody Marks | boomers. | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-ALEX1-A | 2026-11-18 |  | 11 | Add | Barcelona Pickpockets |  | Caleb Williams | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ALEX1-D | 2026-11-18 |  | 11 | Drop | Barcelona Pickpockets |  | Bryce Young | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-PAUL-A | 2026-11-18 |  | 11 | Add | The Branch Covidians |  | Mark Andrews | Waiver | The Branch Covidians |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ANDREW2-A | 2026-11-18 |  | 11 | Add | The Team Who Would Be Champs |  | Harrison Butker | Waiver | The Team Who Would Be Champs |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ANDREW2-D | 2026-11-18 |  | 11 | Drop | The Team Who Would Be Champs |  | Jason Myers | The Team Who Would Be Champs | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-PAT2-A | 2026-11-18 |  | 11 | Add | Cazzata Malanga |  | Courtland Sutton | Waiver | Cazzata Malanga |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-PAT2-D | 2026-11-18 |  | 11 | Drop | Cazzata Malanga |  | Jordan Addison | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-ALEX2-A | 2026-11-18 |  | 11 | Add | Barcelona Pickpockets |  | Bo Nix | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ALEX2-D | 2026-11-18 |  | 11 | Drop | Barcelona Pickpockets |  | Cairo Santos | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-ALEX3-A | 2026-11-18 |  | 11 | Add | Barcelona Pickpockets |  | Bears D/ST | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 18 | Confirmed Waiver addition. |
+| TX-20261118-ALEX3-D | 2026-11-18 |  | 11 | Drop | Barcelona Pickpockets |  | Ravens D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-CHRIS1-A | 2026-11-18 |  | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Chig Okonkwo | Free Agent | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshots Nov 18 | Confirmed Free Agent addition. |
+| TX-20261118-CHRIS1-D | 2026-11-18 |  | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Jalen Coker | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-BOOMERS2-A | 2026-11-18 |  | 11 | Add | boomers. |  | Dallas Goedert | Free Agent | boomers. |  |  |  | ESPN screenshots Nov 18 | Confirmed Free Agent addition. |
+| TX-20261118-BOOMERS2-D | 2026-11-18 |  | 11 | Drop | boomers. |  | Germie Bernard | boomers. | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-CHRIS2-A | 2026-11-18 |  | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Pat Bryant | Free Agent | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshots Nov 18 | Confirmed Free Agent addition. |
+| TX-20261118-CHRIS2-D | 2026-11-18 |  | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Tank Dell | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
+| TX-20261118-BOOMERS-TATE-FAILED | 2026-11-18 |  | 11 | Unsuccessful Claim | boomers. |  | Carnell Tate | Waivers | Cazzata Malanga |  |  |  | ESPN waiver report Nov 18 | Lost claim to Cazzata Malanga; no waiver-priority cost. |
