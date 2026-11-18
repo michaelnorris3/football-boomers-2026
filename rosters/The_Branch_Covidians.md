@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-11-17**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -20,6 +20,7 @@
 - IR Davante Adams, LAR
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
+- TE Mark Andrews, BAL
 - D/ST Steelers, PIT
 - K Spencer Shrader, IND
 - WR Devaughn Vele, NO
@@ -35,3 +36,5 @@
 - 2026-11-13 ESPN waiver report: Steelers D/ST for Buccaneers D/ST; Spencer Shrader for Chase McLaughlin.
 
 - 2026-11-17 4:18 PM ET ESPN activity: dropped Wan'Dale Robinson (TEN WR), no corresponding add shown.
+
+- 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
