@@ -399,3 +399,6 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261118-PAUL2-DST-D | 2026-11-18 |  | 11 | Drop | The Branch Covidians |  | Buccaneers D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
 | TX-20261118-PAT-DST-A | 2026-11-18 |  | 11 | Add | Cazzata Malanga |  | Jets D/ST | Free Agency | Cazzata Malanga |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
 | TX-20261118-PAT-DST-D | 2026-11-18 |  | 11 | Drop | Cazzata Malanga |  | Darren Waller | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-SEAN-GODWIN-D | 2026-11-18 | 09:16 | 11 | Drop | Ayahuasca and Cucking |  | Chris Godwin Jr. | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed separate drop. |
+| TX-20261118-SEAN-MONTGOMERY-A | 2026-11-18 | 09:16 | 11 | Add | Ayahuasca and Cucking |  | David Montgomery | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 18 | Confirmed addition. |
+| TX-20261118-SEAN-ALLEN-D | 2026-11-18 | 09:16 | 11 | Drop | Ayahuasca and Cucking |  | Braelon Allen | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed paired drop. |
