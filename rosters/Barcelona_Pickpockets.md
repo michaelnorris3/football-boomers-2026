@@ -2,18 +2,19 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-11-11**
+- Snapshot date: **2026-11-18**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
 
-- D/ST Ravens, BAL
+- D/ST Bears, CHI
 
 - RB Rico Dowdle, PIT
 
-- QB Bryce Young, CAR
+- QB Caleb Williams, CHI
+- QB Bo Nix, DEN
 - K Cam Little, JAX
 - WR Keenan Allen, SF
 - RB Chase Brown, CIN
@@ -25,4 +26,6 @@
 - WR DJ Moore, BUF
 - TE Isaiah Likely, NYG
 - TE Brock Bowers, LV
-- K Cairo Santos, CHI
+
+
+- 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
