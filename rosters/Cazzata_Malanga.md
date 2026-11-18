@@ -18,7 +18,7 @@
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
 - WR Carnell Tate, TEN
-- TE Darren Waller, CAR
+- D/ST Jets, NYJ
 - WR Courtland Sutton, DEN
 - RB Zach Charbonnet, SEA
 - K Jason Sanders, NYJ
@@ -41,3 +41,5 @@
 - 2026-11-15 8:04 AM ET ESPN activity: added Jason Sanders (NYJ K), dropped Corey Kiner (NE RB).
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-18 ESPN activity: added Jets D/ST, dropped Darren Waller.
