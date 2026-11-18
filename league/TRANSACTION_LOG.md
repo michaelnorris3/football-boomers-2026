@@ -391,3 +391,11 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261118-CHRIS2-A | 2026-11-18 |  | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Pat Bryant | Free Agent | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshots Nov 18 | Confirmed Free Agent addition. |
 | TX-20261118-CHRIS2-D | 2026-11-18 |  | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Tank Dell | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed paired drop. |
 | TX-20261118-BOOMERS-TATE-FAILED | 2026-11-18 |  | 11 | Unsuccessful Claim | boomers. |  | Carnell Tate | Waivers | Cazzata Malanga |  |  |  | ESPN waiver report Nov 18 | Lost claim to Cazzata Malanga; no waiver-priority cost. |
+| TX-20261118-BOOMERS-DST-A | 2026-11-18 |  | 11 | Add | boomers. |  | Chiefs D/ST | Free Agency | boomers. |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-BOOMERS-DST-D | 2026-11-18 |  | 11 | Drop | boomers. |  | Jaguars D/ST | boomers. | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAUL1-DST-A | 2026-11-18 |  | 11 | Add | The Branch Covidians |  | Buccaneers D/ST | Free Agency | The Branch Covidians |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAUL1-DST-D | 2026-11-18 |  | 11 | Drop | The Branch Covidians |  | Steelers D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAUL2-DST-A | 2026-11-18 |  | 11 | Add | The Branch Covidians |  | Bills D/ST | Free Agency | The Branch Covidians |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAUL2-DST-D | 2026-11-18 |  | 11 | Drop | The Branch Covidians |  | Buccaneers D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAT-DST-A | 2026-11-18 |  | 11 | Add | Cazzata Malanga |  | Jets D/ST | Free Agency | Cazzata Malanga |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
+| TX-20261118-PAT-DST-D | 2026-11-18 |  | 11 | Drop | Cazzata Malanga |  | Darren Waller | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 18 | Confirmed. |
