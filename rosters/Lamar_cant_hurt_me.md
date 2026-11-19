@@ -12,6 +12,7 @@
 ## Current Roster
 
 - QB Malik Willis, MIA
+- QB Cam Ward, TEN
 
 - RB Bijan Robinson, ATL
 - IR Travis Etienne Jr., NO
@@ -32,3 +33,5 @@
 - 2026-11-13 ESPN activity: Chris Boswell added, Chad Ryland dropped at 06:40.
 
 - 2026-11-18 9:16 AM ET ESPN: dropped Chris Godwin Jr. (TB WR) separately; added David Montgomery (HOU RB) and dropped Braelon Allen (NYJ RB).
+
+- 2026-11-18 7:46 PM ET ESPN: added Cam Ward (TEN QB), dropped Tyler Shough (NO QB). Tyler Shough was not in the prior roster snapshot, so this establishes an intervening unlogged acquisition rather than removal of Malik Willis.
