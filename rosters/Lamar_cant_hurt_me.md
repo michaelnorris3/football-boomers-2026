@@ -4,7 +4,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-19**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -24,6 +24,7 @@
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
 - TE Mike Gesicki, CIN
+- TE Dalton Schultz, HOU
 - D/ST Texans, HOU
 - D/ST Steelers, PIT
 
@@ -35,3 +36,5 @@
 - 2026-11-18 9:16 AM ET ESPN: dropped Chris Godwin Jr. (TB WR) separately; added David Montgomery (HOU RB) and dropped Braelon Allen (NYJ RB).
 
 - 2026-11-18 7:46 PM ET ESPN: added Cam Ward (TEN QB), dropped Tyler Shough (NO QB). Tyler Shough was not in the prior roster snapshot, so this establishes an intervening unlogged acquisition rather than removal of Malik Willis.
+
+- 2026-11-19 5:15 PM ET ESPN: added Dalton Schultz with no corresponding drop shown.
