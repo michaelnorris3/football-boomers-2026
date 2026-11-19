@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-19**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -11,7 +11,6 @@
 
 - QB Kirk Cousins, MIN
 
-- QB Lamar Jackson, BAL
 - RB Christian McCaffrey, SF
 - RB Derrick Henry, BAL
 - WR George Pickens, DAL
@@ -25,7 +24,7 @@
 - RB Chuba Hubbard, CAR
 - TE Travis Kelce, KC
 - D/ST Vikings, MIN
-- TE Kyle Pitts Sr., ATL
+- WR Elic Ayomanor, TEN
 
 ## Reconciliation notes
 
@@ -33,3 +32,5 @@
 - Lamar Jackson is marked OUT but remains in the starting QB slot as of screenshot time.
 
 - 2026-11-18 10:37 AM ET ESPN: added Kirk Cousins (MIN QB), dropped Adonai Mitchell (NYJ WR).
+
+- 2026-11-19 ESPN: added Elic Ayomanor, dropped Kyle Pitts Sr.; separately dropped Lamar Jackson.
