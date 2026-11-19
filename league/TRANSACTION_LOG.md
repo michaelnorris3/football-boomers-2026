@@ -406,3 +406,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261118-NATE-MITCHELL-D | 2026-11-18 | 10:37 | 11 | Drop | Long Live the King |  | Adonai Mitchell | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed. |
 | TX-20261118-SEAN-WARD-A | 2026-11-18 | 19:46 | 11 | Add | Ayahuasca and Cucking |  | Cam Ward | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 18 | Confirmed. |
 | TX-20261118-SEAN-SHOUGH-D | 2026-11-18 | 19:46 | 11 | Drop | Ayahuasca and Cucking |  | Tyler Shough | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed; earlier acquisition not logged. |
+| TX-20261119-NATE-AYOMANOR-A | 2026-11-19 |  | 11 | Add | Long Live the King |  | Elic Ayomanor | Free Agency | Long Live the King |  |  |  | ESPN screenshot Nov 19 | Confirmed. |
+| TX-20261119-NATE-PITTS-D | 2026-11-19 |  | 11 | Drop | Long Live the King |  | Kyle Pitts Sr. | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 19 | Confirmed paired drop. |
+| TX-20261119-NATE-LAMAR-D | 2026-11-19 |  | 11 | Drop | Long Live the King |  | Lamar Jackson | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 19 | Confirmed separate drop. |
+| TX-20261119-SEAN-SCHULTZ-A | 2026-11-19 | 17:15 | 11 | Add | Ayahuasca and Cucking |  | Dalton Schultz | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 19 | Confirmed add without paired drop. |
