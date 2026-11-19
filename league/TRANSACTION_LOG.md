@@ -404,3 +404,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261118-SEAN-ALLEN-D | 2026-11-18 | 09:16 | 11 | Drop | Ayahuasca and Cucking |  | Braelon Allen | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed paired drop. |
 | TX-20261118-NATE-COUSINS-A | 2026-11-18 | 10:37 | 11 | Add | Long Live the King |  | Kirk Cousins | Free Agency | Long Live the King |  |  |  | ESPN screenshot Nov 18 | Confirmed. |
 | TX-20261118-NATE-MITCHELL-D | 2026-11-18 | 10:37 | 11 | Drop | Long Live the King |  | Adonai Mitchell | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed. |
+| TX-20261118-SEAN-WARD-A | 2026-11-18 | 19:46 | 11 | Add | Ayahuasca and Cucking |  | Cam Ward | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 18 | Confirmed. |
+| TX-20261118-SEAN-SHOUGH-D | 2026-11-18 | 19:46 | 11 | Drop | Ayahuasca and Cucking |  | Tyler Shough | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 18 | Confirmed; earlier acquisition not logged. |
