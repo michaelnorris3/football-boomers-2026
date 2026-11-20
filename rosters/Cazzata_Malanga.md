@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_08`
 - Manager: Patrick Durkin
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-20**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -18,7 +18,7 @@
 - TE Colston Loveland, CHI
 - RB Rhamondre Stevenson, NE
 - WR Carnell Tate, TEN
-- D/ST Jets, NYJ
+- D/ST Steelers, PIT
 - WR Courtland Sutton, DEN
 - RB Zach Charbonnet, SEA
 - K Jason Sanders, NYJ
@@ -43,3 +43,5 @@
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
 
 - 2026-11-18 ESPN activity: added Jets D/ST, dropped Darren Waller.
+
+- 2026-11-20 3:19 AM ET waiver: added Steelers D/ST, dropped Jets D/ST.
