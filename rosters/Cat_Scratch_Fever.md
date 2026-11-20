@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_02`
 - Manager: Josh P
-- Snapshot date: **2026-11-14**
+- Snapshot date: **2026-11-20**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
@@ -22,9 +22,11 @@
 - WR Malachi Fields, NYG
 - TE Brenton Strange, JAX
 - D/ST Commanders, WSH
-- TE T.J. Hockenson, MIN
+- RB Kenny Gainwell, TB
 - K Tyler Bass, BUF
 
 ## November 14 transaction
 
 - ESPN activity screenshot, 10:04 AM: dropped Michael Wilson (ARI WR) and added Xavier Hutchinson (HOU WR). Screenshot shows separate add and drop notices, not a waiver-wire report; claim status not established.
+
+- 2026-11-19 10:23 PM ET: added Kenny Gainwell (TB RB), dropped T.J. Hockenson (MIN TE), ESPN activity.
