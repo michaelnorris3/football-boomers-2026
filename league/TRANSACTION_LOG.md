@@ -410,3 +410,9 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261119-NATE-PITTS-D | 2026-11-19 |  | 11 | Drop | Long Live the King |  | Kyle Pitts Sr. | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 19 | Confirmed paired drop. |
 | TX-20261119-NATE-LAMAR-D | 2026-11-19 |  | 11 | Drop | Long Live the King |  | Lamar Jackson | Long Live the King | Waivers |  |  |  | ESPN screenshot Nov 19 | Confirmed separate drop. |
 | TX-20261119-SEAN-SCHULTZ-A | 2026-11-19 | 17:15 | 11 | Add | Ayahuasca and Cucking |  | Dalton Schultz | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 19 | Confirmed add without paired drop. |
+| TX-20261119-JOSH-GAINWELL-A | 2026-11-19 | 22:23 | 11 | Add | Cat Scratch Fever |  | Kenny Gainwell | Free Agency | Cat Scratch Fever |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
+| TX-20261119-JOSH-GAINWELL-D | 2026-11-19 | 22:23 | 11 | Drop | Cat Scratch Fever |  | T.J. Hockenson | Cat Scratch Fever | Waivers |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
+| TX-20261120-PAT-STEELERS-A | 2026-11-20 | 03:19 | 11 | Add | Cazzata Malanga |  | Steelers D/ST | Waiver | Cazzata Malanga |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
+| TX-20261120-PAT-STEELERS-D | 2026-11-20 | 03:19 | 11 | Drop | Cazzata Malanga |  | Jets D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
+| TX-20261120-ALEX-JAGUARS-A | 2026-11-20 | 03:19 | 11 | Add | Barcelona Pickpockets |  | Jaguars D/ST | Waiver | Barcelona Pickpockets |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
+| TX-20261120-ALEX-JAGUARS-D | 2026-11-20 | 03:19 | 11 | Drop | Barcelona Pickpockets |  | Bears D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
