@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_09`
 - Manager: Alex Johnson
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-20**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN current roster screenshot supplied 2026-10-13
 - Authoritative: **YES**
 
 ## Current Roster
 
-- D/ST Bears, CHI
+- D/ST Jaguars, JAX
 
 - RB Rico Dowdle, PIT
 
@@ -29,3 +29,5 @@
 
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-20 3:19 AM ET waiver: added Jaguars D/ST, dropped Bears D/ST.
