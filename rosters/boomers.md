@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-20**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -28,10 +28,12 @@
 - TE Tyler Warren, IND
 - WR A.J. Brown, NE
 - WR Josh Downs, KC
-- RB Tyler Allgeier, ARI
+- WR Adonai Mitchell, NYJ
 
 - 2026-11-14 9:56 PM ET: added Jake Bates (DET K), dropped Cameron Dicker (LAC K), ESPN activity screenshot.
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
 
 - 2026-11-18 ESPN activity: added Chiefs D/ST, dropped Jaguars D/ST.
+
+- 2026-11-20 7:21 AM ET ESPN activity: added Adonai Mitchell (NYJ WR), dropped Tyler Allgeier (ARI RB).
