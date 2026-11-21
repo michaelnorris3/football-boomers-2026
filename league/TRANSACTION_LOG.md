@@ -418,3 +418,5 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261120-ALEX-JAGUARS-D | 2026-11-20 | 03:19 | 11 | Drop | Barcelona Pickpockets |  | Bears D/ST | Barcelona Pickpockets | Waivers |  |  |  | ESPN screenshots Nov 20 | Confirmed. |
 | TX-20261120-BOOMERS-MITCHELL-A | 2026-11-20 | 07:21 | 11 | Add | boomers. |  | Adonai Mitchell | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 20 | Confirmed. |
 | TX-20261120-BOOMERS-ALLGEIER-D | 2026-11-20 | 07:21 | 11 | Drop | boomers. |  | Tyler Allgeier | boomers. | Waivers |  |  |  | ESPN screenshot Nov 20 | Confirmed. |
+| TX-20261121-BOOMERS-HOCKENSON-A | 2026-11-21 | 08:29 | 11 | Add | boomers. |  | T.J. Hockenson | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 21 | Confirmed. |
+| TX-20261121-BOOMERS-BROWN-D | 2026-11-21 | 08:29 | 11 | Drop | boomers. |  | A.J. Brown | boomers. | Waivers |  |  |  | ESPN screenshot Nov 21 | Confirmed. |
