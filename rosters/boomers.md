@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-11-20**
+- Snapshot date: **2026-11-21**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -26,7 +26,7 @@
 - WR Garrett Wilson, NYJ
 - IR Josh Jacobs, GB
 - TE Tyler Warren, IND
-- WR A.J. Brown, NE
+- TE T.J. Hockenson, MIN
 - WR Josh Downs, KC
 - WR Adonai Mitchell, NYJ
 
@@ -37,3 +37,5 @@
 - 2026-11-18 ESPN activity: added Chiefs D/ST, dropped Jaguars D/ST.
 
 - 2026-11-20 7:21 AM ET ESPN activity: added Adonai Mitchell (NYJ WR), dropped Tyler Allgeier (ARI RB).
+
+- 2026-11-21 8:29 AM ET ESPN activity: added T.J. Hockenson (MIN TE), dropped A.J. Brown (NE WR).
