@@ -420,3 +420,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261120-BOOMERS-ALLGEIER-D | 2026-11-20 | 07:21 | 11 | Drop | boomers. |  | Tyler Allgeier | boomers. | Waivers |  |  |  | ESPN screenshot Nov 20 | Confirmed. |
 | TX-20261121-BOOMERS-HOCKENSON-A | 2026-11-21 | 08:29 | 11 | Add | boomers. |  | T.J. Hockenson | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 21 | Confirmed. |
 | TX-20261121-BOOMERS-BROWN-D | 2026-11-21 | 08:29 | 11 | Drop | boomers. |  | A.J. Brown | boomers. | Waivers |  |  |  | ESPN screenshot Nov 21 | Confirmed. |
+| TX-20261122-CHRIS-DICKER-A | 2026-11-22 | 11:43 | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Cameron Dicker | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
+| TX-20261122-CHRIS-GAY-D | 2026-11-22 | 11:43 | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Matt Gay | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
+| TX-20261122-CHRIS-BEARS-A | 2026-11-22 | 11:53 | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Bears D/ST | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
+| TX-20261122-CHRIS-WILLIAMS-D | 2026-11-22 | 11:53 | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Antonio Williams | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
