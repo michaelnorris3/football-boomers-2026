@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-22**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -26,10 +26,10 @@
 - WR Malik Nabers, NYG
 
 - TE Tucker Kraft, GB
-- WR Antonio Williams, WSH
+- D/ST Bears, CHI
 - RB Ollie Gordon II, MIA
 - IR Brian Robinson Jr., ATL
-- K Matt Gay, LV
+- K Cameron Dicker, LAC
 
 ## Reconciliation notes
 
@@ -38,3 +38,6 @@
 - The third starting WR slot is Jalen Coker, and Jacoby Brissett is projected for zero in the screenshot; lineup statuses can change.
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-22 11:43 AM ET: added Cameron Dicker (LAC K), dropped Matt Gay (LV K).
+- 2026-11-22 11:53 AM ET: added Bears D/ST, dropped Antonio Williams (WSH WR).
