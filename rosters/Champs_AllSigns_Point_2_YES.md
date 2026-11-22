@@ -41,3 +41,5 @@
 
 - 2026-11-22 11:43 AM ET: added Cameron Dicker (LAC K), dropped Matt Gay (LV K).
 - 2026-11-22 11:53 AM ET: added Bears D/ST, dropped Antonio Williams (WSH WR).
+
+- 2026-11-22: Verified the Cameron Dicker and Bears D/ST transactions against the user-provided ESPN screenshot. No additional roster change.
