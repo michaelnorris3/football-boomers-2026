@@ -430,3 +430,8 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261125-BOOMERS-D | 2026-11-25 |  | 12 | Drop | boomers. |  | Dallas Goedert | boomers. | Waivers |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
 | TX-20261125-NATE2-A | 2026-11-25 |  | 12 | Add | Long Live the King |  | Deshaun Watson | Waiver | Long Live the King |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
 | TX-20261125-NATE2-D | 2026-11-25 |  | 12 | Drop | Long Live the King |  | Will Reichard | Long Live the King | Waivers |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261124-PAT-SUTTON-D | 2026-11-24 | 07:27 | 12 | Drop | Cazzata Malanga |  | Courtland Sutton | Cazzata Malanga | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAT-GIANTS-A | 2026-11-25 | 07:21 | 12 | Add | Cazzata Malanga |  | Giants D/ST | Free Agency | Cazzata Malanga |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAT-STEELERS-D | 2026-11-25 | 07:21 | 12 | Drop | Cazzata Malanga |  | Steelers D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-BOOMERS-BUCS-A | 2026-11-25 | 07:21 | 12 | Add | boomers. |  | Buccaneers D/ST | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-BOOMERS-CHIEFS-D | 2026-11-25 | 07:21 | 12 | Drop | boomers. |  | Chiefs D/ST | boomers. | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
