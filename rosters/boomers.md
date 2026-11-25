@@ -2,14 +2,14 @@
 
 - Team ID: `TEAM_06`
 - Manager: Michael Norris
-- Snapshot date: **2026-11-21**
+- Snapshot date: **2026-11-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
 
 ## Current Roster
 
-- TE Dallas Goedert, PHI
+- RB Dylan Sampson, CLE
 - WR Jordyn Tyson, NO
 
 - RB Cam Skattebo, NYG
@@ -39,3 +39,5 @@
 - 2026-11-20 7:21 AM ET ESPN activity: added Adonai Mitchell (NYJ WR), dropped Tyler Allgeier (ARI RB).
 
 - 2026-11-21 8:29 AM ET ESPN activity: added T.J. Hockenson (MIN TE), dropped A.J. Brown (NE WR).
+
+- 2026-11-25 ESPN waiver run: added Dylan Sampson (CLE RB), dropped Dallas Goedert (PHI TE).
