@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_10`
 - Manager: Chris Gibson
-- Snapshot date: **2026-11-22**
+- Snapshot date: **2026-11-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -26,7 +26,7 @@
 - WR Malik Nabers, NYG
 
 - TE Tucker Kraft, GB
-- D/ST Bears, CHI
+- RB Jacory Croskey-Merritt, WSH
 - RB Ollie Gordon II, MIA
 - IR Brian Robinson Jr., ATL
 - K Cameron Dicker, LAC
@@ -43,3 +43,5 @@
 - 2026-11-22 11:53 AM ET: added Bears D/ST, dropped Antonio Williams (WSH WR).
 
 - 2026-11-22: Verified the Cameron Dicker and Bears D/ST transactions against the user-provided ESPN screenshot. No additional roster change.
+
+- 2026-11-25 10:25 AM ET ESPN: added Jacory Croskey-Merritt (WSH RB), dropped Bears D/ST.
