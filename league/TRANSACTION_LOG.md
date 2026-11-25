@@ -435,3 +435,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261125-PAT-STEELERS-D | 2026-11-25 | 07:21 | 12 | Drop | Cazzata Malanga |  | Steelers D/ST | Cazzata Malanga | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-BOOMERS-BUCS-A | 2026-11-25 | 07:21 | 12 | Add | boomers. |  | Buccaneers D/ST | Free Agency | boomers. |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-BOOMERS-CHIEFS-D | 2026-11-25 | 07:21 | 12 | Drop | boomers. |  | Chiefs D/ST | boomers. | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-CHRIS-CROSKEY-A | 2026-11-25 | 10:25 | 12 | Add | Champs?AllSigns Point 2 YES!! |  | Jacory Croskey-Merritt | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-CHRIS-BEARS-D | 2026-11-25 | 10:25 | 12 | Drop | Champs?AllSigns Point 2 YES!! |  | Bears D/ST | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-SEAN-MENDOZA-A | 2026-11-25 | 11:45 | 12 | Add | Ayahuasca and Cucking |  | Fernando Mendoza | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-SEAN-HOLLINS-D | 2026-11-25 | 11:45 | 12 | Drop | Ayahuasca and Cucking |  | Mack Hollins | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
