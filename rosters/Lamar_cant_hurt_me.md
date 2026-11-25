@@ -4,7 +4,7 @@
 
 - Team ID: `TEAM_03`
 - Manager: Sean Vitale
-- Snapshot date: **2026-11-19**
+- Snapshot date: **2026-11-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: User-provided authoritative initialization data
 - Authoritative: **YES**
@@ -23,6 +23,7 @@
 - WR Stefon Diggs, WSH
 - WR Deebo Samuel Sr., SF
 - WR Romeo Doubs, NE
+- QB Fernando Mendoza, LV
 - TE Mike Gesicki, CIN
 - TE Dalton Schultz, HOU
 - D/ST Texans, HOU
@@ -38,3 +39,5 @@
 - 2026-11-18 7:46 PM ET ESPN: added Cam Ward (TEN QB), dropped Tyler Shough (NO QB). Tyler Shough was not in the prior roster snapshot, so this establishes an intervening unlogged acquisition rather than removal of Malik Willis.
 
 - 2026-11-19 5:15 PM ET ESPN: added Dalton Schultz with no corresponding drop shown.
+
+- 2026-11-25 11:45 AM ET ESPN: added Fernando Mendoza (LV QB), dropped Mack Hollins (NE WR). Mack Hollins was not present in prior snapshot, so his earlier acquisition is unlogged; no other player was removed.
