@@ -439,3 +439,7 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261125-CHRIS-BEARS-D | 2026-11-25 | 10:25 | 12 | Drop | Champs?AllSigns Point 2 YES!! |  | Bears D/ST | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-SEAN-MENDOZA-A | 2026-11-25 | 11:45 | 12 | Add | Ayahuasca and Cucking |  | Fernando Mendoza | Free Agency | Ayahuasca and Cucking |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-SEAN-HOLLINS-D | 2026-11-25 | 11:45 | 12 | Drop | Ayahuasca and Cucking |  | Mack Hollins | Ayahuasca and Cucking | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAUL-49ERS-A | 2026-11-25 | 14:45 | 12 | Add | The Branch Covidians |  | 49ers D/ST | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAUL-BILLS-D | 2026-11-25 | 14:45 | 12 | Drop | The Branch Covidians |  | Bills D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAUL-BECH-A | 2026-11-25 | 14:45 | 12 | Add | The Branch Covidians |  | Jack Bech | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-PAUL-ANDREWS-D | 2026-11-25 | 14:45 | 12 | Drop | The Branch Covidians |  | Mark Andrews | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
