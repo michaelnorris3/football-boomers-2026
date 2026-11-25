@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -20,8 +20,8 @@
 - IR Davante Adams, LAR
 - WR Xavier Worthy, KC
 - TE Harold Fannin Jr., CLE
-- TE Mark Andrews, BAL
-- D/ST Bills, BUF
+- WR Jack Bech, LV
+- D/ST 49ers, SF
 - K Spencer Shrader, IND
 - WR Devaughn Vele, NO
 - WR Ryan Flournoy, DAL
@@ -40,3 +40,5 @@
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
 
 - 2026-11-18 ESPN activity: Steelers D/ST -> Buccaneers D/ST -> Bills D/ST (two consecutive add/drops).
+
+- 2026-11-25 2:45 PM ET ESPN: added 49ers D/ST, dropped Bills D/ST; added Jack Bech (LV WR), dropped Mark Andrews (BAL TE).
