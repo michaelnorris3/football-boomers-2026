@@ -14,7 +14,7 @@
 
 - RB Cam Skattebo, NYG
 
-- D/ST Chiefs, KC
+- D/ST Buccaneers, TB
 
 
 - QB Trevor Lawrence, JAX
@@ -41,3 +41,5 @@
 - 2026-11-21 8:29 AM ET ESPN activity: added T.J. Hockenson (MIN TE), dropped A.J. Brown (NE WR).
 
 - 2026-11-25 ESPN waiver run: added Dylan Sampson (CLE RB), dropped Dallas Goedert (PHI TE).
+
+- 2026-11-25 7:21 AM ET: added Buccaneers D/ST, dropped Chiefs D/ST.
