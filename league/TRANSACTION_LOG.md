@@ -424,3 +424,9 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261122-CHRIS-GAY-D | 2026-11-22 | 11:43 | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Matt Gay | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
 | TX-20261122-CHRIS-BEARS-A | 2026-11-22 | 11:53 | 11 | Add | Champs?AllSigns Point 2 YES!! |  | Bears D/ST | Free Agency | Champs?AllSigns Point 2 YES!! |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
 | TX-20261122-CHRIS-WILLIAMS-D | 2026-11-22 | 11:53 | 11 | Drop | Champs?AllSigns Point 2 YES!! |  | Antonio Williams | Champs?AllSigns Point 2 YES!! | Waivers |  |  |  | ESPN screenshot Nov 22 | Confirmed. |
+| TX-20261125-NATE1-A | 2026-11-25 |  | 12 | Add | Long Live the King |  | Antonio Williams | Waiver | Long Live the King |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261125-NATE1-D | 2026-11-25 |  | 12 | Drop | Long Live the King |  | Elic Ayomanor | Long Live the King | Waivers |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261125-BOOMERS-A | 2026-11-25 |  | 12 | Add | boomers. |  | Dylan Sampson | Waiver | boomers. |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261125-BOOMERS-D | 2026-11-25 |  | 12 | Drop | boomers. |  | Dallas Goedert | boomers. | Waivers |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261125-NATE2-A | 2026-11-25 |  | 12 | Add | Long Live the King |  | Deshaun Watson | Waiver | Long Live the King |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
+| TX-20261125-NATE2-D | 2026-11-25 |  | 12 | Drop | Long Live the King |  | Will Reichard | Long Live the King | Waivers |  |  |  | ESPN waiver report Nov 25 | Confirmed. |
