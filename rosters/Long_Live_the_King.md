@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_05`
 - Manager: Nathaniel Smith
-- Snapshot date: **2026-11-19**
+- Snapshot date: **2026-11-25**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -19,12 +19,12 @@
 - TE Sam LaPorta, DET
 - IR Mike Evans, SF
 - K Ka'imi Fairbairn, HOU
-- K Will Reichard, MIN
+- QB Deshaun Watson, CLE
 - QB Matthew Stafford, LAR
 - RB Chuba Hubbard, CAR
 - TE Travis Kelce, KC
 - D/ST Vikings, MIN
-- WR Elic Ayomanor, TEN
+- WR Antonio Williams, WSH
 
 ## Reconciliation notes
 
@@ -34,3 +34,5 @@
 - 2026-11-18 10:37 AM ET ESPN: added Kirk Cousins (MIN QB), dropped Adonai Mitchell (NYJ WR).
 
 - 2026-11-19 ESPN: added Elic Ayomanor, dropped Kyle Pitts Sr.; separately dropped Lamar Jackson.
+
+- 2026-11-25 ESPN waiver run: added Antonio Williams, dropped Elic Ayomanor; added Deshaun Watson, dropped Will Reichard.
