@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_07`
 - Manager: Paul Gangi
-- Snapshot date: **2026-11-25**
+- Snapshot date: **2026-11-26**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -22,7 +22,7 @@
 - TE Harold Fannin Jr., CLE
 - WR Jack Bech, LV
 - D/ST 49ers, SF
-- K Spencer Shrader, IND
+- K Chase McLaughlin, TB
 - WR Devaughn Vele, NO
 - WR Ryan Flournoy, DAL
 
@@ -42,3 +42,5 @@
 - 2026-11-18 ESPN activity: Steelers D/ST -> Buccaneers D/ST -> Bills D/ST (two consecutive add/drops).
 
 - 2026-11-25 2:45 PM ET ESPN: added 49ers D/ST, dropped Bills D/ST; added Jack Bech (LV WR), dropped Mark Andrews (BAL TE).
+
+- 2026-11-26 10:18 AM ET ESPN: added Chase McLaughlin (TB K), dropped Spencer Shrader (IND K).
