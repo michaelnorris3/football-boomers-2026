@@ -2,7 +2,7 @@
 
 - Team ID: `TEAM_01`
 - Manager: Andrew Leonard
-- Snapshot date: **2026-11-18**
+- Snapshot date: **2026-11-26**
 - Snapshot status: **AUTHORITATIVE CURRENT SNAPSHOT**
 - Source: ESPN Week 9 roster screenshots supplied 2026-11-03
 - Authoritative: **YES**
@@ -27,6 +27,7 @@
 - TE George Kittle, SF
 - K Harrison Butker, KC
 - QB Drake Maye, NE
+- RB Samaje Perine, CIN
 
 ## Reconciliation notes
 
@@ -35,3 +36,5 @@
 - RJ Harvey appears on the active fantasy bench with an NFL IR injury designation, not in the fantasy IR slot.
 
 - 2026-11-18: roster reconciled to ESPN waiver report and confirmed morning activity screenshots.
+
+- 2026-11-25 3:49 PM ET ESPN: added Samaje Perine (CIN RB) to an open roster spot, no drop shown.
