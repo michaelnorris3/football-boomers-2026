@@ -443,3 +443,6 @@ Player IDs were not supplied in the initialization data, so the Player ID column
 | TX-20261125-PAUL-BILLS-D | 2026-11-25 | 14:45 | 12 | Drop | The Branch Covidians |  | Bills D/ST | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-PAUL-BECH-A | 2026-11-25 | 14:45 | 12 | Add | The Branch Covidians |  | Jack Bech | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
 | TX-20261125-PAUL-ANDREWS-D | 2026-11-25 | 14:45 | 12 | Drop | The Branch Covidians |  | Mark Andrews | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 25 | Confirmed. |
+| TX-20261125-ANDREW-PERINE-A | 2026-11-25 | 15:49 | 12 | Add | The Team Who Would Be Champs |  | Samaje Perine | Free Agency | The Team Who Would Be Champs |  |  |  | ESPN screenshot Nov 26 | Confirmed standalone add. |
+| TX-20261126-PAUL-MCLAUGHLIN-A | 2026-11-26 | 10:18 | 12 | Add | The Branch Covidians |  | Chase McLaughlin | Free Agency | The Branch Covidians |  |  |  | ESPN screenshot Nov 26 | Confirmed. |
+| TX-20261126-PAUL-SHRADER-D | 2026-11-26 | 10:18 | 12 | Drop | The Branch Covidians |  | Spencer Shrader | The Branch Covidians | Waivers |  |  |  | ESPN screenshot Nov 26 | Confirmed. |
